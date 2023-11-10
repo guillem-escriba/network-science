@@ -1,0 +1,2930 @@
+	disorder	class	gene_list
+0	17,20-lyase deficiency, isolated	Endocrine	CYP17A1, CYP17, P450C17
+1	17-alpha-hydroxylase/17,20-lyase deficiency	Endocrine	CYP17A1, CYP17, P450C17
+2	2-methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency	Metabolic	HADH2, ERAB
+3	2-methylbutyrylglycinuria	Metabolic	ACADSB
+4	3-beta-hydroxysteroid dehydrogenase, type II, deficiency	Metabolic	HSD3B2
+5	3-hydroxyacyl-CoA dehydrogenase deficiency	Metabolic	HADHSC, SCHAD
+6	3-Methylcrotonyl-CoA carboxylase 1 deficiency	Metabolic	MCCC1, MCCA
+7	3-Methylcrotonyl-CoA carboxylase 2 deficiency	Metabolic	MCCC2, MCCB
+8	3-methylglutaconic aciduria, type I	Metabolic	AUH
+9	3-methylglutaconicaciduria, type III	Metabolic	OPA3, MGA3
+10	3-M syndrome	multiple	CUL7
+11	6-mercaptopurine sensitivity	Metabolic	TPMT
+12	Aarskog-Scott syndrome	multiple	FGD1, FGDY, AAS
+13	Abacavir hypersensitivity, susceptibility to	Immunological	HLA-B
+14	ABCD syndrome	multiple	EDNRB, HSCR2, ABCDS
+15	Abetalipoproteinemia	Metabolic	MTP
+16	Abetalipoproteinemia	Metabolic	APOB, FLDB
+17	Acampomelic campolelic dysplasia	Skeletal	SOX9, CMD1, SRA1
+18	Acatalasemia	Hematological	CAT
+19	Accelerated tumor formation, susceptibility to	Cancer	MDM2
+20	Achalasia-addisonianism-alacrimia syndrome	multiple	AAAS, AAA
+21	Acheiropody	Skeletal	C7orf2, ACHP, LMBR1
+22	Achondrogenesis-hypochondrogenesis, type II	Bone	COL2A1
+23	Achondrogenesis Ib	Bone	SLC26A2, DTD, DTDST, D5S1708, EDM4
+24	Achondroplasia	Skeletal	FGFR3, ACH
+25	Achromatopsia-2	Ophthamological	CNGA3, CNG3, ACHM2
+26	Achromatopsia-3	Ophthamological	CNGB3, ACHM3
+27	Achromatopsia-4	Ophthamological	GNAT2, ACHM4
+28	Acid-labile subunit, deficiency of	Endocrine	IGFALS, ALS
+29	Acquired long QT syndrome, susceptibility to	Cardiovascular	KCNH2, LQT2, HERG
+30	Acrocallosal syndrome	multiple	GLI3, PAPA, PAPB, ACLS
+31	Acrocapitofemoral dysplasia	Skeletal	IHH, BDA1
+32	Acrodermatitis enteropathica	Dermatological	SLC39A4, ZIP4
+33	Acrokeratosis verruciformis	Dermatological	ATP2A2, ATP2B, DAR
+34	Acromegaly	Endocrine	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+35	Acromegaly	Endocrine	SSTR5
+36	Acromesomelic dysplasia, Hunter-Thompson type	Skeletal	GDF5, CDMP1
+37	Acromesomelic dysplasia, Maroteaux type	Skeletal	NPR2, ANPRB, AMDM
+38	Acyl-CoA dehydrogenase, long chain, deficiency of	Metabolic	ACADL, LCAD
+39	Acyl-CoA dehydrogenase, medium chain, deficiency of	Metabolic	ACADM, MCAD
+40	Acyl-CoA dehydrogenase, short-chain, deficiency of	Metabolic	ACADS, SCAD
+41	Adenocarcinoma of lung, response to tyrosine kinase inhibitor in	Cancer	EGFR
+42	Adenocarcinoma of lung, somatic	Cancer	BRAF
+43	Adenocarcinoma of lung, somatic	Cancer	ERBB2, NGL, NEU, HER2
+44	Adenocarcinoma of lung, somatic	Cancer	PRKN, PARK2, PDJ
+45	Adenocarcinoma, ovarian, somatic	Cancer	PRKN, PARK2, PDJ
+46	Adenoma, periampullary	Cancer	APC, GS, FPC
+47	Adenomas, multiple colorectal	Cancer	MUTYH
+48	Adenomas, salivary gland pleomorphic	Cancer	PLAG1, SGPA, PSA
+49	Adenomatous polyposis coli	Cancer	APC, GS, FPC
+50	Adenomatous polyposis coli, attenuated	Cancer	APC, GS, FPC
+51	Adenosine deaminase deficiency, partial	Immunological	ADA
+52	Adenylosuccinase deficiency	Metabolic	ADSL
+53	Adiponectin deficiency	Endocrine	APM1, GBP28
+54	Adrenal adenoma, sporadic	Cancer	MEN1
+55	Adrenal cortical carcinoma	Cancer	TP53, P53, LFS1
+56	Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency	Endocrine	CYP11B1, P450C11, FHI
+57	Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency	Endocrine	CYP21A2, CYP21, CA21H
+58	Adrenal hyperplasia, congenital, due to combined P450C17 and P450C21 deficiency, 201750	Endocrine	POR
+59	Adrenal hypoplasia, congenital, with hypogonadotropic hypogonadism	Endocrine	DAX1, AHC, AHX, NROB1
+60	Adrenocortical insufficiency without ovarian defect	Endocrine	FTZF1, FTZ1, SF1
+61	Adrenocortical tumor, somatic	Cancer	PRKAR1A, TSE1, CNC1, CAR
+62	Adrenocorticotropic hormone deficiency	Endocrine	TBS19
+63	Adrenoleukodystrophy	Neurological	ABCD1, ALD, AMN
+64	Adrenoleukodystrophy, neonatal	Neurological	PEX10, NALD
+65	Adrenoleukodystrophy, neonatal	Neurological	PEX13, ZWS, NALD
+66	Adrenoleukodystrophy, neonatal	Neurological	PEX1, ZWS1
+67	Adrenoleukodystrophy, neonatal	Neurological	PEX26
+68	Adrenoleukodystrophy, neonatal	Neurological	PXR1, PEX5, PTS1R
+69	Adrenomyeloneuropathy	Metabolic	ABCD1, ALD, AMN
+70	Adult i phenotype with congenital cataract	Hematological	GCNT2
+71	Adult i phenotype without cataract	Hematological	GCNT2
+72	ADULT syndrome	multiple	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+73	Advanced sleep phase syndrome, familial	Neurological	PER2, FASPS, KIAA0347
+74	Afibrinogenemia	Hematological	FGA
+75	Afibrinogenemia, congenital	Hematological	FGB
+76	Agammaglobulinemia	Hematological	IGHM, MU
+77	Agammaglobulinemia, autosomal recessive	Hematological	IGLL1, IGO, IGL5, VPREB2
+78	Agammaglobulinemia, non-Bruton type	Hematological	LRRC8, KIAA1437
+79	Agammaglobulinemia, type 1, X-linked	Hematological	BTK, AGMX1, IMD1, XLA, AT
+80	AGAT deficiency	Metabolic	GATM, AGAT
+81	Agenesis of the corpus callosum with peripheral neuropathy	Neurological	SLC12A6, KCC3A, KCC3B, KCC3, ACCPN
+82	AICA-ribosiduria due to ATIC deficiency	Metabolic	ATIC, PURH, AICAR
+83	AIDS, delayed/rapid progression to	Immunological	KIR3DL1, NKAT3, NKB1, AMB11, KIR3DS1
+84	AIDS, rapid progression to	Immunological	IFNG
+85	AIDS, resistance to	Immunological	CXCL12, SDF1
+86	Alagille syndrome	multiple	JAG1, AGS, AHD
+87	Albinism, brown oculocutaneous,	Dermatological	OCA2, P, PED, D15S12, BOCA
+88	Albinism, ocular, autosomal recessive	Dermatological	OCA2, P, PED, D15S12, BOCA
+89	Albinism, oculocutaneous, type IA	Dermatological	TYR
+90	Albinism, oculocutaneous, type IB	Dermatological	TYR
+91	Albinism, oculocutaneous, type II	Dermatological	OCA2, P, PED, D15S12, BOCA
+92	Albinism, rufous	Dermatological	TYRP1, CAS2, GP75
+93	Alcohol dependence, susceptibility to	Unclassified	HTR2A
+94	Alcohol intolerance, acute	Metabolic	ALDH2
+95	Alcoholism, susceptibility to	Unclassified	GABRA2
+96	Aldolase A deficiency	Metabolic	ALDOA
+97	Aldosterone to renin ratio raised	Endocrine	CYP11B2
+98	Aldosteronism, glucocorticoid-remediable	Endocrine	CYP11B1, P450C11, FHI
+99	Alexander disease	multiple	GFAP
+100	Alexander disease	multiple	NDUFV1, UQOR1
+101	Alkaptonuria	Metabolic	HGD, AKU
+102	Allan-Herndon-Dudley syndrome	Neurological	SLC16A2, DXS128, XPCT
+103	Allergic rhinitis, susceptibility to	Immunological	IL13, ALRH
+104	Alopecia universalis	Dermatological	HR, AU
+105	Alpers syndrome	Neurological	POLG, POLG1, POLGA, PEO
+106	Alpha-1-antichymotrypsin deficiency	Respiratory	SERPINA3, AACT, ACT
+107	Alpha-actinin-3 deficiency	Muscular	ACTN3
+108	Alpha-methylacetoacetic aciduria	Metabolic	ACAT1
+109	Alpha-methylacyl-CoA racemase deficiency	Metabolic	AMACR
+110	Alpha-thalassemia/mental retardation syndrome	Hematological	ATRX, XH2, XNP, MRXS3, SHS
+111	Alpha-thalassemia myelodysplasia syndrome, somatic	Hematological	ATRX, XH2, XNP, MRXS3, SHS
+112	Alport syndrome	Renal	COL4A5, ATS, ASLN
+113	Alport syndrome, autosomal recessive	Renal	COL4A3
+114	Alport syndrome, autosomal recessive	Renal	COL4A4
+115	Alstrom syndrome	Neurological	ALMS1, ALSS, KIAA0328
+116	Alternating hemiplegia of childhood	Neurological	ATP1A2, FHM2, MHP2
+117	Alveolar soft-part sarcoma	Cancer	ASPCR1, RCC17, ASPL, ASPS
+118	Alzheimer disease-1, APP-related	Neurological	APP, AAA, CVAP, AD1
+119	Alzheimer disease-2	Neurological	APOE, AD2
+120	Alzheimer disease-4	Neurological	PSEN2, AD4, STM2
+121	Alzheimer disease, late-onset	Neurological	APBB2, FE65L1
+122	Alzheimer disease, late-onset, susceptibility to	Neurological	NOS3
+123	Alzheimer disease, late-onset, susceptibility to	Neurological	PLAU, URK
+124	Alzheimer disease, susceptibility to	Neurological	ACE, DCP1, ACE1
+125	Alzheimer disease, susceptibility to	Neurological	MPO
+126	Alzheimer disease, susceptibility to	Neurological	PACIP1, PAXIP1L, PTIP
+127	Alzheimer disease, susceptibility to	Neurological	A2M
+128	Alzheimer disease, susceptibility to	Neurological	BLMH, BMH
+129	Alzheimer disease, type 3	Neurological	PSEN1, AD3
+130	Alzheimer disease, type 3, with spastic paraparesis and apraxia	Neurological	PSEN1, AD3
+131	Alzheimer disease, type 3, with spastic paraparesis and unusual plaques	Neurological	PSEN1, AD3
+132	Amelogenesis imperfecta 2, hypoplastic local	Bone	ENAM
+133	Amelogenesis imperfecta	Bone	AMELX, AMG, AIH1, AMGX
+134	Amelogenesis imperfecta, hypomaturation-hypoplastic type, with taurodontism	Bone	DLX3, TDO
+135	Amelogenesis imperfecta, hypoplastic, and openbite malocclusion	Bone	ENAM
+136	Amelogenesis imperfecta, pigmented hypomaturation type	Bone	KLK4, EMSP1, PRSS17
+137	Amish infantile epilepsy syndrome	Neurological	SIAT9, ST3GALV
+138	AMP deaminase deficiency, erythrocytic	Hematological	AMPD3
+139	Amyloid neuropathy, familial, several allelic types	Neurological	TTR, PALB
+140	Amyloidosis, 3 or more types	Neurological	APOA1
+141	Amyloidosis, cerebroarterial, Dutch type	Neurological	APP, AAA, CVAP, AD1
+142	Amyloidosis, Finnish type	Neurological	GSN
+143	Amyloidosis, hereditary renal	Neurological	FGA
+144	Amyloidosis, renal	Neurological	LYZ
+145	Amyloidosis, senile systemic	Neurological	TTR, PALB
+146	Amyotrophic lateral sclerosis 8	Neurological	VAPB, VAPC, ALS8
+147	Amyotrophic lateral sclerosis, due to SOD1 deficiency	Neurological	SOD1, ALS1
+148	Amyotrophic lateral sclerosis, juvenile	Neurological	ALS2, ALSJ, PLSJ, IAHSP
+149	Amyotrophic lateral sclerosis, susceptibility to	Neurological	DCTN1
+150	Amyotrophic lateral sclerosis, susceptibility to	Neurological	NEFH
+151	Amyotrophic lateral sclerosis, susceptibility to	Neurological	PRPH
+152	Analbuminemia	Hematological	ALB
+153	Analgesia from kappa-opioid receptor agonist, female-specific	Unclassified	MC1R
+154	Anderson disease	Gastrointestinal	SARA2, SAR1B, CMRD
+155	Androgen insensitivity	Endocrine	AR, DHTR, TFM, SBMA, KD, SMAX1
+156	Anemia, congenital dyserythropoietic, type I	Hematological	CDAN1, CDA1
+157	Anemia, Diamond-Blackfan	Hematological	RPS19, DBA
+158	Anemia, hemolytic, due to PK deficiency	Hematological	PKLR, PK1
+159	Anemia, hemolytic, due to UMPH1 deficiency	Hematological	NT5C3, UMPH1, PSN1
+160	Anemia, hemolytic, Rh-null, regulator type	Hematological	RHAG, RH50A
+161	Anemia, hypochromic microcytic	Hematological	NRAMP2
+162	Anemia, neonatal hemolytic, fatal and near-fatal	Hematological	SPTB
+163	Anemia, sideroblastic/hypochromic	Hematological	ALAS2, ANH1, ASB
+164	Anemia, sideroblastic, with ataxia	Hematological	ABCB7, ABC7, ASAT
+165	Aneurysm, familial arterial	Unclassified	COL3A1
+166	Angelman syndrome	Developmental	MECP2, RTT, PPMX, MRX16, MRX79
+167	Angelman syndrome	Developmental	UBE3A, ANCR
+168	Angioedema, hereditary	Immunological	C1NH, HAE1, HAE2, SERPING1
+169	Angioedema induced by ACE inhibitors, susceptibility to	Immunological	XPNPEP2
+170	Angiofibroma, sporadic	Endocrine	MEN1
+171	Angiotensin I-converting enzyme, benign serum increase	Endocrine	ACE, DCP1, ACE1
+172	Anhaptoglobinemia	Hematological	HP
+173	Aniridia, type II	Ophthamological	PAX6, AN2, MGDA
+174	Ankylosing spoldylitis, susceptibility to	Connective tissue	HLA-B
+175	Anophthalmia 3	Ophthamological	SOX2, ANOP3
+176	Anorexia nervosa, susceptibility to	Nutritional	HTR2A
+177	Anterior segment anomalies and cataract	Ophthamological	EYA1, BOR
+178	Anterior segment mesenchymal dysgenesis	Ophthamological	FOXE3, FKHL12, ASMD
+179	Anterior segment mesenchymal dysgenesis	Ophthamological	FOXC1, FKHL7, FREAC3
+180	Anterior segment mesenchymal dysgenesis and cataract	Ophthamological	PITX3
+181	Antithrombin III deficiency	Hematological	AT3
+182	Antley-Bixler syndrome	Unclassified	POR
+183	Anxiety-related personality traits	Psychiatric	SLC6A4, HTT, OCD1
+184	Aortic aneurysm, ascending, and dissection	Cardiovascular	FBN1, MFS1, WMS
+185	Apert syndrome	Connective tissue	FGFR2, BEK, CFD1, JWS
+186	Aplasia of lacrimal and salivary glands	Gastrointestinal	FGF10
+187	Aplastic anemia	Hematological	IFNG
+188	Aplastic anemia	Hematological	TERC, TRC3, TR
+189	Aplastic anemia, susceptibility to	Hematological	TERT, TCS1, EST2
+190	Apnea, postanesthetic	Unclassified	BCHE, CHE1
+191	ApoA-I and apoC-III deficiency, combined	Metabolic	APOA1
+192	Apolipoprotein A-II deficiency	Metabolic	APOA2
+193	Apolipoprotein C3 deficiency	Metabolic	APOC3
+194	Apolipoprotein H deficiency	Metabolic	APOH
+195	Apparent mineralocorticoid excess, hypertension due to	Bone	HSD11B2, HSD11K
+196	Aquaporin-1 deficiency	Unclassified	AQP1, CHIP28, CO
+197	ARC syndrome	Gastrointestinal	VPS33B
+198	Argininemia	Metabolic	ARG1
+199	Argininosuccinic aciduria	Metabolic	ASL
+200	Aromatase deficiency	Metabolic	CYP19A1, CYP19, ARO
+201	Aromatic L-amino acid decarboxylase deficiency	Metabolic	DDC
+202	Arrhythmogenic right ventricular dysplasia 2	Cardiovascular	RYR2, VTSIP
+203	Arrhythmogenic right ventricular dysplasia 8	Cardiovascular	DSP, KPPS2, PPKS2
+204	Arrhythmogenic right ventricular dysplasia, familial, 9	Cardiovascular	PKP2, ARVD9
+205	Arthrogryposis multiplex congenita, distal, type 1	Developmental	TPM2, TMSB, AMCD1, DA1
+206	Arthrogryposis multiplex congenita, distal, type 2B	Developmental	TNNI2, AMCD2B, DA2B, FSSV
+207	Arthropathy, progressive pseudorheumatoid, of childhood	Bone	WISP3, PPAC, PPD
+208	Arthyrgryposis multiplex congenita, distal, type 2B	Developmental	TNNT3, AMCD2B, DA2B, FSSV
+209	Aspartylglucosaminuria	Metabolic	AGA
+210	Asperger syndrome	Psychiatric	NLGN3
+211	Asperger syndrome	Psychiatric	NLGN4, KIAA1260, AUTSX2
+212	Asthma	Respiratory	PHF11, NYREN34
+213	Asthma, atopic, susceptibility to	Respiratory	MS4A2, FCER1B
+214	Asthma, dimished response to antileukotriene treatment in	Respiratory	ALOX5
+215	Asthma, nocturnal, susceptibility to	Respiratory	ADRB2
+216	Asthma, susceptibility to, 1	Respiratory	PTGDR, AS1
+217	Asthma, susceptibility to, 2	Respiratory	GPR154, GPRA, VRR1, PGR14
+218	Asthma, susceptibility to	Respiratory	HNMT
+219	Asthma, susceptibility to	Respiratory	IL12B, NKSF2
+220	Asthma, susceptibility to	Respiratory	IL13, ALRH
+221	Asthma, susceptibility to	Respiratory	PLA2G7, PAFAH
+222	Asthma, susceptibility to	Respiratory	SCGB3A2, UGRP1
+223	Asthma, susceptibility to	Respiratory	TNF, TNFA
+224	Asthma, susceptibility to	Respiratory	UGB, CC10, CCSP, SCGB1A1
+225	Ataxia, cerebellar, Cayman type	Neurological	ATCAY, CLAC, KIAA1872
+226	Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia	Neurological	APTX, AOA, AOA1
+227	Ataxia, episodic	Neurological	CACNB4, EJM
+228	Ataxia-ocular apraxia-2	Neurological	SETX, SCAR1, AOA2
+229	Ataxia-telangiectasia	Immunological	ATM, ATA, AT1
+230	Ataxia-telangiectasia-like disorder	Immunological	MRE11A, MRE11, ATLD
+231	Ataxia with isolated vitamin E deficiency	Neurological	TTPA, TTP1, AVED
+232	Atelosteogenesis II	Connective tissue	SLC26A2, DTD, DTDST, D5S1708, EDM4
+233	Atelostogenesis, type I	Connective tissue	FLNB, SCT, AOI
+234	Athabaskan brainstem dysgenesis syndrome	Neurological	HOXA1, HOX1F, BSAS
+235	Atherosclerosis, susceptibility to	Cardiovascular	ALOX5
+236	Atopy	Immunological	SPINK5, LEKTI
+237	Atopy, resistance to	Immunological	HAVCR1, HAVCR
+238	Atopy, susceptibility to	Immunological	PLA2G7, PAFAH
+239	Atopy, susceptibility to	Immunological	SELP, GRMP
+240	Atopy, susceptibility to	Immunological	IL4R, IL4RA
+241	Atransferrinemia	Hematological	TF
+242	Atrial fibrillation, familial	Cardiovascular	KCNE2, MIRP1, LQT6
+243	Atrial fibrillation, familial	Cardiovascular	KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1
+244	Atrial septal defect-2	Cardiovascular	GATA4
+245	Atrial septal defect 3	Cardiovascular	MYH6, ASD3, MYHCA
+246	Atrial septal defect with atrioventricular conduction defects	Cardiovascular	NKX2E, CSX
+247	Atrichia with papular lesions	Dermatological	HR, AU
+248	Atrioventricular block, idiopathic second-degree	Cardiovascular	NKX2E, CSX
+249	Atrioventricular septal defect	Cardiovascular	GJA1, CX43, ODDD, SDTY3, ODOD
+250	Atrioventricular septal defect, partial, with heterotaxy syndrome	Cardiovascular	CRELD1, AVSD2
+251	Atrioventricular septal defect, susceptibility to, 2	Cardiovascular	CRELD1, AVSD2
+252	Attention deficit-hyperactivity disorder, susceptibility to	Psychiatric	DRD5, DRD1B, DRD1L2
+253	Autism, susceptibility to	Psychiatric	GLO1
+254	Autism, X-linked	Psychiatric	MECP2, RTT, PPMX, MRX16, MRX79
+255	Autism, X-linked	Psychiatric	NLGN3
+256	Autism, X-linked	Psychiatric	NLGN4, KIAA1260, AUTSX2
+257	Autoimmune lymphoproliferative syndrome	Immunological	TNFRSF6, APT1, FAS, CD95, ALPS1A
+258	Autoimmune lymphoproliferative syndrome, type IA	Immunological	TNFRSF6, APT1, FAS, CD95, ALPS1A
+259	Autoimmune lymphoproliferative syndrome, type II	Immunological	CASP10, MCH4, ALPS2
+260	Autoimmune lymphoproliferative syndrome, type IIB	Immunological	CASP8, MCH5
+261	Autoimmune polyglandular disease, type I	Immunological	AIRE, APECED
+262	Autoimmune thyroid disease, susceptibility to 3	Endocrine	TG, AITD3
+263	Autonomic nervous system dysfunction	Psychiatric	DRD4
+264	Axenfeld anomaly	Ophthamological	FOXC1, FKHL7, FREAC3
+265	Azoospermia	Endocrine	USP9Y, DFFRY
+266	Azoospermia due to perturbations of meiosis	Endocrine	SYCP3, SCP3, COR1
+267	Bamforth-Lazarus syndrome	Endocrine	FOXE1, FKHL15, TITF2, TTF2
+268	Bannayan-Riley-Ruvalcaba syndrome	Unclassified	PTEN, MMAC1
+269	Bannayan-Zonana syndrome	Unclassified	PTEN, MMAC1
+270	Bardet-Biedl syndrome 1	multiple	BBS1
+271	Bardet-Biedl syndrome 1, modifier of	multiple	ARL6, BBS3
+272	Bardet-Biedl syndrome	multiple	BBS7
+273	Bardet-Biedl syndrome 2	multiple	BBS2
+274	Bardet-Biedl syndrome 3	multiple	ARL6, BBS3
+275	Bardet-Biedl syndrome 4	multiple	BBS4
+276	Bardet-Biedl syndrome 5	multiple	BBS5
+277	Bardet-Biedl syndrome 6	multiple	MKKS, HMCS, KMS, MKS, BBS6
+278	Bardet-Biedl syndrome 8	multiple	TTC8, BBS8
+279	Bare lymphocyte syndrome, type I	Immunological	TAPBP, TPSN
+280	Bare lymphocyte syndrome, type I, due to TAP2 deficiency	Immunological	TAP2, ABCB3, PSF2, RING11
+281	Bare lymphocyte syndrome, type II, complementation group A	Immunological	MHC2TA, C2TA
+282	Bare lymphocyte syndrome, type II, complementation group C	Immunological	RFX5
+283	Bare lymphocyte syndrome, type II, complementation group D	Immunological	RFXAP
+284	Bare lymphocyte syndrome, type II, complementation group E	Immunological	RFX5
+285	Barth syndrome	multiple	TAZ, EFE2, BTHS, CMD3A, LVNCX
+286	Bart-Pumphrey syndrome	multiple	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+287	Bartter syndrome, type 1	multiple	SLC12A1, NKCC2
+288	Bartter syndrome, type 2	multiple	KCNJ1, ROMK1
+289	Bartter syndrome, type 3	multiple	CLCNKB
+290	Bartter syndrome, type 4	multiple	BSND
+291	Bartter syndrome, type 4, digenic	multiple	CLCNKA
+292	Bartter syndrome, type 4, digenic	multiple	CLCNKB
+293	Basal cell carcinoma	Cancer	RASA1, GAP, CMAVM, PKWS
+294	Basal cell carcinoma, somatic	Cancer	PTCH2
+295	Basal cell carcinoma, somatic	Cancer	PTCH, NBCCS, BCNS, HPE7
+296	Basal cell carcinoma, sporadic	Cancer	SMOH, SMO
+297	Basal cell nevus syndrome	multiple	PTCH, NBCCS, BCNS, HPE7
+298	Basal ganglia disease, adult-onset	Neurological	FTL
+299	Basal ganglia disease, biotin-responsive	Neurological	SLC19A3
+300	B-cell non-Hodgkin lymphoma, high-grade	Cancer	BCL7A, BCL7
+301	BCG infection, generalized familial	Immunological	IFNGR1
+302	Beare-Stevenson cutis gyrata syndrome	multiple	FGFR2, BEK, CFD1, JWS
+303	Becker muscular dystrophy	Muscular	DMD, BMD
+304	Becker muscular dystrophy modifier	Muscular	MYF6
+305	Beckwith-Wiedemann syndrome	multiple	CDKN1C, KIP2, BWS
+306	Beckwith-Wiedemann syndrome	multiple	H19, D11S813E, ASM1, BWS
+307	Beckwith-Wiedemann syndrome	multiple	KCNQ10T1, LIT1
+308	Beckwith-Wiedemann syndrome	multiple	NSD1, ARA267, STO
+309	Benzene toxicity, susceptibility to	Unclassified	NQO1, DIA4, NMOR1
+310	Bernard-Soulier syndrome	Hematological	GP1BA
+311	Bernard-Soulier syndrome, type B	Hematological	GP1BB
+312	Bernard-Soulier syndrome, type C	Hematological	GP9
+313	Beryllium disease, chronic, susceptibility to	Unclassified	HLA-DPB1
+314	Beta-2-adrenoreceptor agonist, reduced response to	Unclassified	ADRB2
+315	Beta-ureidopropionase deficiency	Metabolic	UPB1, BUP1
+316	Bethlem myopathy	Muscular	COL6A1, OPLL
+317	Bethlem myopathy	Muscular	COL6A2
+318	Bethlem myopathy	Muscular	COL6A3
+319	Bietti crystalline corneoretinal dystrophy	Ophthamological	CYP4V2, BCD
+320	Bile acid malabsorption, primary	Gastrointestinal	SLC10A2, NTCP2
+321	Biotinidase deficiency	Metabolic	BTD
+322	Bipolar disorder, susceptibility to	Psychiatric	XBP1, XBP2
+323	Birt-Hogg-Dube syndrome	Dermatological	FLCN, BHD
+324	Bladder cancer	Cancer	FGFR3, ACH
+325	Bladder cancer	Cancer	KRAS2, RASK2
+326	Bladder cancer	Cancer	RB1
+327	Bladder cancer, somatic	Cancer	HRAS
+328	Blau syndrome	multiple	CARD15, NOD2, IBD1, CD, ACUG, PSORAS1
+329	Bleeding disorder due to defective thromboxane A2 receptor	Hematological	TBXA2R
+330	Bleeding due to platelet ADP receptor defect	Hematological	P2RX1, P2X1
+331	Blepharophimosis, epicanthus inversus, and ptosis, type 1	multiple	FOXL2, BPES, BPES1, PFRK, POF3
+332	Blepharophimosis, epicanthus inversus, and ptosis, type 2	multiple	FOXL2, BPES, BPES1, PFRK, POF3
+333	Blepharospasm, primary benign	Ophthamological	DRD5, DRD1B, DRD1L2
+334	Blood group, ABO system	Hematological	ABO
+335	Blood group, Auberger system	Hematological	LU, AU, BCAM
+336	Blood group, Colton	Hematological	AQP1, CHIP28, CO
+337	Blood group Cromer	Hematological	DAF
+338	Blood group, Diego	Hematological	SLC4A1, AE1, EPB3
+339	Blood group, Dombrock	Hematological	ART4, DO
+340	Blood group, Gerbich	Hematological	GYPC, GE, GPC
+341	Blood group GIL	Hematological	AQP3
+342	Blood group, Ii	Hematological	GCNT2
+343	Blood group, Indian system	Hematological	CD44, MDU2, MDU3, MIC4
+344	Blood group, Kell	Hematological	KEL
+345	Blood group, Kidd	Hematological	SLC14A1, JK, UTE, UT1
+346	Blood group, Knops system	Hematological	CR1, C3BR
+347	Blood group, Landsteiner-Wiener	Hematological	LW
+348	Blood group, Lewis	Hematological	FUT3, LE
+349	Blood group, Lutheran system	Hematological	LU, AU, BCAM
+350	Blood group, MN	Hematological	GYPA, MN, GPA
+351	Blood group, OK	Hematological	BSG
+352	Blood group, P system	Hematological	A4GALT, PK
+353	Blood group, P system	Hematological	B3GALT3, GLCT3, P
+354	Blood group, Rhesus	Hematological	RHCE
+355	Blood group, Ss	Hematological	GYPB, SS, MNS
+356	Blood group, Waldner	Hematological	SLC4A1, AE1, EPB3
+357	Blood group, Wright	Hematological	SLC4A1, AE1, EPB3
+358	Blood group, XG system	Hematological	XG
+359	Blood group, Yt system	Hematological	ACHE, YT
+360	Bloom syndrome	Cancer	RECQL3, RECQ2, BLM, BS
+361	Blue-cone monochromacy	Ophthamological	OPN1LW, RCP, CBP, CBBM
+362	Blue-cone monochromacy	Ophthamological	OPN1MW, GCP, CBD, CBBM
+363	Bombay phenotype	Hematological	FUT1, H, HH
+364	Bombay phenotype	Hematological	FUT2, SE
+365	Bone mineral density variability 1	Bone	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+366	Borjeson-Forssman-Lehmann syndrome	multiple	PHF6, BFLS
+367	Bosley-Salih-Alorainy syndrome	Neurological	HOXA1, HOX1F, BSAS
+368	Bothnia retinal dystrophy	Ophthamological	RLBP1
+369	Brachydactyly, type A1	Skeletal	IHH, BDA1
+370	Brachydactyly, type A2	Skeletal	BMPR1B, ALK6
+371	Brachydactyly, type B1	Skeletal	ROR2, BDB1, BDB, NTRKR2
+372	Brachydactyly, type C	Skeletal	GDF5, CDMP1
+373	Brachydactyly, type D	Skeletal	HOXD13, HOX4I, SPD
+374	Brachydactyly, type E	Skeletal	HOXD13, HOX4I, SPD
+375	Bradyopsia	Ophthamological	R9AP, RGS9, PERRS
+376	Bradyopsia	Ophthamological	RGS9, PERRS
+377	Branchiootic syndrome	Neurological	EYA1, BOR
+378	Branchiootorenal syndrome	Neurological	EYA1, BOR
+379	Branchiootorenal syndrome with cataract	Neurological	EYA1, BOR
+380	Breast and colorectal cancer, susceptibility to	Cancer	CHEK2, RAD53, CHK2, CDS1, LFS2
+381	Breast cancer	Cancer	PIK3CA
+382	Breast cancer	Cancer	PPM1D, WIP1
+383	Breast cancer	Cancer	SLC22A1L, BWSCR1A, IMPT1
+384	Breast cancer	Cancer	TP53, P53, LFS1
+385	Breast cancer-1	Cancer	BRCA1, PSCP
+386	Breast cancer 2, early onset	Cancer	BRCA2, FANCD1
+387	Breast cancer	Cancer	TSG101
+388	Breast cancer, early-onset	Cancer	BRIP1, BACH1, FANCJ
+389	Breast cancer, invasive intraductal	Cancer	RAD54L, HR54, HRAD54
+390	Breast cancer, lobular	Cancer	CDH1, UVO
+391	Breast cancer, male, susceptibility to	Cancer	BRCA2, FANCD1
+392	Breast cancer, male, with Reifenstein syndrome	Cancer	AR, DHTR, TFM, SBMA, KD, SMAX1
+393	Breast cancer, somatic	Cancer	KRAS2, RASK2
+394	Breast cancer, somatic	Cancer	RB1CC1, CC1, KIAA0203
+395	Breast cancer, sporadic	Cancer	PHB
+396	Breast cancer, susceptibility to	Cancer	ATM, ATA, AT1
+397	Breast cancer, susceptibility to	Cancer	BARD1
+398	Breast cancer, susceptibility to	Cancer	CHEK2, RAD53, CHK2, CDS1, LFS2
+399	Breast cancer, susceptibility to	Cancer	RAD51A, RECA
+400	Breast cancer, susceptibility to	Cancer	XRCC3
+401	Breast-ovarian cancer	Cancer	BRCA1, PSCP
+402	Brody myopathy	Muscular	ATP2A1, SERCA1
+403	Bruck syndrome 2	Unclassified	PLOD2
+404	Brugada syndrome	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+405	Brunner syndrome	Unclassified	MAOA
+406	Burkitt lymphoma	Cancer	MYC
+407	Buschke-Ollendorff syndrome	multiple	LEMD3, MAN1
+408	Butterfly dystrophy, retinal	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+409	C1q deficiency, type A	Immunological	C1QA
+410	C1q deficiency, type B	Immunological	C1QB
+411	C1q deficiency, type C	Immunological	C1QG
+412	C1s deficiency, isolated	Immunological	C1S
+413	C2 deficiency	Immunological	C2
+414	C3b inactivator deficiency	Immunological	IF
+415	C3 deficiency	Immunological	C3
+416	C4 deficiency	Immunological	C4A, C4S
+417	C4 deficiency	Immunological	C4B, C4F
+418	C6 deficiency	Immunological	C6
+419	C7 deficiency	Immunological	C7
+420	C8 deficiency, type II	Immunological	C8B
+421	C9 deficiency	Immunological	C9
+422	C9 deficiency with dermatomyositis	Immunological	C9
+423	Cafe-au-lait spots, multiple, with leukemia	Cancer	MSH2, COCA1, FCC1, HNPCC1
+424	Cafe-au-lait spots with glioma or leukemia	Cancer	MLH1, COCA2, HNPCC2
+425	Caffey disease	Connective tissue	COL1A1
+426	Calcinosis, tumoral	Bone	FGF23, ADHR, HPDR2, PHPTC
+427	Calcinosis, tumoral	Bone	GALNT3
+428	Campomelic dysplasia	Skeletal	SOX9, CMD1, SRA1
+429	Campomelic dysplasia with autosomal sex reversal	Skeletal	SOX9, CMD1, SRA1
+430	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome	Skeletal	PRG4, CACP, MSF, SZP, HAPO
+431	Camurati-Engelmann disease	Skeletal	TGFB1, DPD1, CED
+432	Canavan disease	Metabolic	ASPA
+433	Cancer progression/metastasis	Cancer	FGFR4
+434	Cancer susceptibility	Cancer	MSH6, GTBP, HNPCC5
+435	Capillary malformation-arteriovenous malformation	Cardiovascular	RASA1, GAP, CMAVM, PKWS
+436	Carbamoylphosphate synthetase I deficiency	Metabolic	CPS1
+437	Carbohydrate-deficient glycoprotein syndrome, type I	Metabolic	PMM2, CDG1
+438	Carbohydrate-deficient glycoprotein syndrome, type Ib	Metabolic	MPI, PMI1
+439	Carbohydrate-deficient glycoprotein syndrome, type II	Metabolic	MGAT2, CDGS2
+440	Carboxypeptidase N deficiency	Hematological	CPN1, SCPN, CPN
+441	Carcinoid tumor of lung	Cancer	MEN1
+442	Carcinoid tumors, intestinal	Cancer	SDHD, PGL1
+443	Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency	Cardiovascular	SCO2
+444	Cardiomyopathy, Familial hypertrophic, 8	Cardiovascular	MYL3, CMH8
+445	Cardiomyopathy, dilated	Cardiovascular	ACTC
+446	Cardiomyopathy, dilated	Cardiovascular	MYH7, CMH1, MPD1
+447	Cardiomyopathy, dilated, 1A	Cardiovascular	LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B
+448	Cardiomyopathy, dilated, 1D	Cardiovascular	TNNT2, CMH2, CMD1D
+449	Cardiomyopathy, dilated, 1G	Cardiovascular	TTN, CMD1G
+450	Cardiomyopathy, dilated, 1I	Cardiovascular	DES, CMD1I
+451	Cardiomyopathy, dilated, 1J	Cardiovascular	EYA4, DFNA10, CMD1J
+452	Cardiomyopathy, dilated, 1L	Cardiovascular	SGCD, SGD, LGMD2F, CMD1L
+453	Cardiomyopathy, dilated, 1M	Cardiovascular	CSRP3, CRP3, CLP, CMD1M
+454	Cardiomyopathy, dilated, 1N	Cardiovascular	TCAP, LGMD2G, CMD1N
+455	Cardiomyopathy, dilated, with ventricular tachycardia	Cardiovascular	ABCC9, SUR2
+456	Cardiomyopathy, dilated, X-linked	Cardiovascular	DMD, BMD
+457	Cardiomyopathy, familial hypertrophic, 10	Cardiovascular	MYL2, CMH10
+458	Cardiomyopathy, familial hypertrophic, 1	Cardiovascular	MYH7, CMH1, MPD1
+459	Cardiomyopathy, familial hypertrophic	Cardiovascular	ACTC
+460	Cardiomyopathy, familial hypertrophic	Cardiovascular	CAV3, LGMD1C
+461	Cardiomyopathy, familial hypertrophic	Cardiovascular	MYH6, ASD3, MYHCA
+462	Cardiomyopathy, familial hypertrophic ()	Cardiovascular	TNNC1
+463	Cardiomyopathy, familial hypertrophic, 2	Cardiovascular	TNNT2, CMH2, CMD1D
+464	Cardiomyopathy, familial hypertrophic, 3	Cardiovascular	TPM1, CMH3
+465	Cardiomyopathy, familial hypertrophic	Cardiovascular	TNNI3
+466	Cardiomyopathy, familial hypertrophic, 4	Cardiovascular	MYBPC3, CMH4
+467	Cardiomyopathy, familial hypertrophic, 9	Cardiovascular	TTN, CMD1G, TMD, LGMD2J
+468	Cardiomyopathy, familial restrictive	Cardiovascular	TNNI3
+469	Cardiomyopathy, hypertrophic, early-onset fatal	Cardiovascular	COX15
+470	Cardiomyopathy, hypertrophic, mid-left ventricular chamber type	Cardiovascular	MYL2, CMH10
+471	Cardiomyopathy, hypertrophic, midventricular, digenic	Cardiovascular	MYLK2, MLCK
+472	Cardiomyopathy, hypertrophic, with WPW	Cardiovascular	PRKAG2, WPWS
+473	Cardiomyopathy, idiopathic dilated	Cardiovascular	PLN, PLB
+474	Cardiomyopathy, X-linked dilated	Cardiovascular	TAZ, EFE2, BTHS, CMD3A, LVNCX
+475	Carney complex, type 1	multiple	PRKAR1A, TSE1, CNC1, CAR
+476	Carney complex variant	multiple	MYH8
+477	Carnitine-acylcarnitine translocase deficiency	Metabolic	SLC25A20, CACT, CAC
+478	Carnitine deficiency, systemic primary	Metabolic	SLC22A5, OCTN2, CDSP, SCD
+479	Carpal tunnel syndrome, familial	Unclassified	TTR, PALB
+480	Cartilage-hair hypoplasia	Skeletal	RMRP, RMRPR, CHH
+481	Cataract, autosomal dominant nuclear	Ophthamological	CRYAA, CRYA1
+482	Cataract, cerulean, type 2	Ophthamological	CRYBB2, CRYB2
+483	Cataract, congenital	Ophthamological	PITX3
+484	Cataract, congenital	Ophthamological	BFSP2, CP49, CP47
+485	Cataract, congenital progressive, autosomal recessive	Ophthamological	CRYAA, CRYA1
+486	Cataract, congenital, with late-onset corneal dystrophy	Ophthamological	PAX6, AN2, MGDA
+487	Cataract, congenital zonular, with sutural opacities	Ophthamological	CRYBA1, CRYB1
+488	Cataract, Coppock-like	Ophthamological	CRYGC, CRYG3, CCL
+489	Cataract, cortical pulverulent, late-onset	Ophthamological	LIM2, MP19
+490	Cataract, crystalline aculeiform	Ophthamological	CRYGD, CRYG4
+491	Cataract, juvenile-onset	Ophthamological	BFSP2, CP49, CP47
+492	Cataract, lamellar	Ophthamological	HSF4, CTM
+493	Cataract, Marner type	Ophthamological	HSF4, CTM
+494	Cataract, polymorphic and lamellar	Ophthamological	MIP, AQP0
+495	Cataract, posterior polar 2	Ophthamological	CRYAB, CRYA2, CTPP2
+496	Cataract, pulverulent	Ophthamological	CRYBB1
+497	Cataracts, punctate, progressive juvenile-onset	Ophthamological	CRYGD, CRYG4
+498	Cataract, sutural, with punctate and cerulean opacities	Ophthamological	CRYBB2, CRYB2
+499	Cataract, variable zonular pulverulent	Ophthamological	CRYGC, CRYG3, CCL
+500	Cataract, zonular central nuclear, autosomal dominant	Ophthamological	CRYAA, CRYA1
+501	Cataract, zonular pulverulent-1	Ophthamological	GJA8, CX50, CAE1
+502	Cataract, zonular pulverulent-3	Ophthamological	GJA3, CX46, CZP3, CAE3
+503	Cavernous malformations of CNS and retina	Cardiovascular	CCM1, CAM, KRIT1
+504	CD59 deficiency	Immunological	CD59, MIC11
+505	CD8 deficiency, familial	Immunological	CD8A
+506	Central core disease	Muscular	RYR1, MHS, CCO
+507	Central core disease, one form ()	Muscular	MYH7, CMH1, MPD1
+508	Central hypoventilation syndrome	Respiratory	GDNF
+509	Central hypoventilation syndrome, congenital	Respiratory	BDNF
+510	Central hypoventilation syndrome, congenital	Respiratory	EDN3
+511	Central hypoventilation syndrome, congenital	Respiratory	PMX2B, NBPHOX, PHOX2B
+512	Central hypoventilation syndrome, congenital	Respiratory	RET, MEN2A
+513	Cerebellar ataxia	Neurological	CP
+514	Cerebellar ataxia, pure	Neurological	CACNA1A, CACNL1A4, SCA6
+515	Cerebellar hypoplasia, VLDLR-associated	Neurological	VLDLR, VLDLRCH
+516	Cerebral amyloid angiopathy	Neurological	ABCA1, ABC1, HDLDT1, TGD
+517	Cerebral amyloid angiopathy	Neurological	CST3
+518	Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy	Cardiovascular	NOTCH3, CADASIL, CASIL
+519	Cerebral cavernous malformations-1	Neurological	CCM1, CAM, KRIT1
+520	Cerebral cavernous malformations-2	Neurological	C7orf22, CCM2, MGC4067
+521	Cerebral cavernous malformations 3	Neurological	PDCD10, TFAR15, CCM3
+522	Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome	Neurological	SNAP29, CEDNIK
+523	Cerebrooculofacioskeletal syndrome	multiple	ERCC2, EM9
+524	Cerebrooculofacioskeletal syndrome	multiple	ERCC5, XPG
+525	Cerebrooculofacioskeletal syndrome 214150	multiple	ERCC6, CKN2, COFS, CSB
+526	Cerebrotendinous xanthomatosis	Metabolic	CYP27A1, CYP27, CTX
+527	Cerebrovascular disease, occlusive	Unclassified	SERPINA3, AACT, ACT
+528	Ceroid lipofuscinosis, neuronal-1, infantile	Neurological	PPT1, CLN1
+529	Ceroid-lipofuscinosis, neuronal 2, classic late infantile	Neurological	CLN2
+530	Ceroid-lipofuscinosis, neuronal-3, juvenile	Neurological	CLN3, BTS
+531	Ceroid-lipofuscinosis, neuronal-5, variant late infantile	Neurological	CLN5
+532	Ceroid-lipofuscinosis, neuronal-6, variant late infantile	Neurological	CLN6
+533	Ceroid lipofuscinosis, neuronal 8	Neurological	CLN8, EPMR
+534	Ceroid lipofuscinosis, neuronal, variant juvenile type, with granular osmiophilic deposits	Neurological	PPT1, CLN1
+535	Cervical cancer, somatic	Cancer	FGFR3, ACH
+536	CETP deficiency	Metabolic	CETP
+537	Chanarin-Dorfman syndrome	Metabolic	ABHD5, CGI58, IECN2, NCIE2
+538	Charcot-Marie-Tooth disease, axonal, type 2F	Neurological	HSPB1, HSP27, CMT2F
+539	Charcot-Marie-Tooth disease, dominant intermediate 3	Neurological	MPZ, CMT1B, CMTDI3, CHM, DSS
+540	Charcot-Marie-Tooth disease, dominant intermediate B	Neurological	DNM2
+541	Charcot-Marie-Tooth disease, foot deformity of	Neurological	HOXD10, HOX4D
+542	Charcot-Marie-Tooth disease, mixed axonal and demyelinating type	Neurological	GDAP1, CMT4A, CMT2K, CMT2G
+543	Charcot-Marie-Tooth disease, type 1A	Neurological	PMP22, CMT1A, CMT1E, DSS
+544	Charcot-Marie-Tooth disease, type 1B	Neurological	MPZ, CMT1B, CMTDI3, CHM, DSS
+545	Charcot-Marie-Tooth disease, type 1C	Neurological	LITAF, CMT1C
+546	Charcot-Marie-Tooth disease, type 1D	Neurological	EGR2, KROX20
+547	Charcot-Marie-Tooth disease, type 1E	Neurological	PMP22, CMT1A, CMT1E, DSS
+548	Charcot-Marie-Tooth disease, type 1F	Neurological	NEFL, CMT2E, CMT1F
+549	Charcot-Marie-Tooth disease, type 2A1	Neurological	KIF1B, CMT2A, CMT2A1
+550	Charcot-Marie-Tooth disease, type 2A2	Neurological	MFN2, KIAA0214, CMT2A2
+551	Charcot-Marie-Tooth disease, type 2B	Neurological	RAB7, CMT2B, PSN
+552	Charcot-Marie-Tooth disease, type 2D	Neurological	GARS, SMAD1, CMT2D
+553	Charcot-Marie-Tooth disease, type 2E	Neurological	NEFL, CMT2E, CMT1F
+554	Charcot-Marie-Tooth disease, type 2G	Neurological	GDAP1, CMT4A, CMT2K, CMT2G
+555	Charcot-Marie-Tooth disease, type 2I	Neurological	MPZ, CMT1B, CMTDI3, CHM, DSS
+556	Charcot-Marie-Tooth disease, type 2J	Neurological	MPZ, CMT1B, CMTDI3, CHM, DSS
+557	Charcot-Marie-Tooth disease, type 2K	Neurological	GDAP1, CMT4A, CMT2K, CMT2G
+558	Charcot-Marie-Tooth disease, type 4A	Neurological	GDAP1, CMT4A, CMT2K, CMT2G
+559	Charcot-Marie-Tooth disease, type 4B1	Neurological	MTMR2, CMT4B1
+560	Charcot-Marie-Tooth disease, type 4B2	Neurological	SBF2, MTMR13, CMT4B2
+561	Charcot-Marie-Tooth disease, type 4B2, with early-onset glaucoma	Neurological	SBF2, MTMR13, CMT4B2
+562	Charcot-Marie-Tooth disease, type 4C	Neurological	KIAA1985
+563	Charcot-Marie-Tooth disease, type 4D	Neurological	NDRG1, HMSNL, CMT4D
+564	Charcot-Marie-Tooth neuropathy, X-linked dominant, 1	Neurological	GJB1, CX32, CMTX1
+565	CHARGE syndrome	multiple	CHD7
+566	Char syndrome	multiple	TFAP2B, CHAR
+567	Chediak-Higashi syndrome	multiple	CHS1, LYST
+568	Cherubism	Unclassified	SH3BP2, CRPM
+569	CHILD syndrome	Developmental	NSDHL
+570	Chitotriosidase deficiency	Metabolic	CHIT
+571	Chloride diarrhea, congenital, Finnish type	Gastrointestinal	SLC26A3, DRA, CLD
+572	Cholelithiasis	Gastrointestinal	ABCB4, PGY3, MDR3
+573	Cholestasis, benign recurrent intrahepatic	Gastrointestinal	ATP8B1, FIC1, BRIC, PFIC1
+574	Cholestasis, familial intrahepatic, of pregnancy	Gastrointestinal	ABCB4, PGY3, MDR3
+575	Cholestasis, progressive familial intrahepatic 1	Gastrointestinal	ATP8B1, FIC1, BRIC, PFIC1
+576	Cholestasis, progressive familial intrahepatic 2	Gastrointestinal	ABCB11, BSEP, SPGP, PFIC2
+577	Cholestasis, progressive familial intrahepatic 3	Gastrointestinal	ABCB4, PGY3, MDR3
+578	Cholestasis, progressive familial intrahepatic 4	Gastrointestinal	HSD3B7, PFIC4
+579	Cholesteryl ester storage disease	Metabolic	LIPA
+580	Chondrocalcinosis 2	Connective tissue	ANKH, HANK, ANK, CMDJ, CCAL2, CPPDD
+581	Chondrodysplasia, Grebe type	Skeletal	GDF5, CDMP1
+582	Chondrodysplasia punctata, rhizomelic, type 2	Connective tissue	GNPAT, DHAPAT
+583	Chondrodysplasia punctata, X-linked dominant	Connective tissue	EBP, CDPX2, CPXD, CPX
+584	Chondrodysplasia punctata, X-linked recessive	Connective tissue	ARSE, CDPX1, CDPXR
+585	Chondrosarcoma	Cancer	EXT1
+586	Chondrosarcoma, extraskeletal myxoid	Cancer	CSMF
+587	Chondrosarcoma, extraskeletal myxoid	Cancer	EWSR1, EWS
+588	Chorea, hereditary benign	Neurological	TITF1, NKX2A, TTF1
+589	Choreoacanthocytosis	Neurological	VPS13A, CHAC
+590	Choreoathetosis, hypothyroidism, and respiratory distress	multiple	TITF1, NKX2A, TTF1
+591	Choroideremia	Ophthamological	CHM, TCD
+592	Chromosome 22q13.3 deletion syndrome	multiple	PSAP2, PROSAP2, KIAA1650
+593	Chronic granulomatous disease, autosomal, due to deficiency of CYBA	Immunological	CYBA
+594	Chronic granulomatous disease due to deficiency of NCF-1	Immunological	NCF1
+595	Chronic granulomatous disease due to deficiency of NCF-2	Immunological	NCF2
+596	Chronic granulomatous disease, X-linked	Immunological	CYBB, CGD
+597	Chronic infections, due to opsonin defect	Immunological	MBL2, MBL, MBP1
+598	Chudley-Lowry syndrome	multiple	ATRX, XH2, XNP, MRXS3, SHS
+599	Chylomicronemia syndrome, familial	Metabolic	LPL, LIPD
+600	Chylomicron retention disease	Gastrointestinal	SARA2, SAR1B, CMRD
+601	Chylomicron retention disease with Marinesco-Sjogren syndrome	Gastrointestinal	SARA2, SAR1B, CMRD
+602	Ciliary dyskinesia, primary, 1	Respiratory	DNAI1, CILD1, ICS, PCD
+603	Ciliary dyskinesia, primary, 3 608644	Respiratory	DNAH5, HL1, PCD, CILD3
+604	CINCA syndrome	multiple	CIAS1, C1orf7, FCU, FCAS
+605	Cirrhosis, cryptogenic	Gastrointestinal	KRT18
+606	Cirrhosis, cryptogenic	Gastrointestinal	KRT8
+607	Cirrhosis, noncryptogenic, susceptibility to	Gastrointestinal	KRT18
+608	Cirrhosis, noncryptogenic, susceptibility to	Gastrointestinal	KRT8
+609	Cirrhosis, North American Indian childhood type	Gastrointestinal	CIRH1A, NAIC, TEX292, KIAA1988
+610	Citrullinemia	Metabolic	ASS
+611	Citrullinemia, adult-onset type II	Metabolic	SLC25A13, CTLN2
+612	Citrullinemia, type II, neonatal-onset	Metabolic	SLC25A13, CTLN2
+613	Cleft lip/palate ectodermal dysplasia syndrome	Developmental	HVEC, PVRL1, PVRR1, PRR1
+614	Cleft lip/palate, nonsyndromic	Developmental	MSX1, HOX7, HYD1, OFC5
+615	Cleft palate with ankyloglossia	Developmental	TBX22, CPX
+616	Cleidocranial dysplasia	Skeletal	RUNX2, CBFA1, PEBP2A1, AML3
+617	Coats disease	Ophthamological	NDP, ND
+618	Cockayne syndrome, type A	multiple	ERCC8, CKN1, CSA
+619	Cockayne syndrome, type B	multiple	ERCC6, CKN2, COFS, CSB
+620	Codeine sensitivity	Metabolic	CYP2D@, CYP2D, P450C2D
+621	Coffin-Lowry syndrome	multiple	RPS6KA3, RSK2, MRX19
+622	Cohen syndrome	multiple	COH1
+623	Colchicine resistance	Unclassified	ABCB1, PGY1, MDR1
+624	Cold-induced autoinflammatory syndrome, familial	Immunological	CIAS1, C1orf7, FCU, FCAS
+625	Cold-induced sweating syndrome	multiple	CRLF1, CISS
+626	Coloboma, ocular	Ophthamological	PAX6, AN2, MGDA
+627	Coloboma, ocular	Ophthamological	SHH, HPE3, HLP3, SMMCI
+628	Colon adenocarcinoma	Cancer	RAD54B
+629	Colon adenocarcinoma	Cancer	RAD54L, HR54, HRAD54
+630	Colon cancer	Cancer	BCL10
+631	Colon cancer	Cancer	PTPN12, PTPG1
+632	Colon cancer	Cancer	TGFBR2, HNPCC6
+633	Colon cancer, advanced	Cancer	SRC, ASV, SRC1
+634	Colon cancer, hereditary nonpolypopsis, type 7	Cancer	MLH3, HNPCC7
+635	Colon cancer, somatic	Cancer	PTPRJ, DEP1
+636	Colonic adenoma recurrence, reduced risk of	Cancer	ODC1
+637	Colonic aganglionosis, total, with small bowel involvement	Gastrointestinal	RET, MEN2A
+638	Colorblindness, deutan	Ophthamological	OPN1MW, GCP, CBD, CBBM
+639	Colorblindness, protan	Ophthamological	OPN1LW, RCP, CBP, CBBM
+640	Colorblindness, tritan	Ophthamological	OPN1SW, BCP, CBT
+641	Colorectal adenomatous polyposis, autosomal recessive, with pilomatricomas	Cancer	MUTYH
+642	Colorectal cancer	Cancer	AXIN2
+643	Colorectal cancer	Cancer	BUB1B, BUBR1
+644	Colorectal cancer	Cancer	EP300
+645	Colorectal cancer	Cancer	PDGFRL, PDGRL, PRLTS
+646	Colorectal cancer	Cancer	PIK3CA
+647	Colorectal cancer	Cancer	TP53, P53, LFS1
+648	Colorectal cancer	Cancer	APC, GS, FPC
+649	Colorectal cancer	Cancer	BAX
+650	Colorectal cancer	Cancer	CTNNB1
+651	Colorectal cancer	Cancer	DCC
+652	Colorectal cancer	Cancer	MCC
+653	Colorectal cancer	Cancer	NRAS
+654	Colorectal cancer, hereditary nonpolyposis, type 1	Cancer	MSH2, COCA1, FCC1, HNPCC1
+655	Colorectal cancer, hereditary nonpolyposis, type 2	Cancer	MLH1, COCA2, HNPCC2
+656	Colorectal cancer, hereditary nonpolyposis, type 3	Cancer	PMS1, PMSL1, HNPCC3
+657	Colorectal cancer, hereditary nonpolyposis, type 4	Cancer	PMS2, PMSL2, HNPCC4
+658	Colorectal cancer, hereditary nonpolyposis, type 5	Cancer	MSH6, GTBP, HNPCC5
+659	Colorectal cancer, hereditary nonpolyposis, type 6	Cancer	TGFBR2, HNPCC6
+660	Colorectal cancer, somatic	Cancer	FGFR3, ACH
+661	Colorectal cancer, somatic	Cancer	FLCN, BHD
+662	Colorectal cancer, somatic	Cancer	MLH3, HNPCC7
+663	Colorectal cancer, somatic	Cancer	BRAF
+664	Colorectal cancer, somatic	Cancer	DLC1
+665	Colorectal cancer, sporadic	Cancer	PLA2G2A, PLA2B, PLA2L, MOM1
+666	Colorectal cancer, susceptibility to	Cancer	CCND1, PRAD1, BCL1
+667	Colorectal cancer with chromosomal instability	Cancer	BUB1
+668	Combined C6/C7 deficiency	Immunological	C6
+669	Combined factor V and VIII deficiency	Hematological	LMAN1, ERGIC53, F5F8D, MCFD1
+670	Combined hyperlipemia, familial	Metabolic	LPL, LIPD
+671	Combined immunodeficiency, X-linked, moderate	Immunological	IL2RG, SCIDX1, SCIDX, IMD4
+672	Combined oxidative phosphorylation deficiency	multiple	GFM1, EFG1, GFM
+673	Combined SAP deficiency	Metabolic	PSAP, SAP1
+674	Complex I, mitochondrial respiratory chain, deficiency of	multiple	NDUFS6
+675	Complex V, mitochondrial respiratory chain, deficiency of	multiple	ATPAF2, ATP12
+676	Cone dystrophy-1	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+677	Cone dystrophy-3	Ophthamological	GUCA1A, GCAP
+678	Cone-rod dystrophy	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+679	Cone-rod dystrophy 3	Ophthamological	ABCA4, ABCR, STGD1, FFM, RP19
+680	Cone-rod dystrophy	Ophthamological	AIPL1, LCA4
+681	Cone-rod dystrophy 6	Ophthamological	GUCY2D, GUC2D, LCA1, CORD6
+682	Cone-rod dystrophy 9	Ophthamological	RPGRIP1, LCA6, CORD9
+683	Cone-rod retinal dystrophy-2	Ophthamological	CRX, CORD2, CRD
+684	Congenital bilateral absence of vas deferens	Unclassified	CFTR, ABCC7, CF, MRP7
+685	Congenital cataracts, facial dysmorphism, and neuropathy	Ophthamological	CTDP1, FCP1, CCFDN
+686	Congenital disorder of glycosylation, type Ic	Metabolic	ALG6
+687	Congenital disorder of glycosylation, type Id	Metabolic	ALG3, NOT56L, CDGS4
+688	Congenital disorder of glycosylation, type Ie	Metabolic	DPM1, MPDS, CDGIE
+689	Congenital disorder of glycosylation, type If	Metabolic	MPDU1, SL15, CDGIF
+690	Congenital disorder of glycosylation, type Ig	Metabolic	ALG12
+691	Congenital disorder of glycosylation, type Ih	Metabolic	ALG8
+692	Congenital disorder of glycosylation, type Ii	Metabolic	ALG2, CDGII
+693	Congenital disorder of glycosylation, type II	Metabolic	DIBD1, ALG9
+694	Congenital disorder of glycosylation, type IIc	Metabolic	SLC35C1, FUCT1
+695	Congenital disorder of glycosylation, type IId	Metabolic	B4GALT1, GGTB2, GT1, GTB
+696	Congenital disorder of glycosylation, type IIe	Metabolic	COG7, CDG2E
+697	Congenital disorder of glycosylation, type Ij	Metabolic	DPAGT2, DGPT
+698	Congenital disorder of glycosylation, type Ik	Metabolic	ALG1, HMAT1, HMT1
+699	Congestive heart failure, susceptibility to	Cardiovascular	ADRA2C, ADRA2L2
+700	Congestive heart failure, susceptibility to	Cardiovascular	ADRB1, ADRB1R, RHR
+701	Conjunctivitis, ligneous	Ophthamological	PLG
+702	Conotruncal anomaly face syndrome	Cardiovascular	TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR
+703	Contractural arachnodactyly, congenital	Connective tissue	FBN2, CCA
+704	Convulsions, familial febrile, 4	Neurological	MASS1, VLGR1, KIAA0686, FEB4, USH2C
+705	COPD, rate of decline of lung function in	Respiratory	MMP1, CLG
+706	Coproporphyria	Metabolic	CPO
+707	Corneal clouding, autosomal recessive	Ophthamological	APOA1
+708	Corneal dystrophy, Avellino type	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+709	Corneal dystrophy, gelatinous drop-like	Ophthamological	TACSTD2, TROP2, M1S1
+710	Corneal dystrophy, Groenouw type I	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+711	Corneal dystrophy, hereditary polymorphous posterior	Ophthamological	VSX1, RINX, PPCD, PPD, KTCN
+712	Corneal dystrophy, hereditary polymorphous posterior, 2	Ophthamological	COL8A2, FECD, PPCD2
+713	Corneal dystrophy, lattice type I	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+714	Corneal dystrophy, lattice type IIIA	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+715	Corneal dystrophy, Reis-Bucklers type	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+716	Corneal dystrophy, Thiel-Behnke type	Ophthamological	TGFBI, CSD2, CDGG1, CSD, BIGH3, CDG2
+717	Corneal fleck dystrophy	Ophthamological	PIP5K3, CFD
+718	Cornea plana congenita, recessive	Ophthamological	KERA, CNA2
+719	Cornelia de Lange syndrome	Developmental	NIPBL, CDLS
+720	Coronary artery disease, autosomal dominant, 1	Cardiovascular	MEF2A, ADCAD1
+721	Coronary artery disease in familial hypercholesterolemia, protection against	Cardiovascular	ABCA1, ABC1, HDLDT1, TGD
+722	Coronary artery disease, susceptibility to	Cardiovascular	KL
+723	Coronary artery disease, susceptibility to	Cardiovascular	PON1, PON, ESA
+724	Coronary artery disease, susceptibility to	Cardiovascular	PON2
+725	Coronary artery spasm, susceptibility to	Cardiovascular	PON1, PON, ESA
+726	Coronary heart disease, susceptibility to	Cardiovascular	MMP3, STMY1
+727	Coronary spasms, susceptibility to	Cardiovascular	NOS3
+728	Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia	Neurological	IGBP1
+729	Cortisol resistance	Endocrine	NR3C1, GCR, GRL
+730	Cortisone reductase deficiency	Metabolic	GDH
+731	Cortisone reductase deficiency	Metabolic	HSD11B1, HSD11, HSD11L
+732	Costello syndrome	multiple	HRAS
+733	Coumarin resistance	Hematological	CYP2A6, CYP2A3, CYP2A, P450C2A
+734	Cowden disease	Cancer	PTEN, MMAC1
+735	Cowden-like syndrome	Cancer	BMPR1A, ACVRLK3, ALK3
+736	CPT deficiency, hepatic, type IA	Metabolic	CPT1A
+737	CPT deficiency, hepatic, type II	Metabolic	CPT2
+738	CPT II deficiency, lethal neonatal	Metabolic	CPT2
+739	Cramps, familial, potassium-aggravated	Muscular	SCN4A, HYPP, NAC1A
+740	Craniofacial anomalies, empty sella turcica, corneal endothelial changes, and abnormal retinal and auditory bipolar cells	multiple	VSX1, RINX, PPCD, PPD, KTCN
+741	Craniofacial-deafness-hand syndrome	multiple	PAX3, WS1, HUP2, CDHS
+742	Craniofacial-skeletal-dermatologic dysplasia	multiple	FGFR2, BEK, CFD1, JWS
+743	Craniofrontonasal dysplasia	Skeletal	EFNB1, EPLG2, CFNS, CFND
+744	Craniometaphyseal dysplasia	Bone	ANKH, HANK, ANK, CMDJ, CCAL2, CPPDD
+745	Craniosynostosis, nonspecific	Skeletal	FGFR2, BEK, CFD1, JWS
+746	Craniosynostosis, type 2	Skeletal	MSX2, CRS2, HOX8
+747	CRASH syndrome	multiple	L1CAM, CAML1, HSAS1
+748	Creatine deficiency syndrome, X-linked	Neurological	SLC6A8, CRTR
+749	Creatine phosphokinase, elevated serum	Metabolic	CAV3, LGMD1C
+750	Creatine phosphokinase, elevated serum	Metabolic	CAV3, LGMD1C
+751	Creutzfeldt-Jakob disease	Neurological	PRNP, PRIP
+752	Creutzfeldt-Jakob disease, variant, resistance to	Neurological	HLA-DQB1
+753	Crigler-Najjar syndrome, type I	multiple	UGT1A1, UGT1, GNT1
+754	Crigler-Najjar syndrome, type II	multiple	UGT1A1, UGT1, GNT1
+755	Crohn disease, susceptibility to	Gastrointestinal	CARD15, NOD2, IBD1, CD, ACUG, PSORAS1
+756	Crohn disease, susceptibility to	Gastrointestinal	DLG5, PDLG, KIAA0583
+757	Crouzon syndrome	Skeletal	FGFR2, BEK, CFD1, JWS
+758	Crouzon syndrome with acanthosis nigricans	Skeletal	FGFR3, ACH
+759	Cryptorchidism, bilateral	Renal	LGR8, GREAT
+760	Cryptorchidism, idiopathic	Renal	INSL3
+761	Currarino syndrome	Skeletal	HLXB9, HOXHB9, SCRA1
+762	Cutis laxa, AD	Connective tissue	ELN
+763	Cutis laxa, autosomal dominant	Connective tissue	FBLN5, ARMD3
+764	Cutis laxa, autosomal recessive	Connective tissue	FBLN5, ARMD3
+765	Cutis laxa, neonatal	Connective tissue	ATP7A, MNK, MK, OHS
+766	Cyclic ichthyosis with epidermolytic hyperkeratosis	Dermatological	KRT1
+767	Cylindromatosis, familial	Dermatological	CYLD1, CDMT, EAC
+768	Cystathioninuria	Metabolic	CTH
+769	Cystic fibrosis	Respiratory	CFTR, ABCC7, CF, MRP7
+770	Cystinosis, atypical nephropathic	Renal	CTNS
+771	Cystinosis, late-onset juvenile or adolescent nephropathic	Renal	CTNS
+772	Cystinosis, nephropathic	Renal	CTNS
+773	Cystinosis, ocular nonnephropathic	Renal	CTNS
+774	Cystinuria	Renal	SLC3A1, ATR1, D2H, NBAT
+775	Cystinuria, type II	Renal	SLC7A9, CSNU3
+776	Cystinuria, type III	Renal	SLC7A9, CSNU3
+777	D-2-hydroxyglutaric aciduria	Metabolic	D2HGD
+778	Darier disease	Dermatological	ATP2A2, ATP2B, DAR
+779	D-bifunctional protein deficiency	Metabolic	HSD17B4
+780	Deafness, autosomal dominant 10	Ear,Nose,Throat	EYA4, DFNA10, CMD1J
+781	Deafness, autosomal dominant 1	Ear,Nose,Throat	DIAPH1, DFNA1, LFHL1
+782	Deafness, autosomal dominant 11, neurosensory	Ear,Nose,Throat	MYO7A, USH1B, DFNB2, DFNA11
+783	Deafness, autosomal dominant 12	Ear,Nose,Throat	TECTA, DFNA8, DFNA12, DFNB21
+784	Deafness, autosomal dominant 13	Ear,Nose,Throat	COL11A2, STL3, DFNA13
+785	Deafness, autosomal dominant 15	Ear,Nose,Throat	POU4F3, BRN3C
+786	Deafness, autosomal dominant 17	Ear,Nose,Throat	MYH9, MHA, FTNS, DFNA17
+787	Deafness, autosomal dominant 20/26	Ear,Nose,Throat	ACTG1, DFNA20, DFNA26
+788	Deafness, autosomal dominant 22	Ear,Nose,Throat	MYO6, DFNA22, DFNB37
+789	Deafness, autosomal dominant 2	Ear,Nose,Throat	GJB3, CX31, DFNA2
+790	Deafness, autosomal dominant 2	Ear,Nose,Throat	KCNQ4, DFNA2
+791	Deafness, autosomal dominant 28	Ear,Nose,Throat	TFCP2L3, DFNA28
+792	Deafness, autosomal dominant 3	Ear,Nose,Throat	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+793	Deafness, autosomal dominant 3	Ear,Nose,Throat	GJB6, CX30, DFNA3, HED, ED2
+794	Deafness, autosomal dominant 36	Ear,Nose,Throat	TMC1, DFNB7, DFNB11, DFNA36
+795	Deafness, autosomal dominant 36, with dentinogenesis	Ear,Nose,Throat	DSPP, DPP, DGI1, DFNA39, DTDP2
+796	Deafness, autosomal dominant 40	Ear,Nose,Throat	CRYM, DFNA40
+797	Deafness, autosomal dominant 4	Ear,Nose,Throat	MYH14, KIAA2034, DFNA4
+798	Deafness, autosomal dominant 5	Ear,Nose,Throat	DFNA5
+799	Deafness, autosomal dominant 8	Ear,Nose,Throat	TECTA, DFNA8, DFNA12, DFNB21
+800	Deafness, autosomal dominant 9	Ear,Nose,Throat	COCH, DFNA9
+801	Deafness, autosomal dominant nonsyndromic sensorineural	Ear,Nose,Throat	MYO1A
+802	Deafness, autosomal dominant, with peripheral neuropathy	Ear,Nose,Throat	GJB3, CX31, DFNA2
+803	Deafness, autosomal recessive 10, congenital	Ear,Nose,Throat	TMPRSS3, ECHOS1, DFNB8, DFNB10
+804	Deafness, autosomal recessive 1	Ear,Nose,Throat	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+805	Deafness, autosomal recessive 12	Ear,Nose,Throat	CDH23, USH1D
+806	Deafness, autosomal recessive 12, modifier of	Ear,Nose,Throat	ATP2B2, PMCA2
+807	Deafness, autosomal recessive 16	Ear,Nose,Throat	STRC, DFNB16
+808	Deafness, autosomal recessive 18	Ear,Nose,Throat	USH1C, DFNB18
+809	Deafness, autosomal recessive 21	Ear,Nose,Throat	TECTA, DFNA8, DFNA12, DFNB21
+810	Deafness, autosomal recessive 22	Ear,Nose,Throat	OTOA, DFNB22
+811	Deafness, autosomal recessive 23	Ear,Nose,Throat	PCDH15, DFNB23
+812	Deafness, autosomal recessive 29	Ear,Nose,Throat	CLDN14, DFNB29
+813	Deafness, autosomal recessive 2, neurosensory	Ear,Nose,Throat	MYO7A, USH1B, DFNB2, DFNA11
+814	Deafness, autosomal recessive 30	Ear,Nose,Throat	MYO3A, DFNB30
+815	Deafness, autosomal recessive 31	Ear,Nose,Throat	WHRN, CIP98, KIAA1526, DFNB31
+816	Deafness, autosomal recessive 3	Ear,Nose,Throat	MYO15A, DFNB3
+817	Deafness, autosomal recessive 36	Ear,Nose,Throat	ESPN
+818	Deafness, autosomal recessive 37	Ear,Nose,Throat	MYO6, DFNA22, DFNB37
+819	Deafness, autosomal recessive	Ear,Nose,Throat	GJB3, CX31, DFNA2
+820	Deafness, autosomal recessive 4	Ear,Nose,Throat	SLC26A4, PDS, DFNB4
+821	Deafness, autosomal recessive 61	Ear,Nose,Throat	PRES, DFNB61, SLC26A5
+822	Deafness, autosomal recessive 6	Ear,Nose,Throat	TMIE, DFNB6
+823	Deafness, autosomal recessive 7	Ear,Nose,Throat	TMC1, DFNB7, DFNB11, DFNA36
+824	Deafness, autosomal recessive 8, childhood onset	Ear,Nose,Throat	TMPRSS3, ECHOS1, DFNB8, DFNB10
+825	Deafness, autosomal recessive 9	Ear,Nose,Throat	OTOF, DFNB9, NSRD9
+826	Deafness, congenital heart defects, and posterior embryotoxon	Ear,Nose,Throat	JAG1, AGS, AHD
+827	Deafness, nonsyndromic ()	Ear,Nose,Throat	KIAA1199
+828	Deafness, nonsyndromic neurosensory, digenic	Ear,Nose,Throat	GJB6, CX30, DFNA3, HED, ED2
+829	Deafness, sensorineural, with hypertrophic cardiomyopathy	Ear,Nose,Throat	MYO6, DFNA22, DFNB37
+830	Deafness, X-linked 1, progressive	Ear,Nose,Throat	TIMM8A, DFN1, DDP, MTS, DDP1
+831	Deafness, X-linked 3, conductive, with stapes fixation	Ear,Nose,Throat	POU3F4, DFN3
+832	Debrisoquine sensitivity	Metabolic	CYP2D@, CYP2D, P450C2D
+833	Dejerine-Sottas disease	multiple	PMP22, CMT1A, CMT1E, DSS
+834	Dejerine-Sottas neuropathy	multiple	EGR2, KROX20
+835	Dejerine-Sottas neuropathy, autosomal recessive	multiple	PRX, CMT4F
+836	Dejerine-Sottas syndrome	multiple	MPZ, CMT1B, CMTDI3, CHM, DSS
+837	Delayed sleep phase syndrome, susceptibility to	Psychiatric	AANAT, SNAT
+838	Dementia, familial British	Neurological	ITM2B, BRI, ABRI, FBD
+839	Dementia, familial Danish	Neurological	ITM2B, BRI, ABRI, FBD
+840	Dementia, frontotemporal	Neurological	PSEN1, AD3
+841	Dementia, frontotemporal, with parkinsonism	Neurological	MAPT, MTBT1, DDPAC, MSTD
+842	Dementia, Lewy body	Neurological	SNCA, NACP, PARK1, PARK4
+843	Dementia, Lewy body	Neurological	SNCB
+844	Dementia, Pick disease-like	Neurological	MAPT, MTBT1, DDPAC, MSTD
+845	Dementia, vascular, susceptibility to	Neurological	TNF, TNFA
+846	Dengue fever, protection against	Immunological	CD209, CDSIGN
+847	Dental anomalies, isolated	Skeletal	RUNX2, CBFA1, PEBP2A1, AML3
+848	Dentatorubro-pallidoluysian atrophy	Neurological	DRPLA
+849	Dent disease	Renal	CLCN5, CLCK2, NPHL2, DENTS
+850	Dentin dysplasia, type II	Bone	DSPP, DPP, DGI1, DFNA39, DTDP2
+851	Dentinogenesis imperfecta, Shields type II	Bone	DSPP, DPP, DGI1, DFNA39, DTDP2
+852	Dentinogenesis imperfecta, Shields type III	Bone	DSPP, DPP, DGI1, DFNA39, DTDP2
+853	Dent syndrome	Renal	OCRL, LOCR, OCRL1, NPHL2
+854	Denys-Drash syndrome	Renal	WT1
+855	Dermatofibrosarcoma protuberans	Cancer	PDGFB, SIS
+856	De Sanctis-Cacchione syndrome	multiple	ERCC6, CKN2, COFS, CSB
+857	Desmoid disease, hereditary	Cancer	APC, GS, FPC
+858	Desmosterolosis	Metabolic	DHCR24, KIAA0018
+859	Diabetes insipidus, nephrogenic	Endocrine	AVPR2, DIR, DI1, ADHR
+860	Diabetes insipidus, nephrogenic, autosomal dominant	Endocrine	AQP2
+861	Diabetes insipidus, nephrogenic, autosomal recessive	Endocrine	AQP2
+862	Diabetes insipidus, neurohypophyseal	Endocrine	AVP, AVRP, VP
+863	Diabetes mellitus	Endocrine	ABCC8, SUR, PHHI, SUR1
+864	Diabetes mellitus, insulin-dependent	Endocrine	TCF1, HNF1A, MODY3
+865	Diabetes mellitus, insulin-dependent, 5	Endocrine	SUMO4, IDDM5
+866	Diabetes mellitus, insulin-dependent, susceptibility to	Endocrine	PTPN8, PEP, PTPN22, LYP
+867	Diabetes mellitus, insulin-resistant, with acanthosis nigricans	Endocrine	INSR
+868	Diabetes mellitus, insulin-resistant, with acanthosis nigricans and hypertension	Endocrine	PPARG, PPARG1, PPARG2
+869	Diabetes mellitus, neonatal-onset	Endocrine	GCK
+870	Diabetes mellitus, noninsulin-dependent	Endocrine	GCGR
+871	Diabetes mellitus, noninsulin-dependent	Endocrine	GPD2
+872	Diabetes mellitus, noninsulin-dependent	Endocrine	HNF4A, TCF14, MODY1
+873	Diabetes mellitus, noninsulin-dependent	Endocrine	IRS2
+874	Diabetes mellitus, noninsulin-dependent	Endocrine	MAPK8IP1, IB1
+875	Diabetes mellitus, noninsulin-dependent	Endocrine	NEUROD1, NIDDM
+876	Diabetes mellitus, noninsulin-dependent	Endocrine	TCF2, HNF2
+877	Diabetes mellitus, noninsulin-dependent, 2	Endocrine	TCF1, HNF1A, MODY3
+878	Diabetes mellitus, noninsulin-dependent	Endocrine	IRS1
+879	Diabetes mellitus, noninsulin-dependent	Endocrine	SLC2A2, GLUT2
+880	Diabetes mellitus, noninsulin-dependent	Endocrine	SLC2A4, GLUT4
+881	Diabetes mellitus, noninsulin-dependent	Endocrine	CAPN10
+882	Diabetes mellitus, non-insulin-dependent, susceptibility to	Endocrine	ENPP1, PDNP1, NPPS, M6S1, PCA1
+883	Diabetes mellitus, noninsulin-dependent, susceptibility to	Endocrine	RETN, RSTN, FIZZ3
+884	Diabetes mellitus, permanent neonatal, with cerebellar agenesis	Endocrine	PTF1A
+885	Diabetes mellitus, permanent neonatal, with neurologic features	Endocrine	KCNJ11, BIR, PHHI
+886	Diabetes mellitus, type II	Endocrine	AKT2
+887	Diabetes mellitus, type II, susceptibility to	Endocrine	IPF1
+888	Diabetes mellitus, type I, susceptibility to	Endocrine	FOXP3, IPEX, AIID, XPID, PIDX
+889	Diabetes, permanent neonatal	Endocrine	KCNJ11, BIR, PHHI
+890	Diabetic nephropathy, susceptibility to	Endocrine	ACE, DCP1, ACE1
+891	Diabetic retinopathy, NIDDM-related, susceptibility to	Endocrine	VEGF
+892	Diastrophic dysplasia	Skeletal	SLC26A2, DTD, DTDST, D5S1708, EDM4
+893	Diastrophic dysplasia, broad bone-platyspondylic variant	Skeletal	SLC26A2, DTD, DTDST, D5S1708, EDM4
+894	DiGeorge syndrome	multiple	TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR
+895	Dihydropyrimidinuria	Metabolic	DPYS, DHP
+896	Dilated cardiomyopathy with woolly hair and keratoderma	multiple	DSP, KPPS2, PPKS2
+897	Dimethylglycine dehydrogenase deficiency	Metabolic	DMGDH, DMGDHD
+898	Disordered steroidogenesis, isolated	Metabolic	POR
+899	Dissection of cervical arteries	Connective tissue	COL1A1
+900	DNA ligase I deficiency	multiple	LIG1
+901	DNA topoisomerase I, camptothecin-resistant	Metabolic	TOP1
+902	DNA topoisomerase II, resistance to inhibition of, by amsacrine	Metabolic	TOP2A, TOP2
+903	Dopamine-beta-hydroxylase activity levels, plasma	Metabolic	DBH
+904	Dopamine beta-hydroxylase deficiency	Metabolic	DBH
+905	Dosage-sensitive sex reversal	Endocrine	DAX1, AHC, AHX, NROB1
+906	Double-outlet right ventricle	Cardiovascular	CFC1, CRYPTIC, HTX2
+907	Down syndrome, risk of	multiple	MTR
+908	Doyne honeycomb degeneration of retina	Ophthamological	EFEMP1, FBNL, DHRD
+909	Drug addiction, susceptibility to	Psychiatric	FAAH
+910	Duane-radial ray syndrome	multiple	SALL4, HSAL4
+911	Dubin-Johnson syndrome	Metabolic	ABCC2, CMOAT
+912	Duchenne muscular dystrophy	Muscular	DMD, BMD
+913	Dyggve-Melchior-Clausen disease	multiple	DYM, FLJ90130, DMC, SMC
+914	Dysalbuminemic hyperthyroxinemia	Hematological	ALB
+915	Dysautonomia, familial	Neurological	IKBKAP, IKAP
+916	Dyschromatosis symmetrica hereditaria	Dermatological	ADAR, DRADA, DSH, DSRAD
+917	Dyserythropoietic anemia with thrombocytopenia	Hematological	GATA1, GF1, ERYF1, NFE1
+918	Dysfibrinogenemia, alpha type, causing bleeding diathesis	Hematological	FGA
+919	Dysfibrinogenemia, alpha type, causing recurrent thrombosis	Hematological	FGA
+920	Dysfibrinogenemia, beta type	Hematological	FGB
+921	Dysfibrinogenemia, gamma type	Hematological	FGG
+922	Dyskeratosis congenita-1	Dermatological	DKC1, DKC
+923	Dyskeratosis congenita, autosomal dominant	Dermatological	TERC, TRC3, TR
+924	Dyslexia, susceptibility to, 1	Psychiatric	DYX1C1, DYXC1, DYX1
+925	Dyslexia, susceptibility to, 2	Psychiatric	KIAA0319, DYX2, DYLX2, DLX2
+926	Dysprothrombinemia	Hematological	F2
+927	Dyssegmental dysplasia, Silverman-Handmaker type	Neurological	HSPG2, PLC, SJS, SJA, SJS1
+928	Dystonia-12	Neurological	ATP1A3, DYT12, RDP
+929	Dystonia-1, torsion	Neurological	DYT1, TOR1A
+930	Dystonia, DOPA-responsive	Neurological	GCH1, DYT5
+931	Dystonia, early-onset atypical, with myoclonic features	Neurological	DYT1, TOR1A
+932	Dystonia, myoclonic	Neurological	DRD2
+933	Dystonia, myoclonic	Neurological	SGCE, DYT11
+934	Dystonia, primary cervical	Neurological	DRD5, DRD1B, DRD1L2
+935	Dystransthyretinemic hyperthyroxinemia	Hematological	TTR, PALB
+936	EBD, Bart type	Dermatological	COL7A1
+937	EBD, localisata variant	Dermatological	COL7A1
+938	Ectodermal dysplasia-1, anhidrotic	Dermatological	ED1, EDA, HED
+939	Ectodermal dysplasia 2, hidrotic	Dermatological	GJB6, CX30, DFNA3, HED, ED2
+940	Ectodermal dysplasia, anhidrotic	Dermatological	EDARADD
+941	Ectodermal dysplasia, anhidrotic, lymphedema and immunodeficiency	Dermatological	IKBKG, NEMO, FIP3, IP2
+942	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency	Dermatological	NFKBIA, IKBA
+943	Ectodermal dysplasia, hypohidrotic, autosomal dominant	Dermatological	EDAR, DL, ED3, EDA3
+944	Ectodermal dysplasia, hypohidrotic, autosomal recessive	Dermatological	EDAR, DL, ED3, EDA3
+945	Ectodermal dysplasia, hypohidrotic, with immune deficiency	Dermatological	IKBKG, NEMO, FIP3, IP2
+946	Ectodermal dysplasia, Margarita Island type	Dermatological	HVEC, PVRL1, PVRR1, PRR1
+947	Ectodermal dysplasia/skin fragility syndrome	Dermatological	PKP1
+948	Ectopia lentis, familial	Ophthamological	FBN1, MFS1, WMS
+949	Ectopia pupillae	Ophthamological	PAX6, AN2, MGDA
+950	Ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3	Skeletal	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+951	Ehlers-Danlos due to tenascin X deficiency	Connective tissue	TNXB, TNX, TNXB1, TNXBS, TNXB2
+952	Ehlers-Danlos syndrome, hypermobility type	Connective tissue	TNXB, TNX, TNXB1, TNXBS, TNXB2
+953	Ehlers-Danlos syndrome, progeroid form	Connective tissue	B4GALT7, XGALT1, XGPT1
+954	Ehlers-Danlos syndrome, type I	Connective tissue	COL1A1
+955	Ehlers-Danlos syndrome, type I	Connective tissue	COL5A1
+956	Ehlers-Danlos syndrome, type I	Connective tissue	COL5A2
+957	Ehlers-Danlos syndrome, type II	Connective tissue	COL5A1
+958	Ehlers-Danlos syndrome, type III	Connective tissue	COL3A1
+959	Ehlers-Danlos syndrome, type IV	Connective tissue	COL3A1
+960	Ehlers-Danlos syndrome, type VI	Connective tissue	PLOD, PLOD1
+961	Ehlers-Danlos syndrome, type VII	Connective tissue	COL1A1
+962	Ehlers-Danlos syndrome, type VIIA2	Connective tissue	COL1A2
+963	Ehlers-Danlos syndrome, type VIIC	Connective tissue	ADAMTS2, NPI
+964	Elite sprint athletic performance	Muscular	ACTN3
+965	Elliptocytosis-1	Hematological	EPB41, EL1
+966	Elliptocytosis-2	Hematological	SPTA1
+967	Elliptocytosis-3	Hematological	SPTB
+968	Elliptocytosis, Malaysian-Melanesian type	Hematological	SLC4A1, AE1, EPB3
+969	Ellis-van Creveld syndrome	Skeletal	EVC
+970	Ellis-van Creveld syndrome	Skeletal	LBN, EVC2
+971	Emery-Dreifuss muscular dystrophy	Muscular	EMD, EDMD, STA
+972	Emery-Dreifuss muscular dystrophy, AD	Muscular	LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B
+973	Emery-Dreifuss muscular dystrophy, AR	Muscular	LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B
+974	Emphysema	Respiratory	PI, AAT
+975	Emphysema-cirrhosis	Respiratory	PI, AAT
+976	Encephalopathy, familial, with neuroserpin inclusion bodies	Neurological	SERPINI1, PI12
+977	Encephalopathy, progressive mitochondrial, with proximal renal tubulopathy due to cytochrome c oxidase deficiency	Neurological	COX10
+978	Enchondromatosis, Ollier type	Cancer	PTHR1, PTHR
+979	Endometrial carcinoma	Cancer	CDH1, UVO
+980	Endometrial carcinoma	Cancer	MSH3
+981	Endometrial carcinoma	Cancer	MSH6, GTBP, HNPCC5
+982	Endometrial carcinoma	Cancer	PTEN, MMAC1
+983	Endotoxin hyporesponsiveness	Immunological	TLR4
+984	Endplate acetylcholinesterase deficiency	Neurological	COLQ, EAD
+985	Enhanced S-cone syndrome	Ophthamological	NR2E3, PNR, ESCS
+986	Enlarged vestibular aqueduct	Ear,Nose,Throat	SLC26A4, PDS, DFNB4
+987	Enolase-beta deficiency	Metabolic	ENO3
+988	Enterokinase deficiency	Gastrointestinal	PRSS7, ENTK
+989	Eosinophil peroxidase deficiency	Hematological	EPX
+990	Epidermodysplasia verruciformis	Dermatological	EVER1, EV1
+991	Epidermodysplasia verruciformis	Dermatological	EVER2, EV2
+992	Epidermolysis bullosa dystrophica, AD	Dermatological	COL7A1
+993	Epidermolysis bullosa dystrophica, AR	Dermatological	COL7A1
+994	Epidermolysis bullosa, generalized atrophic benign	Dermatological	COL17A1, BPAG2
+995	Epidermolysis bullosa, generalized atrophic benign	Dermatological	ITGB4
+996	Epidermolysis bullosa, generalized atrophic benign	Dermatological	LAMA3, LOCS
+997	Epidermolysis bullosa, generalized atrophic benign	Dermatological	LAMB3
+998	Epidermolysis bullosa, generalized atrophic benign	Dermatological	LAMC2, LAMNB2, LAMB2T
+999	Epidermolysis bullosa, Herlitz junctional type	Dermatological	LAMB3
+1000	Epidermolysis bullosa, Herlitz junctional type	Dermatological	LAMC2, LAMNB2, LAMB2T
+1001	Epidermolysis bullosa, junctional, Herlitz type	Dermatological	LAMA3, LOCS
+1002	Epidermolysis bullosa, junctional, with pyloric atresia	Dermatological	ITGB4
+1003	Epidermolysis bullosa, junctional, with pyloric stenosis	Dermatological	ITGA6
+1004	Epidermolysis bullosa, lethal acantholytic	Dermatological	DSP, KPPS2, PPKS2
+1005	Epidermolysis bullosa of hands and feet	Dermatological	ITGB4
+1006	Epidermolysis bullosa, pretibial	Dermatological	COL7A1
+1007	Epidermolysis bullosa pruriginosa	Dermatological	COL7A1
+1008	Epidermolysis bullosa simplex, Koebner, Dowling-Meara, and Weber-Cockayne types	Dermatological	KRT14
+1009	Epidermolysis bullosa simplex, Koebner, Dowling-Meara, and Weber-Cockayne types	Dermatological	KRT5
+1010	Epidermolysis bullosa simplex, Ogna type	Dermatological	PLEC1, PLTN, EBS1
+1011	Epidermolysis bullosa simplex, recessive	Dermatological	KRT14
+1012	Epidermolysis bullosa simplex with mottled pigmentation	Dermatological	KRT5
+1013	Epidermolytic hyperkeratosis	Dermatological	KRT10
+1014	Epidermolytic hyperkeratosis	Dermatological	KRT1
+1015	Epidermolytic palmoplantar keratoderma	Dermatological	KRT9, EPPK
+1016	Epilepsy, benign, neonatal, type 1	Neurological	KCNQ2, EBN1
+1017	Epilepsy, benign neonatal, type 2	Neurological	KCNQ3, EBN2, BFNC2
+1018	Epilepsy, childhood absence	Neurological	GABRG2, GEFSP3, CAE2, ECA2
+1019	Epilepsy, childhood absence	Neurological	CLCN2, EGMA, ECA3, EGI3
+1020	Epilepsy, childhood absence, evolving to juvenile myoclonic epilepsy	Neurological	JRK, JH8
+1021	Epilepsy, generalized idiopathic	Neurological	CACNB4, EJM
+1022	Epilepsy, generalized, with febrile seizures plus	Neurological	GABRG2, GEFSP3, CAE2, ECA2
+1023	Epilepsy, generalized, with febrile seizures plus, type 2	Neurological	SCN1A, GEFSP2, SMEI
+1024	Epilepsy, idopathic generalized, susceptibility to	Neurological	ME2
+1025	Epilepsy, juvenile absence	Neurological	CLCN2, EGMA, ECA3, EGI3
+1026	Epilepsy, juvenile myoclonic	Neurological	CACNB4, EJM
+1027	Epilepsy, juvenile myoclonic	Neurological	CLCN2, EGMA, ECA3, EGI3
+1028	Epilepsy, juvenile myoclonic	Neurological	GABRA1, EJM
+1029	Epilepsy, myoclonic, Lafora type	Neurological	EPM2A, MELF, EPM2
+1030	Epilepsy, myoclonic, Lafora type	Neurological	NHLRC1, EPM2A, EPM2B
+1031	Epilepsy, neonatal myoclonic, with suppression-burst pattern	Neurological	SLC25A22, GC1
+1032	Epilepsy, nocturnal frontal lobe, 1	Neurological	CHRNA4, ENFL1
+1033	Epilepsy, nocturnal frontal lobe, 3	Neurological	CHRNB2, EFNL3
+1034	Epilepsy, partial, with auditory features	Neurological	LGI1, EPT, ETL1
+1035	Epilepsy, progressive myoclonic 1	Neurological	CSTB, STFB, EPM1
+1036	Epilepsy, progressive myoclonic 2B	Neurological	NHLRC1, EPM2A, EPM2B
+1037	Epilepsy, severe myoclonic, of infancy	Neurological	SCN1A, GEFSP2, SMEI
+1038	Epilepsy with grand mal seizures on awakening	Neurological	CLCN2, EGMA, ECA3, EGI3
+1039	Epilepsy, X-linked, with variable learning disabilities and behavior disorders	Neurological	SYN1
+1040	Epiphyseal dysplasia, multiple 1	Bone	COMP, EDM1, MED, PSACH
+1041	Epiphyseal dysplasia, multiple	Bone	SLC26A2, DTD, DTDST, D5S1708, EDM4
+1042	Epiphyseal dysplasia, multiple, 3	Bone	COL9A3, EDM3, IDD
+1043	Epiphyseal dysplasia, multiple, 5	Bone	MATN3, EDM5, HOA
+1044	Epiphyseal dysplasia, multiple, COL9A1-related	Bone	COL9A1, MED
+1045	Epiphyseal dysplasia, multiple, type 2	Bone	COL9A2, EDM2
+1046	Epiphyseal dysplasia, multiple, with myopathy	Bone	COL9A3, EDM3, IDD
+1047	Episodic ataxia/myokymia syndrome	Neurological	KCNA1, AEMK, EA1
+1048	Episodic ataxia, type 2	Neurological	CACNA1A, CACNL1A4, SCA6
+1049	Epithelial ovarian cancer, somatic	Cancer	OPCML
+1050	Epstein syndrome	Hematological	MYH9, MHA, FTNS, DFNA17
+1051	Erythermalgia, primary	Neurological	SCN9A, NENA, PN1
+1052	Erythremias, alpha-	Hematological	HBA1
+1053	Erythremias, beta-	Hematological	HBB
+1054	Erythrocytosis	Hematological	HBA2
+1055	Erythrocytosis, familial	Hematological	EPOR
+1056	Erythrokeratoderma, progressive symmetric	Dermatological	LOR
+1057	Erythrokeratodermia variabilis	Dermatological	GJB3, CX31, DFNA2
+1058	Erythrokeratodermia variabilis with erythema gyratum repens	Dermatological	GJB4, CX30.3
+1059	Esophageal cancer	Cancer	TGFBR2, HNPCC6
+1060	Esophageal carcinoma, somatic	Cancer	RNF6
+1061	Esophageal squamous cell carcinoma	Cancer	LZTS1, F37, FEZ1
+1062	Esophageal squamous cell carcinoma	Cancer	WWOX, FOR
+1063	Estrogen resistance	Endocrine	ESR1, ESR
+1064	Ethylmalonic encephalopathy	Metabolic	ETHE1, HSCO, D83198
+1065	Ewing sarcoma	Cancer	EWSR1, EWS
+1066	Exertional myoglobinuria due to deficiency of LDH-A	Metabolic	LDHA, LDH1
+1067	Exostoses, multiple, type 1	Bone	EXT1
+1068	Exostoses, multiple, type 2	Bone	EXT2
+1069	Exudative vitreoretinopathy	Ophthamological	FZD4, EVR1
+1070	Exudative vitreoretinopathy, dominant	Ophthamological	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+1071	Exudative vitreoretinopathy, recessive	Ophthamological	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+1072	Exudative vitreoretinopathy, X-linked	Ophthamological	NDP, ND
+1073	Eye anomalies, multiplex	Ophthamological	PAX6, AN2, MGDA
+1074	Ezetimibe, nonresponse to	Unclassified	NPC1L1
+1075	Fabry disease	Metabolic	GLA
+1076	Facioscapulohumeral muscular dystrophy-1A	Muscular	FSHMD1A, FSHD1A
+1077	Factor H and factor H-like 1	Hematological	HF1, CFH, HUS
+1078	Factor V and factor VIII, combined deficiency of	Hematological	MCFD2
+1079	Factor VII deficiency	Hematological	F7
+1080	Factor X deficiency	Hematological	F10
+1081	Factor XI deficiency, autosomal dominant	Hematological	F11
+1082	Factor XI deficiency, autosomal recessive	Hematological	F11
+1083	Factor XII deficiency	Hematological	F12, HAF
+1084	Factor XIIIA deficiency	Hematological	F13A1, F13A
+1085	Factor XIIIB deficiency	Hematological	F13B
+1086	Familial Mediterranean fever	Immunological	MEFV, MEF, FMF
+1087	Fanconi anemia, complementation group A	multiple	FANCA, FACA, FA1, FA, FAA
+1088	Fanconi anemia, complementation group B	multiple	FAAP95, FAAP90, FLJ34064, FANCB
+1089	Fanconi anemia, complementation group C	multiple	FANCC, FACC
+1090	Fanconi anemia, complementation group D1	multiple	BRCA2, FANCD1
+1091	Fanconi anemia, complementation group D2	multiple	FANCD2, FANCD, FACD, FAD
+1092	Fanconi anemia, complementation group E	multiple	FANCE, FACE
+1093	Fanconi anemia, complementation group F	multiple	FANCF
+1094	Fanconi anemia, complementation group G	multiple	XRCC9, FANCG
+1095	Fanconi anemia, complementation group J	multiple	BRIP1, BACH1, FANCJ
+1096	Fanconi anemia, complementation group L	multiple	PHF9, FANCL
+1097	Fanconi anemia, complementation group M	multiple	FANCM, KIAA1596
+1098	Fanconi-Bickel syndrome	Metabolic	SLC2A2, GLUT2
+1099	Farber lipogranulomatosis	Metabolic	ASAH, AC
+1100	Fatty liver, acute, of pregnancy	Metabolic	HADHA, MTPA
+1101	Favism	Metabolic	G6PD, G6PD1
+1102	Fechtner syndrome	multiple	MYH9, MHA, FTNS, DFNA17
+1103	Feingold syndrome	multiple	MYCN, NMYC, ODED, MODED
+1104	Fertile eunuch syndrome	Endocrine	GNRHR, LHRHR
+1105	Fibrocalculous pancreatic diabetes, susceptibility to	Gastrointestinal	SPINK1, PSTI, PCTT, TATI
+1106	Fibromatosis, gingival	Connective tissue	SOS1, GINGF, GF1, HGF
+1107	Fibromatosis, juvenile hyaline	Connective tissue	ANTXR2, CMG2, JHF, ISH
+1108	Fibrosis of extraocular muscles, congenital, 1	Ophthamological	KIF21A, KIAA1708, FEOM1, CFEOM1
+1109	Fibrosis of extraocular muscles, congenital, 2	Ophthamological	PHOX2A, ARIX, CFEOM2
+1110	Fibular hypoplasia and complex brachydactyly	Skeletal	GDF5, CDMP1
+1111	Fish-eye disease	Metabolic	LCAT
+1112	Fish-odor syndrome	Metabolic	FMO3
+1113	Fitzgerald factor deficiency	Hematological	KNG
+1114	Fluorouracil toxicity, sensitivity to	Metabolic	DPYD, DPD
+1115	Focal cortical dysplasia, Taylor balloon cell type	Developmental	TSC1, LAM
+1116	Follicle-stimulating hormone deficiency, isolated	Endocrine	FSHB
+1117	Forebrain defects	Neurological	TDGF1
+1118	Foveal hypoplasia, isolated	Ophthamological	PAX6, AN2, MGDA
+1119	Foveomacular dystrophy, adult-onset, with choroidal neovascularization	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+1120	Fragile X syndrome	Neurological	FMR1, FRAXA
+1121	Fraser syndrome	multiple	FRAS1
+1122	Fraser syndrome	multiple	FREM2
+1123	Frasier syndrome	multiple	WT1
+1124	Friedreich ataxia	Neurological	FRDA, FARR
+1125	Friedreich ataxia with retained reflexes	Neurological	FRDA, FARR
+1126	Frontometaphyseal dysplasia	Skeletal	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+1127	Fructose-bisphosphatase deficiency	Metabolic	FBP1
+1128	Fructose intolerance	Metabolic	ALDOB
+1129	Fructosuria	Metabolic	KHK
+1130	Fuchs endothelial corneal dystrophy	Ophthamological	COL8A2, FECD, PPCD2
+1131	Fucosidosis	Metabolic	FUCA1
+1132	Fucosyltransferase-6 deficiency	Metabolic	FUT6
+1133	Fumarase deficiency	Metabolic	FH
+1134	Fundus albipunctatus	Ophthamological	RDH5
+1135	Fundus albipunctatus	Ophthamological	RLBP1
+1136	Fundus flavimaculatus	Ophthamological	ABCA4, ABCR, STGD1, FFM, RP19
+1137	G6PD deficiency	Metabolic	G6PD, G6PD1
+1138	GABA-transaminase deficiency	Metabolic	ABAT, GABAT
+1139	Galactokinase deficiency with cataracts	Metabolic	GALK1
+1140	Galactose epimerase deficiency	Metabolic	GALE
+1141	Galactosemia	Metabolic	GALT
+1142	Galactosialidosis	Metabolic	PPGB, GSL, NGBE, GLB2, CTSA
+1143	GAMT deficiency	Metabolic	GAMT
+1144	Gardner syndrome	Cancer	APC, GS, FPC
+1145	Gastric cancer	Cancer	APC, GS, FPC
+1146	Gastric cancer	Cancer	IRF1, MAR
+1147	Gastric cancer, familial diffuse	Cancer	CDH1, UVO
+1148	Gastric cancer risk after H. pylori infection	Cancer	IL1B
+1149	Gastric cancer risk after H. pylori infection	Cancer	IL1RN
+1150	Gastric cancer, somatic	Cancer	CASP10, MCH4, ALPS2
+1151	Gastric cancer, somatic	Cancer	ERBB2, NGL, NEU, HER2
+1152	Gastric cancer, somatic	Cancer	FGFR2, BEK, CFD1, JWS
+1153	Gastric cancer, somatic	Cancer	KLF6, COPEB, BCD1, ZF9
+1154	Gastric cancer, somatic	Cancer	MUTYH
+1155	Gastrointestinal stromal tumor, somatic	Cancer	KIT, PBT
+1156	Gastrointestinal stromal tumor, somatic	Cancer	PDGFRA
+1157	Gaucher disease	Metabolic	GBA
+1158	Gaucher disease, variant form	Metabolic	PSAP, SAP1
+1159	Gaucher disease with cardiovascular calcification	Metabolic	GBA
+1160	Gaze palsy, horizontal, with progressive scoliosis	Neurological	ROBO3, RBIG1, RIG1, HGPPS
+1161	Generalized epilepsy and paroxysmal dyskinesia	Neurological	KCNMA1, SLO
+1162	Generalized epilepsy with febrile seizures plus	Neurological	SCN1B, GEFSP1
+1163	Germ cell tumor	Cancer	BCL10
+1164	Germ cell tumors	Cancer	KIT, PBT
+1165	Gerstmann-Straussler disease	Neurological	PRNP, PRIP
+1166	Giant axonal neuropathy-1	Neurological	GAN, GAN1
+1167	Giant-cell fibroblastoma	Cancer	PDGFB, SIS
+1168	Giant cell hepatitis, neonatal	Gastrointestinal	CYP7B1
+1169	Giant platelet disorder, isolated	Hematological	GP1BB
+1170	Gilbert syndrome	Metabolic	UGT1A1, UGT1, GNT1
+1171	Gitelman syndrome	Renal	SLC12A3, NCCT, TSC
+1172	Glanzmann thrombasthenia, type A	Hematological	ITGA2B, GP2B, CD41B
+1173	Glanzmann thrombasthenia, type B	Hematological	ITGB3, GP3A
+1174	Glaucoma 1A, primary open angle, juvenile-onset	Ophthamological	MYOC, TIGR, GLC1A, JOAG, GPOA
+1175	Glaucoma 1A, primary open angle, recessive	Ophthamological	MYOC, TIGR, GLC1A, JOAG, GPOA
+1176	Glaucoma 1E, primary open angle, adult-onset	Ophthamological	OPTN, GLC1E, FIP2, HYPL, NRP
+1177	Glaucoma 3A, primary congenital	Ophthamological	CYP1B1, GLC3A
+1178	Glaucoma, early-onset, digenic	Ophthamological	CYP1B1, GLC3A
+1179	Glaucoma, early-onset, digenic	Ophthamological	MYOC, TIGR, GLC1A, JOAG, GPOA
+1180	Glaucoma, normal tension, susceptibility to	Ophthamological	OPA1, NTG, NPG
+1181	Glaucoma, normal tension, susceptibility to	Ophthamological	OPTN, GLC1E, FIP2, HYPL, NRP
+1182	Glaucoma, primary open angle, adult-onset	Ophthamological	CYP1B1, GLC3A
+1183	Glaucoma, primary open angle, juvenile-onset	Ophthamological	CYP1B1, GLC3A
+1184	Glioblastoma, early-onset	Cancer	MSH2, COCA1, FCC1, HNPCC1
+1185	Glioblastoma multiforme, somatic	Cancer	DMBT1
+1186	Glioblastoma, somatic	Cancer	ERBB2, NGL, NEU, HER2
+1187	Glioblastoma, somatic	Cancer	LGI1, EPT, ETL1
+1188	Glioblastoma, susceptibility to	Cancer	PPARG, PPARG1, PPARG2
+1189	Glomerulocystic kidney disease, hypoplastic	Renal	TCF2, HNF2
+1190	Glomerulosclerosis, focal segmental, 1	Renal	ACTN4, FSGS1, FSGS
+1191	Glomerulosclerosis, focal segmental, 2	Renal	TRPC6, TRP6, FSGS2
+1192	Glomerulosclerosis, focal segmental, 3	Renal	CD2AP, CMS
+1193	Glomuvenous malformations	Cardiovascular	GLML, GVM, VMGLOM
+1194	Glucocorticoid deficiency 2	Endocrine	MRAP, FALP, C21orf61
+1195	Glucocorticoid deficiency, due to ACTH unresponsiveness	Endocrine	MC2R
+1196	Glucose/galactose malabsorption	Metabolic	SLC5A1, SGLT1
+1197	Glucose transport defect, blood-brain barrier	Metabolic	SLC2A1, GLUT1
+1198	Glucosidase I deficiency	Metabolic	GCS1
+1199	Glutamate formiminotransferase deficiency	Metabolic	FTCD
+1200	Glutaricaciduria, type I	Metabolic	GCDH
+1201	Glutaricaciduria, type IIA	Metabolic	ETFA, GA2, MADD
+1202	Glutaricaciduria, type IIB	Metabolic	ETFB, MADD
+1203	Glutaricaciduria, type IIC	Metabolic	ETFDH, MADD
+1204	Glutathione synthetase deficiency	Metabolic	GSS, GSHS
+1205	Glycerol kinase deficiency	Metabolic	GK
+1206	Glycine encephalopathy	Metabolic	AMT, NKH, GCE
+1207	Glycine encephalopathy	Metabolic	GCSH, NKH
+1208	Glycine encephalopathy	Metabolic	GLDC, HYGN1, GCSP, GCE, NKH
+1209	Glycine N-methyltransferase deficiency	Metabolic	GNMT
+1210	Glycogenosis, hepatic, autosomal	Metabolic	PHKG2
+1211	Glycogenosis, X-linked hepatic, type I	Metabolic	PHKA2, PHK
+1212	Glycogenosis, X-linked hepatic, type II	Metabolic	PHKA2, PHK
+1213	Glycogen storage disease I	Metabolic	G6PC, G6PT
+1214	Glycogen storage disease Ib	Metabolic	G6PT1
+1215	Glycogen storage disease Ic	Metabolic	G6PT1
+1216	Glycogen storage disease II	Metabolic	GAA
+1217	Glycogen storage disease IIb	Metabolic	LAMP2, LAMPB
+1218	Glycogen storage disease IIIa	Metabolic	AGL, GDE
+1219	Glycogen storage disease IIIb	Metabolic	AGL, GDE
+1220	Glycogen storage disease IV	Metabolic	GBE1
+1221	Glycogen storage disease, type 0	Metabolic	GYS2
+1222	Glycogen storage disease VI	Metabolic	PYGL
+1223	Glycogen storage disease VII	Metabolic	PFKM
+1224	GM1-gangliosidosis	Metabolic	GLB1
+1225	GM2-gangliosidosis, AB variant	Metabolic	GM2A
+1226	GM2-gangliosidosis, several forms	Metabolic	HEXA, TSD
+1227	Gnthodiaphyseal dysplasia	Bone	TMEM16E, GDD1
+1228	Goiter, congenital	Endocrine	TPO, TPX
+1229	Goiter, nonendemic, simple	Endocrine	TG, AITD3
+1230	Goldberg-Shprintzen megacolon syndrome	multiple	KIAA1279
+1231	Gonadal dysgenesis, 46XY, partial, with minifascicular neuropathy	Endocrine	DHH
+1232	Gonadal dysgenesis, XY type	Endocrine	SRY, TDF
+1233	GRACILE syndrome	Metabolic	BCS1L, FLNMS, GRACILE
+1234	Graft-versus-host disease, protection against	Immunological	IL10, CSIF
+1235	Graves disease, susceptibility to	Endocrine	CTLA4
+1236	Graves disease, susceptibility to, 3	Endocrine	GC, DBP
+1237	Greenberg dysplasia	Skeletal	LBR, PHA
+1238	Greig cephalopolysyndactyly syndrome	Skeletal	GLI3, PAPA, PAPB, ACLS
+1239	Griscelli syndrome, type 1	Dermatological	MYO5A, MYH12, GS1
+1240	Griscelli syndrome, type 2	Dermatological	RAB27A, RAM, GS2
+1241	Griscelli syndrome, type 3	Dermatological	MLPH
+1242	Growth hormone deficient dwarfism	Endocrine	GHRHR
+1243	Growth hormone insensitivity with immunodeficiency	Endocrine	STAT5B
+1244	Growth retardation with deafness and mental retardation due to IGF1 deficiency	Developmental	IGF1
+1245	Guttmacher syndrome	multiple	HOXA13, HOX1J
+1246	Gyrate atrophy of choroid and retina with ornithinemia, B6 responsive or unresponsive	Metabolic	OAT
+1247	Hailey-Hailey disease	Dermatological	ATP2C1, BCPM, HHD
+1248	Haim-Munk syndrome	multiple	CTSC, CPPI, PALS, PLS, HMS
+1249	Hand-foot-uterus syndrome	multiple	HOXA13, HOX1J
+1250	Harderoporphyrinuria	Metabolic	CPO
+1251	HARP syndrome	Metabolic	PANK2, NBIA1, PKAN, HARP
+1252	Hartnup disorder	Metabolic	SLC6A19, HND
+1253	Hay-Wells syndrome	multiple	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+1254	HDL deficiency, familial	Metabolic	ABCA1, ABC1, HDLDT1, TGD
+1255	HDL response to hormone replacement, augmented	Metabolic	ESR1, ESR
+1256	Hearing loss, low-frequency sensorineural	Ear,Nose,Throat	WFS1, WFRS, WFS, DFNA6
+1257	Heart block, nonprogressive	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+1258	Heart block, progressive, type I	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+1259	Heinz body anemia	Hematological	HBA2
+1260	Heinz body anemias, alpha-	Hematological	HBA1
+1261	Heinz body anemias, beta-	Hematological	HBB
+1262	HELLP syndrome, maternal, of pregnancy	Metabolic	HADHA, MTPA
+1263	Hemangioblastoma, cerebellar, somatic	Cancer	VHL
+1264	Hemangioma, capillary infantile, somatic	Cancer	FLT4, VEGFR3, PCL
+1265	Hemangioma, capillary infantile, somatic	Cancer	KDR
+1266	Hematopoiesis, cyclic	Hematological	ELA2
+1267	Hematuria, familial benign	Renal	COL4A4
+1268	Heme oxygenase-1 deficiency	Metabolic	HMOX1
+1269	Hemiplegic migraine, familial	Neurological	CACNA1A, CACNL1A4, SCA6
+1270	Hemochromatosis	Metabolic	HFE, HLA-H, HFE1
+1271	Hemochromatosis, juvenile	Metabolic	HAMP, LEAP1, HEPC, HFE2
+1272	Hemochromatosis, juvenile, digenic	Metabolic	HAMP, LEAP1, HEPC, HFE2
+1273	Hemochromatosis, type 2A	Metabolic	HJV, HFE2A
+1274	Hemochromatosis, type 3	Metabolic	TFR2, HFE3
+1275	Hemochromatosis, type 4	Metabolic	SLC40A1, SLC11A3, FPN1, IREG1, HFE4
+1276	Hemoglobin H disease	Hematological	HBA2
+1277	Hemolytic anemia due to adenylate kinase deficiency	Hematological	AK1
+1278	Hemolytic anemia due to band 3 defect defect	Hematological	SLC4A1, AE1, EPB3
+1279	Hemolytic anemia due to bisphosphoglycerate mutase deficiency	Hematological	BPGM
+1280	Hemolytic anemia due to G6PD deficiency	Hematological	G6PD, G6PD1
+1281	Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency	Hematological	GCLC, GLCLC
+1282	Hemolytic anemia due to glucosephosphate isomerase deficiency	Hematological	GPI
+1283	Hemolytic anemia due to glutathione synthetase deficiency	Hematological	GSS, GSHS
+1284	Hemolytic anemia due to hexokinase deficiency	Hematological	HK1
+1285	Hemolytic anemia due to PGK deficiency	Hematological	PGK1, PGKA
+1286	Hemolytic anemia due to triosephosphate isomerase deficiency	Hematological	TPI1
+1287	Hemolytic-uremic syndrome	Hematological	HF1, CFH, HUS
+1288	Hemophagocytic lymphohistiocytosis, familial, 2	Hematological	PRF1, HPLH2
+1289	Hemophagocytic lymphohistiocytosis, familial, 3	Hematological	UNC13D, MUNC13-4, HPLH3, HLH3, FHL3
+1290	Hemophilia A	Hematological	F8, F8C, HEMA
+1291	Hemophilia B	Hematological	F9, HEMB
+1292	Hemorrhagic diathesis due to \`antithrombin\' Pittsburgh	Hematological	PI, AAT
+1293	Hemorrhagic diathesis due to factor V deficiency	Hematological	F5
+1294	Hemosiderosis, systemic, due to aceruloplasminemia	Hematological	CP
+1295	Hepatic adenoma	Cancer	TCF1, HNF1A, MODY3
+1296	Hepatic failure, early onset, and neurologic disorder	Gastrointestinal	SCOD1, SCO1
+1297	Hepatic lipase deficiency	Metabolic	LIPC
+1298	Hepatoblastoma	Cancer	CTNNB1
+1299	Hepatocellular cancer	Cancer	PDGFRL, PDGRL, PRLTS
+1300	Hepatocellular carcinoma	Cancer	AXIN1, AXIN
+1301	Hepatocellular carcinoma	Cancer	CTNNB1
+1302	Hepatocellular carcinoma	Cancer	TP53, P53, LFS1
+1303	Hepatocellular carcinoma	Cancer	IGF2R, MPRI
+1304	Hepatocellular carcinoma, childhood type	Cancer	MET
+1305	Hepatocellular carcinoma, somatic	Cancer	CASP8, MCH5
+1306	Hereditary hemorrhagic telangiectasia-1	Cardiovascular	ENG, END, HHT1, ORW
+1307	Hereditary hemorrhagic telangiectasia-2	Cardiovascular	ACVRL1, ACVRLK1, ALK1, HHT2
+1308	Hereditary persistence of alpha-fetoprotein	Hematological	AFP, HPAFP
+1309	Hermansky-Pudlak syndrome	multiple	HPS1
+1310	Hermansky-Pudlak syndrome	multiple	HPS3
+1311	Hermansky-Pudlak syndrome	multiple	HPS4
+1312	Hermansky-pudlak syndrome	multiple	HPS5, RU2, KIAA1017
+1313	Hermansky-Pudlak syndrome	multiple	HPS6, RU
+1314	Hermansky-Pudlak syndrome	multiple	AP3B1, ADTB3A, HPS2
+1315	Hermansky-Pudlak syndrome 7	multiple	DTNBP1, HPS7
+1316	Heterotaxy, visceral	multiple	CFC1, CRYPTIC, HTX2
+1317	Heterotaxy, X-linked visceral	multiple	ZIC3, HTX1, HTX
+1318	Heterotopia, periventricular	Neurological	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+1319	Heterotopia, periventricular, ED variant	Neurological	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+1320	Heterotopia, periventricular nodular, with frontometaphyseal dysplasia	Neurological	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+1321	Hex A pseudodeficiency	Metabolic	HEXA, TSD
+1322	High-molecular-weight kininogen deficiency	Hematological	KNG
+1323	Hirschsprung disease	Gastrointestinal	EDN3
+1324	Hirschsprung disease	Gastrointestinal	GDNF
+1325	Hirschsprung disease	Gastrointestinal	NRTN, NTN
+1326	Hirschsprung disease	Gastrointestinal	RET, MEN2A
+1327	Hirschsprung disease-2	Gastrointestinal	EDNRB, HSCR2, ABCDS
+1328	Hirschsprung disease, cardiac defects, and autonomic dysfunction	Gastrointestinal	ECE1
+1329	Hirschsprung disease, short-segment	Gastrointestinal	PMX2B, NBPHOX, PHOX2B
+1330	Histidinemia	Metabolic	HAL, HSTD
+1331	Histiocytoma	Cancer	TP53, P53, LFS1
+1332	HIV-1 disease, delayed progression of	Immunological	CCL5, SCYA5, D17S136E, TCP228
+1333	HIV-1 disease, rapid progression of	Immunological	CCL5, SCYA5, D17S136E, TCP228
+1334	HIV-1, susceptibility to	Immunological	IL10, CSIF
+1335	HIV infection, susceptibility/resistance to	Immunological	CMKBR2, CCR2
+1336	HIV infection, susceptibility/resistance to	Immunological	CMKBR5, CCCKR5
+1337	HMG-CoA lyase deficiency	Metabolic	HMGCL
+1338	HMG-CoA synthase-2 deficiency	Metabolic	HMGCS2
+1339	Holocarboxylase synthetase deficiency	Metabolic	HLCS, HCS
+1340	Holoprosencephaly-2	Developmental	SIX3, HPE2
+1341	Holoprosencephaly-3	Developmental	SHH, HPE3, HLP3, SMMCI
+1342	Holoprosencephaly-4	Developmental	TGIF, HPE4
+1343	Holoprosencephaly-5	Developmental	ZIC2, HPE5
+1344	Holoprosencephaly-7	Developmental	PTCH, NBCCS, BCNS, HPE7
+1345	Holt-Oram syndrome	Developmental	TBX5
+1346	Homocysteine, total plasma, elevated	Metabolic	CTH
+1347	Homocystinuria, B6-responsive and nonresponsive types	Metabolic	CBS
+1348	Homocystinuria due to MTHFR deficiency	Metabolic	MTHFR
+1349	Homocystinuria-megaloblastic anemia, cbl E type	Metabolic	MTRR
+1350	Homozygous 2p16 deletion syndrome	multiple	SLC3A1, ATR1, D2H, NBAT
+1351	Hoyeraal-Hreidarsson syndrome	multiple	DKC1, DKC
+1352	HPFH, deletion type	Hematological	HBB
+1353	HPFH, nondeletion type A	Hematological	HBG1
+1354	HPFH, nondeletion type G	Hematological	HBG2
+1355	HPRT-related gout	Metabolic	HPRT1, HPRT
+1356	H. pylori infection, susceptibility to	Immunological	IFNGR1
+1357	Huntington disease	Neurological	HD, IT15
+1358	Huntington disease-like 1	Neurological	PRNP, PRIP
+1359	Huntington disease-like 2	Neurological	JPH3, JP3, HDL2
+1360	Huntington disease-like-4	Neurological	TBP, SCA17
+1361	Hyalinosis, infantile systemic	multiple	ANTXR2, CMG2, JHF, ISH
+1362	Hydrocephalus due to aqueductal stenosis	Neurological	L1CAM, CAML1, HSAS1
+1363	Hydrocephalus with congenital idiopathic intestinal pseudoobstruction	Neurological	L1CAM, CAML1, HSAS1
+1364	Hydrocephalus with Hirschsprung disease and cleft palate	Neurological	L1CAM, CAML1, HSAS1
+1365	Hyperalphalipoproteinemia	Metabolic	CETP
+1366	Hyperammonemia with hypoornithinemia, hypocitrullinemia, hypoargininemia, and hypoprolinemia	Metabolic	PYCS, GSAS
+1367	Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency	Endocrine	CYP21A2, CYP21, CA21H
+1368	Hyperapobetalipoproteinemia, susceptibility to	Metabolic	PPARA, PPAR
+1369	Hyperbilirubinemia, familial transcient neonatal	Gastrointestinal	UGT1A1, UGT1, GNT1
+1370	Hypercalciuria, absorptive, susceptibility to	Renal	SAC, HCA2
+1371	Hypercholanemia, familial	Gastrointestinal	BAAT
+1372	Hypercholanemia, familial	Gastrointestinal	EPHX1
+1373	Hypercholanemia, familial	Gastrointestinal	TJP2, ZO2
+1374	Hypercholesterolemia, due to ligand-defective apo B	Metabolic	APOB, FLDB
+1375	Hypercholesterolemia, familial	Metabolic	LDLR, FHC, FH
+1376	Hypercholesterolemia, familial, 3	Metabolic	PCSK9, NARC1, HCHOLA3, FH3
+1377	Hypercholesterolemia, familial, autosomal recessive	Metabolic	ARH, FHCB2, FHCB1
+1378	Hypercholesterolemia, familial, due to LDLR defect, modifier of	Metabolic	EPHX2
+1379	Hypercholesterolemia, familial, modification of	Metabolic	APOA2
+1380	Hypercholesterolemia, susceptibility to	Metabolic	GSBS
+1381	Hypercholesterolemia, susceptibility to	Metabolic	ITIH4, PK120, ITIHL1
+1382	Hyperekplexia and spastic paraparesis	Neurological	GLRA1, STHE
+1383	Hyperekplexia, autosomal recessive	Neurological	GLRB
+1384	Hypereosinophilic syndrome, idiopathic, resistant to imatinib	Hematological	PDGFRA
+1385	Hyperferritinemia-cataract syndrome	Ophthamological	FTL
+1386	Hyper-IgD syndrome	Immunological	MVK, MVLK
+1387	Hyperinsulinism, familial	Metabolic	GCK
+1388	Hyperinsulinism-hyperammonemia syndrome	Metabolic	GLUD1
+1389	Hyperkalemic periodic paralysis	Neurological	SCN4A, HYPP, NAC1A
+1390	Hyperkeratotic cutaneous capillary-venous malformations associated with cerebral capillary malformations	Neurological	CCM1, CAM, KRIT1
+1391	Hyperlipidemia, familial combined, susceptibility to	Metabolic	USF1, HYPLIP1
+1392	Hyperlipoproteinemia, type Ib	Metabolic	APOC2
+1393	Hyperlipoproteinemia, type III	Metabolic	APOE, AD2
+1394	Hyperlysinemia	Metabolic	AASS
+1395	Hypermethioninemia, persistent, autosomal dominant, due to methionine adenosyltransferase I/III deficiency	Metabolic	MAT1A, MATA1, SAMS1
+1396	Hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase	Metabolic	AHCY, SAHH
+1397	Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome	Metabolic	SLC25A15, ORNT1, HHH
+1398	Hyperostosis, endosteal	Bone	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+1399	Hyperoxaluria, primary, type 1	Metabolic	AGXT, SPAT
+1400	Hyperoxaluria, primary, type II	Metabolic	GRHPR, GLXR
+1401	Hyperparathyroidism, AD	Endocrine	MEN1
+1402	Hyperparathyroidism, familial primary	Endocrine	HRPT2, C1orf28
+1403	Hyperparathyroidism-jaw tumor syndrome	Endocrine	HRPT2, C1orf28
+1404	Hyperparathyroidism, neonatal	Endocrine	CASR, HHC1, PCAR1, FIH
+1405	Hyperphenylalaninemia due to pterin-4a-carbinolamine dehydratase deficiency	Metabolic	PCBD, DCOH
+1406	Hyperphenylalaninemia, mild	Metabolic	PAH, PKU1
+1407	Hyperproinsulinemia, familial	Endocrine	INS
+1408	Hyperprolinemia, type I	Metabolic	PRODH, PRODH2, SCZD4
+1409	Hyperprolinemia, type II	Metabolic	ALDH4A1, ALDH4, P5CDH
+1410	Hyperproreninemia	Cardiovascular	REN
+1411	Hyperprothrombinemia	Hematological	F2
+1412	Hypertension, diastolic, resistance to	Cardiovascular	KCNMB1
+1413	Hypertension, early-onset, autosomal dominant, with exacerbation in pregnancy	Cardiovascular	NR3C2, MLR, MCR
+1414	Hypertension, essential	Cardiovascular	AGTR1, AGTR1A, AT2R1
+1415	Hypertension, essential	Cardiovascular	PTGIS, CYP8A1, PGIS, CYP8
+1416	Hypertension, essential, salt-sensitive	Cardiovascular	ADD1
+1417	Hypertension, essential, susceptibility to	Cardiovascular	AGT, SERPINA8
+1418	Hypertension, essential, susceptibility to	Cardiovascular	ECE1
+1419	Hypertension, essential, susceptibility to	Cardiovascular	GNB3
+1420	Hypertension, insulin resistance-related, susceptibility to	Cardiovascular	RETN, RSTN, FIZZ3
+1421	Hypertension, mild low-renin	Cardiovascular	HSD11B2, HSD11K
+1422	Hypertension, pregnancy-induced	Cardiovascular	NOS3
+1423	Hypertension, salt-sensitive essential, susceptibility to	Cardiovascular	CYP3A5, P450PCN3
+1424	Hypertension, susceptibility to	Cardiovascular	NOS3
+1425	Hyperthroidism, congenital	Endocrine	TSHR
+1426	Hyperthyroidism, congenital	Endocrine	TPO, TPX
+1427	Hypertriglyceridemia, one form	Metabolic	APOA1
+1428	Hypertriglyceridemia, susceptibility to	Metabolic	APOA5
+1429	Hypertriglyceridemia, susceptibility to	Metabolic	LIPI, LPDL, PRED5
+1430	Hypertriglyceridemia, susceptibility to	Metabolic	RP1, ORP1
+1431	Hypertrypsinemia, neonatal	Gastrointestinal	CFTR, ABCC7, CF, MRP7
+1432	Hyperuricemic nephropathy, familial juvenile	Renal	UMOD, HNFJ, FJHN, MCKD2, ADMCKD2
+1433	Hypoaldosteronism, congenital, due to CMO I deficiency	Metabolic	CYP11B2
+1434	Hypoaldosteronism, congenital, due to CMO II deficiency	Metabolic	CYP11B2
+1435	Hypoalphalipoproteinemia	Metabolic	APOA1
+1436	Hypobetalipoproteinemia	Metabolic	APOB, FLDB
+1437	Hypocalcemia, autosomal dominant	Endocrine	CASR, HHC1, PCAR1, FIH
+1438	Hypocalcemia, autosomal dominant, with Bartter syndrome	Endocrine	CASR, HHC1, PCAR1, FIH
+1439	Hypocalciuric hypercalcemia, type I	Endocrine	CASR, HHC1, PCAR1, FIH
+1440	Hypoceruloplasminemia, hereditary	Metabolic	CP
+1441	Hypochondroplasia	Skeletal	FGFR3, ACH
+1442	Hypochromic microcytic anemia	Hematological	HBA2
+1443	Hypodontia	Skeletal	PAX9
+1444	Hypodontia, autosomal dominant	Skeletal	MSX1, HOX7, HYD1, OFC5
+1445	Hypodontia with orofacial cleft	Skeletal	MSX1, HOX7, HYD1, OFC5
+1446	Hypofibrinogenemia, gamma type	Hematological	FGG
+1447	Hypoglobulinemia and absent B cells	Immunological	BLNK, SLP65
+1448	Hypoglycemia of infancy, leucine-sensitive	Metabolic	ABCC8, SUR, PHHI, SUR1
+1449	Hypoglycemia of infancy, persistent hyperinsulinemic	Metabolic	ABCC8, SUR, PHHI, SUR1
+1450	Hypogonadism, hypergonadotropic	Endocrine	LHB
+1451	Hypogonadotropic hypogonadism	Endocrine	GPR54
+1452	Hypogonadotropic hypogonadism	Endocrine	NELF
+1453	Hypogonadotropic hypogonadism	Endocrine	GNRHR, LHRHR
+1454	Hypogonadotropic hypogonadism	Endocrine	LHCGR
+1455	Hypohaptoglobinemia	Hematological	HP
+1456	Hypokalemic periodic paralysis	Renal	CACNA1S, CACNL1A3, CCHL1A3
+1457	Hypokalemic periodic paralysis	Renal	KCNE3, HOKPP
+1458	Hypokalemic periodic paralysis	Renal	SCN4A, HYPP, NAC1A
+1459	Hypolactasia, adult type	Metabolic	LCT, LAC, LPH
+1460	Hypolactasia, adult type	Metabolic	MCM6
+1461	Hypomagnesemia-2, renal	Renal	FXYD2, ATP1G1, HOMG2
+1462	Hypomagnesemia, primary	Renal	CLDN16, PCLN1
+1463	Hypomagnesemia with secondary hypocalcemia	Renal	TRPM6, CHAK2
+1464	Hypoparathyroidism, autosomal dominant	Endocrine	PTH
+1465	Hypoparathyroidism, autosomal recessive	Endocrine	PTH
+1466	Hypoparathyroidism, familial isolated	Endocrine	GCMB
+1467	Hypoparathyroidism-retardation-dysmorphism syndrome	Endocrine	TBCE, KCS, KCS1, HRD
+1468	Hypoparathyroidism, sensorineural deafness, and renal dysplasia	Endocrine	GATA3, HDR
+1469	Hypophosphatasia, childhood	Metabolic	ALPL, HOPS, TNSALP
+1470	Hypophosphatasia, infantile	Metabolic	ALPL, HOPS, TNSALP
+1471	Hypophosphatemia, type III	Metabolic	CLCN5, CLCK2, NPHL2, DENTS
+1472	Hypophosphatemia, X-linked	Metabolic	PHEX, HYP, HPDR1
+1473	Hypophosphatemic rickets, autosomal dominant	Bone	FGF23, ADHR, HPDR2, PHPTC
+1474	Hypoplastic enamel pitting, localized	Connective tissue	ENAM
+1475	Hypoplastic left heart syndrome	Cardiovascular	GJA1, CX43, ODDD, SDTY3, ODOD
+1476	Hypoprothrombinemia	Hematological	F2
+1477	Hypothyroidism, autoimmune	Endocrine	CTLA4
+1478	Hypothyroidism, congenital	Endocrine	SLC5A5, NIS
+1479	Hypothyroidism, congenital, due to DUOX2 deficiency	Endocrine	DUOX2, THOX2
+1480	Hypothyroidism, congenital, due to thyroid dysgenesis or hypoplasia	Endocrine	PAX8
+1481	Hypothyroidism, congenital, due to TSH resistance	Endocrine	TSHR
+1482	Hypothyroidism, hereditary congenital	Endocrine	TG, AITD3
+1483	Hypothyroidism, nongoitrous	Endocrine	TSHB
+1484	Hypothyroidism, subclinical	Endocrine	TSHR
+1485	Hypotrichosis, congential, with juvenile macular dystrophy	Dermatological	CDH3, CDHP, PCAD, HJMD
+1486	Hypotrichosis, localized, autosomal recessive	Dermatological	DSG4, LAH
+1487	Hypotrichosis-lymphedema-telangiectasia syndrome	Dermatological	SOX18, HLTS
+1488	Hypotrichosis simplex of scalp	Dermatological	CDSN, HTSS
+1489	Hypouricemia, renal	Renal	SLC22A12, OAT4L, URAT1
+1490	Hystrix-like ichthyosis with deafness	multiple	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+1491	Ichthyosiform erythroderma, congenital	Dermatological	TGM1, ICR2, LI1
+1492	Ichthyosiform erythroderma, congenital, nonbullous, 1	Dermatological	ALOX12B
+1493	Ichthyosiform erythroderma, congenital, nonbullous, 1	Dermatological	ALOXE3
+1494	Ichthyosis bullosa of Siemens	Dermatological	KRT2A, KRT2E
+1495	Ichthyosis, congenital, autosomal recessive	Dermatological	ICHYN
+1496	Ichthyosis, cyclic, with epidermolytic hyperkeratosis	Dermatological	KRT10
+1497	Ichthyosis, harlequin	Dermatological	ABCA12, ICR2B, LI2
+1498	Ichthyosis histrix, Curth-Macklin type	Dermatological	KRT1
+1499	Ichthyosis, lamellar 2	Dermatological	ABCA12, ICR2B, LI2
+1500	Ichthyosis, lamellar, autosomal recessive	Dermatological	TGM1, ICR2, LI1
+1501	Ichthyosis, X-linked	Dermatological	STS, ARSC1, ARSC, SSDD
+1502	ICOS deficiency	Immunological	ICOS, AILIM
+1503	IgE levels QTL	Immunological	PHF11, NYREN34
+1504	IgG2 deficiency, selective	Immunological	IGHG2
+1505	IgG receptor I, phagocytic, familial deficiency of	Immunological	FCGR1A, IGFR1, CD64
+1506	Immunodeficiency-centromeric instability-facial anomalies syndrome	multiple	DNMT3B, ICF
+1507	Immunodeficiency due to defect in CD3-epsilon	Immunological	CD3E
+1508	Immunodeficiency due to defect in CD3-gamma	Immunological	CD3G
+1509	Immunodeficiency with hyper-IgM, type 2	Immunological	AICDA, AID, HIGM2
+1510	Immunodeficiency with hyper-IgM, type 3	Immunological	TNFRSF5, CD40
+1511	Immunodeficiency with hyper IgM, type 4	Immunological	UNG, DGU, HIGM4
+1512	Immunodeficiency, X-linked, with hyper-IgM	Immunological	TNFSF5, CD40LG, HIGM1, IGM
+1513	Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked	multiple	FOXP3, IPEX, AIID, XPID, PIDX
+1514	Immunoglobulin A deficiency	Immunological	TNFRSF14B, TACI
+1515	Inclusion body myopathy-3	Muscular	MYH2
+1516	Inclusion body myopathy, autosomal recessive	Muscular	GNE, GLCNE, IBM2, DMRV, NM
+1517	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia	Muscular	VCP, IBMPFD
+1518	Incontinentia pigmenti, type II	Dermatological	IKBKG, NEMO, FIP3, IP2
+1519	Infantile spasm syndrome	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+1520	Infundibular hypoplasia and hypopituitarism	Endocrine	SOX3, MRGH
+1521	Inosine triphosphatase deficiency	Metabolic	ITPA
+1522	Insensitivity to pain, congenital, with anhidrosis	Neurological	NTRK1, TRKA, MTC
+1523	Insomnia ()	Psychiatric	GABRB3
+1524	Insomnia, fatal familial	Psychiatric	PRNP, PRIP
+1525	Insulin resistance, severe, digenic	Metabolic	PPARG, PPARG1, PPARG2
+1526	Insulin resistance, severe, digenic	Metabolic	PPP1R3A, PPP1R3
+1527	Insulin resistance, susceptibility to	Metabolic	PTPN1, PTP1B
+1528	Interleukin-2 receptor, alpha chain, deficiency of	Immunological	IL2RA, IL2R
+1529	Intervertebral disc disease, susceptibility to	Neurological	COL9A2, EDM2
+1530	Intervertebral disc disease, susceptibility to	Neurological	COL9A3, EDM3, IDD
+1531	Intrauterine and postnatal growth retardation	Developmental	IGF1R
+1532	Intrauterine and postnatal growth retardation	Developmental	IGF2
+1533	Intrinsic factor deficiency	Hematological	GIF, IF
+1534	IRAK4 deficiency	Immunological	IRAK4, REN64
+1535	Iridogoniodysgenesis	Ophthamological	FOXC1, FKHL7, FREAC3
+1536	Iridogoniodysgenesis syndrome-2	Ophthamological	PITX2, IDG2, RIEG1, RGS, IGDS2
+1537	Iris hypoplasia and glaucoma	Ophthamological	FOXC1, FKHL7, FREAC3
+1538	Iron deficiency anemia, susceptibility to	Hematological	TF
+1539	Iron overload, autosomal dominant	Hematological	FTH1, FTHL6
+1540	Isolated growth hormone deficiency, Illig type with absent GH and Kowarski type with bioinactive GH	Endocrine	GH1, GHN
+1541	Isovaleric acidemia	Metabolic	IVD
+1542	Jackson-Weiss syndrome	Skeletal	FGFR1, FLT2, KAL2
+1543	Jackson-Weiss syndrome	Skeletal	FGFR2, BEK, CFD1, JWS
+1544	Jensen syndrome	Neurological	TIMM8A, DFN1, DDP, MTS, DDP1
+1545	Jervell and Lange-Nielsen syndrome	multiple	KCNE1, JLNS, LQT5
+1546	Jervell and Lange-Nielsen syndrome	multiple	KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1
+1547	Joubert syndrome	multiple	NPHP1, NPH1, SLSN1
+1548	Joubert syndrome-3	multiple	AHI1
+1549	Juberg-Marsidi syndrome	multiple	ATRX, XH2, XNP, MRXS3, SHS
+1550	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome	Cancer	MADH4, DPC4, SMAD4, JIP
+1551	Kallikrein, decreased urinary activity of	Renal	KLK1, KLKR
+1552	Kallmann syndrome 2	multiple	FGFR1, FLT2, KAL2
+1553	Kallmann syndrome	multiple	KAL1, KMS, ADMLX
+1554	Kanzaki disease	Metabolic	NAGA
+1555	Kaposi sarcoma, susceptibility to	Immunological	IL6, IFNB2, BSF2
+1556	Kappa light chain deficiency	Immunological	IGKC
+1557	Kartagener syndrome	multiple	DNAH11, DNAHC11
+1558	Kartagener syndrome	multiple	DNAH5, HL1, PCD, CILD3
+1559	Kartagener syndrome	multiple	DNAI1, CILD1, ICS, PCD
+1560	Kenny-Caffey syndrome-1	multiple	TBCE, KCS, KCS1, HRD
+1561	Keratitis	Ophthamological	PAX6, AN2, MGDA
+1562	Keratitis-ichthyosis-deafness syndrome	multiple	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+1563	Keratoconus	Ophthamological	VSX1, RINX, PPCD, PPD, KTCN
+1564	Keratoderma, palmoplantar, with deafness	Dermatological	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+1565	Keratosis follicularis spinulosa decalvans	Dermatological	SAT, SSAT, KFSD
+1566	Keratosis palmoplantaria striata	Dermatological	KRT1
+1567	Keratosis palmoplantaris striata I	Dermatological	DSG1
+1568	Keratosis palmoplantaris striata II	Dermatological	DSP, KPPS2, PPKS2
+1569	Keratosis palmoplantaris striata III	Dermatological	KRT1
+1570	Ketoacidosis due to SCOT deficiency	Metabolic	SCOT, OXCT
+1571	Keutel syndrome	multiple	MGP, NTI
+1572	Kindler syndrome	Dermatological	KIND1, URP1, C20orf42
+1573	Kininogen deficiency	Hematological	KNG
+1574	Klippel-Trenaunay syndrome	multiple	VG5Q, HUS84971, FLJ10283
+1575	Kniest dysplasia	Skeletal	COL2A1
+1576	Knobloch syndrome	multiple	COL18A1, KNO
+1577	Krabbe disease	Neurological	GALC
+1578	L-2-hydroxyglutaric aciduria	Metabolic	L2HGDH, C14orf160
+1579	Lactate dehydrogenase-B deficiency	Metabolic	LDHB
+1580	Lacticacidemia due to PDX1 deficiency	Metabolic	PDX1
+1581	Langer mesomelic dysplasia	Skeletal	SHOX, GCFX, SS, PHOG
+1582	Langer mesomelic dysplasia	Skeletal	SHOXY
+1583	Laron dwarfism	Skeletal	GHR
+1584	Larson syndrome	Skeletal	FLNB, SCT, AOI
+1585	Laryngoonychocutaneous syndrome	multiple	LAMA3, LOCS
+1586	Lathosterolosis	Metabolic	SC5DL, ERG3
+1587	LCHAD deficiency	Metabolic	HADHA, MTPA
+1588	Lead poisoning, susceptibility to	Metabolic	ALAD
+1589	Leanness, inherited	Nutritional	AGRP, ART, AGRT
+1590	Leber congenital amaurosis	Ophthamological	CRB1, RP12
+1591	Leber congenital amaurosis	Ophthamological	CRX, CORD2, CRD
+1592	Leber congenital amaurosis	Ophthamological	RPGRIP1, LCA6, CORD9
+1593	Leber congenital amaurosis-2	Ophthamological	RPE65, RP20
+1594	Leber congenital amaurosis	Ophthamological	AIPL1, LCA4
+1595	Leber congenital amaurosis, type I	Ophthamological	GUCY2D, GUC2D, LCA1, CORD6
+1596	Leber congenital amaurosis, type III	Ophthamological	RDH12, LCA3
+1597	Left-right axis malformations	Developmental	ACVR2B
+1598	Left-right axis malformations	Developmental	EBAF, TGFB4, LEFTY2, LEFTA, LEFTYA
+1599	Left ventricular noncompaction, familial isolated, 1	Cardiovascular	DTNA, D18S892E, DRP3, LVNC1
+1600	Left ventricular noncompaction with congenital heart defects	Cardiovascular	DTNA, D18S892E, DRP3, LVNC1
+1601	Legionaire disease, susceptibility to	Immunological	TLR5, TIL3
+1602	Leigh syndrome	Neurological	BCS1L, FLNMS, GRACILE
+1603	Leigh syndrome	Neurological	DLD, LAD, PHE3
+1604	Leigh syndrome	Neurological	NDUFS3
+1605	Leigh syndrome	Neurological	NDUFS4, AQDQ
+1606	Leigh syndrome	Neurological	NDUFS7, PSST
+1607	Leigh syndrome	Neurological	NDUFS8
+1608	Leigh syndrome	Neurological	NDUFV1, UQOR1
+1609	Leigh syndrome	Neurological	SDHA, SDH2, SDHF
+1610	Leigh syndrome, due to COX deficiency	Neurological	SURF1
+1611	Leigh syndrome due to cytochrome c oxidase deficiency	Neurological	COX15
+1612	Leigh syndrome, French-Canadian type	Neurological	LRPPRC, LRP130, LSFC
+1613	Leigh syndrome, X-linked	Neurological	PDHA1, PHE1A
+1614	Leiomyomatosis and renal cell cancer	Cancer	FH
+1615	Leiomyomatosis, diffuse, with Alport syndrome	Cancer	COL4A6
+1616	Leopard syndrome	multiple	PTPN11, PTP2C, SHP2, NS1
+1617	Leprechaunism	Developmental	INSR
+1618	Leprosy, susceptibility to	Immunological	PRKN, PARK2, PDJ
+1619	Leri-Weill dyschondrosteosis	Skeletal	SHOX, GCFX, SS, PHOG
+1620	Leri-Weill dyschondrosteosis	Skeletal	SHOXY
+1621	Lesch-Nyhan syndrome, 300322,	Metabolic	HPRT1, HPRT
+1622	Leukemia-1, T-cell acute lymphocytic	Cancer	TAL1, TCL5, SCL
+1623	Leukemia-2, T-cell acute lymphoblastic	Cancer	TAL2
+1624	Leukemia, acute lymphoblastic	Cancer	FLT3
+1625	Leukemia, acute lymphoblastic	Cancer	NBS1, NBS
+1626	Leukemia, acute lymphoblastic	Cancer	ZNFN1A1, IK1, LYF1
+1627	Leukemia, acute lymphoblastic, susceptibility to	Cancer	HOXD4, HOX4B
+1628	Leukemia, acute lymphocytic	Cancer	BCR, CML, PHL, ALL
+1629	Leukemia, acute myeloblastic	Cancer	ARNT
+1630	Leukemia, acute myelogenous	Cancer	KRAS2, RASK2
+1631	Leukemia, acute myelogenous	Cancer	GMPS
+1632	Leukemia, acute myeloid	Cancer	AF10
+1633	Leukemia, acute myeloid	Cancer	ARHGEF12, LARG, KIAA0382
+1634	Leukemia, acute myeloid	Cancer	CALM, CLTH
+1635	Leukemia, acute myeloid	Cancer	CEBPA, CEBP
+1636	Leukemia, acute myeloid	Cancer	CHIC2, BTL
+1637	Leukemia, acute myeloid	Cancer	FLT3
+1638	Leukemia, acute myeloid	Cancer	KIT, PBT
+1639	Leukemia, acute myeloid	Cancer	LPP
+1640	Leukemia, acute myeloid	Cancer	NPM1
+1641	Leukemia, acute myeloid	Cancer	NUP214, D9S46E, CAN, CAIN
+1642	Leukemia, acute myeloid	Cancer	RUNX1, CBFA2, AML1
+1643	Leukemia, acute myeloid	Cancer	WHSC1L1, NSD3
+1644	Leukemia, acute myeloid, reduced survival in	Cancer	FLT3
+1645	Leukemia, acute myelomonocytic	Cancer	AF1Q
+1646	Leukemia, acute promyelocytic, NPM/RARA type	Cancer	NPM1
+1647	Leukemia, acute promyelocytic, NUMA/RARA type	Cancer	NUMA1
+1648	Leukemia, acute promyelocytic, PL2F/RARA type	Cancer	ZNF145, PLZF
+1649	Leukemia, acute promyelocytic, PML/RARA type	Cancer	PML, MYL
+1650	Leukemia, acute promyeloyctic, STAT5B/RARA type	Cancer	STAT5B
+1651	Leukemia, acute T-cell lymphoblastic	Cancer	AF10
+1652	Leukemia, acute T-cell lymphoblastic	Cancer	CALM, CLTH
+1653	Leukemia, chronic lymphatic, susceptibility to	Cancer	ARL11, ARLTS1
+1654	Leukemia, chronic lymphatic, susceptibility to	Cancer	P2RX7, P2X7
+1655	Leukemia, chronic myeloid	Cancer	BCR, CML, PHL, ALL
+1656	Leukemia, juvenile myelomonocytic	Cancer	GRAF
+1657	Leukemia, juvenile myelomonocytic	Cancer	NF1, VRNF, WSS, NFNS
+1658	Leukemia, juvenile myelomonocytic	Cancer	PTPN11, PTP2C, SHP2, NS1
+1659	Leukemia/lymphoma, B-cell, 2	Cancer	BCL2
+1660	Leukemia/lymphoma, chronic B-cell	Cancer	CCND1, PRAD1, BCL1
+1661	Leukemia/lymphoma, T-cell	Cancer	TCRA
+1662	Leukemia, megakaryoblastic, of Down syndrome	Cancer	GATA1, GF1, ERYF1, NFE1
+1663	Leukemia, megakaryoblastic, with or without Down syndrome	Cancer	GATA1, GF1, ERYF1, NFE1
+1664	Leukemia, Philadelphia chromosome-positive, resistant to imatinib	Cancer	ABL1
+1665	Leukemia, post-chemotherapy, susceptibility to	Cancer	NQO1, DIA4, NMOR1
+1666	Leukemia, T-cell acute lymphoblastic	Cancer	NUP214, D9S46E, CAN, CAIN
+1667	Leukocyte adhesion deficiency	Immunological	ITGB2, CD18, LCAMB, LAD
+1668	Leukoencephalopathy with vanishing white matter	Neurological	EIF2B1, EIF2BA
+1669	Leukoencephalopathy with vanishing white matter	Neurological	EIF2B2
+1670	Leukoencephalopathy with vanishing white matter	Neurological	EIF2B3
+1671	Leukoencephalopathy with vanishing white matter	Neurological	EIF2B5, LVWM, CACH, CLE
+1672	Leukoencephaly with vanishing white matter	Neurological	EIF2B4
+1673	Leydig cell adenoma, with precocious puberty	Cancer	LHCGR
+1674	Lhermitte-Duclos syndrome	Cancer	PTEN, MMAC1
+1675	Liddle syndrome	Renal	SCNN1B
+1676	Liddle syndrome	Renal	SCNN1G, PHA1
+1677	Li Fraumeni syndrome	Cancer	CDKN2A, MTS1, P16, MLM, CMM2
+1678	Li-Fraumeni syndrome	Cancer	TP53, P53, LFS1
+1679	Li-Fraumeni syndrome	Cancer	CHEK2, RAD53, CHK2, CDS1, LFS2
+1680	LIG4 syndrome	multiple	LIG4
+1681	Limb-mammary syndrome	multiple	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+1682	Lipodystrophy, congenital generalized, type 1	Metabolic	AGPAT2, LPAAB, BSCL, BSCL1
+1683	Lipodystrophy, congenital generalized, type 2	Metabolic	BSCL2, SPG17
+1684	Lipodystrophy, familial partial	Metabolic	LMNA, LMN1, EMD2, FPLD, CMD1A, HGPS, LGMD1B
+1685	Lipodystrophy, familial partial	Metabolic	PPARG, PPARG1, PPARG2
+1686	Lipodystrophy, familial partial, with decreased subcutaneous fat of face and neck	Metabolic	PPARGC1A, PPARGC1
+1687	Lipoid adrenal hyperplasia	Endocrine	STAR
+1688	Lipoid congenital adrenal hyperplasia	Endocrine	CYP11A, P450SCC
+1689	Lipoid proteinosis	Metabolic	ECM1
+1690	Lipoma	Cancer	HMGA2, HMGIC, BABL, LIPO
+1691	Lipoma	Cancer	LPP
+1692	Lipoma, sporadic	Cancer	MEN1
+1693	Lipomatosis, mutiple	Cancer	HMGA2, HMGIC, BABL, LIPO
+1694	Lipoprotein lipase deficiency	Metabolic	LPL, LIPD
+1695	Lissencephaly-1	Neurological	PAFAH1B1, LIS1
+1696	Lissencephaly syndrome, Norman-Roberts type	Neurological	RELN, RL
+1697	Lissencephaly, X-linked	Neurological	DCX, DBCN, LISX
+1698	Lissencephaly, X-linked with ambiguous genitalia	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+1699	Listeria monocytogenes, susceptibility to	Immunological	CDH1, UVO
+1700	Loeys-Dietz syndrome	Connective tissue	TGFBR1
+1701	Loeys-Dietz syndrome	Connective tissue	TGFBR2, HNPCC6
+1702	Longevity, exceptional	Developmental	CETP
+1703	Longevity, reduced	Developmental	AKAP10
+1704	Long QT syndrome-1	Cardiovascular	KCNQ1, KCNA9, LQT1, KVLQT1, ATFB1
+1705	Long QT syndrome-2	Cardiovascular	KCNH2, LQT2, HERG
+1706	Long QT syndrome-3	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+1707	Long QT syndrome 4	Cardiovascular	ANK2, LQT4
+1708	Long QT syndrome-5	Cardiovascular	KCNE1, JLNS, LQT5
+1709	Long QT syndrome-6	Cardiovascular	KCNE2, MIRP1, LQT6
+1710	Long QT syndrome-7	Cardiovascular	KCNJ2, HHIRK1, KIR2.1, IRK1, LQT7
+1711	Lower motor neuron disease, progressive, without sensory symptoms	Neurological	DCTN1
+1712	Lowe syndrome	Metabolic	OCRL, LOCR, OCRL1, NPHL2
+1713	Low renin hypertension, susceptibility to	Cardiovascular	CYP11B2
+1714	LPA deficiency, congenital	Metabolic	LPA
+1715	Lumbar disc disease, susceptibility to	Skeletal	CILP
+1716	Lung cancer	Cancer	KRAS2, RASK2
+1717	Lung cancer	Cancer	PPP2R1B
+1718	Lung cancer	Cancer	SLC22A1L, BWSCR1A, IMPT1
+1719	Lung cancer, somatic	Cancer	MAP3K8, COT, EST, TPL2
+1720	Lupus nephritis, susceptibility to	Connective tissue	FCGR2A, IGFR2, CD32
+1721	Lymphangioleiomyomatosis	Respiratory	TSC1, LAM
+1722	Lymphangioleiomyomatosis, somatic	Respiratory	TSC2, LAM
+1723	Lymphedema and ptosis	Hematological	FOXC2, FKHL14, MFH1
+1724	Lymphedema-distichiasis syndrome	Hematological	FOXC2, FKHL14, MFH1
+1725	Lymphedema-distichiasis syndrome with renal disease and diabetes mellitus	Hematological	FOXC2, FKHL14, MFH1
+1726	Lymphedema, hereditary I	Hematological	FLT4, VEGFR3, PCL
+1727	Lymphedema, hereditary II	Hematological	FOXC2, FKHL14, MFH1
+1728	Lymphocytic leukemia, acute T-cell	Cancer	RAP1GDS1
+1729	Lymphoma, B-cell non-Hodgkin, somatic	Cancer	ATM, ATA, AT1
+1730	Lymphoma, diffuse large cell	Cancer	BCL8
+1731	Lymphoma, follicular	Cancer	BCL10
+1732	Lymphoma, MALT	Cancer	BCL10
+1733	Lymphoma, mantle cell	Cancer	ATM, ATA, AT1
+1734	Lymphoma, non-Hodgkin	Cancer	RAD54B
+1735	Lymphoma, non-Hodgkin	Cancer	RAD54L, HR54, HRAD54
+1736	Lymphoma, progression of	Cancer	FCGR2B, CD32
+1737	Lymphoma, somatic	Cancer	MAD1L1, TXBP181
+1738	Lymphoma, T-cell	Cancer	MSH2, COCA1, FCC1, HNPCC1
+1739	Lymphoproliferative syndrome, X-linked	Cancer	SH2D1A, LYP, IMD5, XLP, XLPD
+1740	Lynch cancer family syndrome II	Cancer	MSH2, COCA1, FCC1, HNPCC1
+1741	Lysinuric protein intolerance	Metabolic	SLC7A7, LPI
+1742	Machado-Joseph disease	Neurological	ATXN3, MJD, SCA3
+1743	Macrocytic anemia, refractory, of 5q- syndrome	Hematological	IRF1, MAR
+1744	Macrothrombocytopenia	Hematological	GATA1, GF1, ERYF1, NFE1
+1745	Macular corneal dystrophy	Ophthamological	CHST6, MCDC1
+1746	Macular degeneration, age-related, 1	Ophthamological	HF1, CFH, HUS
+1747	Macular degeneration, age-related, 1	Ophthamological	HMCN1, FBLN6, FIBL6
+1748	Macular degeneration, age-related, 3	Ophthamological	FBLN5, ARMD3
+1749	Macular degeneration, juvenile	Ophthamological	CNGB3, ACHM3
+1750	Macular degeneration, X-linked atrophic	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+1751	Macular dystrophy	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+1752	Macular dystrophy, age-related, 2	Ophthamological	ABCA4, ABCR, STGD1, FFM, RP19
+1753	Macular dystrophy, autosomal dominant, chromosome 6-linked	Ophthamological	ELOVL4, ADMD, STGD2, STGD3
+1754	Macular dystrophy, vitelliform	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+1755	Macular dystrophy, vitelliform type	Ophthamological	VMD2
+1756	Maculopathy, bull's-eye	Ophthamological	VMD2
+1757	Major depressive disorder and accelerated response to antidepressant drug treatment	Psychiatric	FKBP5, FKBP51
+1758	Malaria, cerebral, reduced risk of	Immunological	CD36
+1759	Malaria, cerebral, susceptibility to	Immunological	CD36
+1760	Malaria, cerebral, susceptibility to	Immunological	ICAM1
+1761	Malaria, cerebral, susceptibility to	Immunological	TNF, TNFA
+1762	Malaria, resistance to	Immunological	GYPC, GE, GPC
+1763	Malaria, resistance to	Immunological	NOS2A, NOS2
+1764	Malignant hyperthermia susceptibility 1	Neurological	RYR1, MHS, CCO
+1765	Malignant hyperthermia susceptibility 5	Neurological	CACNA1S, CACNL1A3, CCHL1A3
+1766	Malonyl-CoA decarboxylase deficiency	Metabolic	MLYCD, MCD
+1767	MALT lymphoma	Cancer	MALT1, MLT
+1768	Mandibuloacral dysplasia with type B lipodystrophy	multiple	ZMPSTE24, FACE1, STE24, MADB
+1769	Mannosidosis, alpha-, types I and II	Metabolic	MAN2B1, MANB
+1770	Mannosidosis, beta	Metabolic	MANBA, MANB1
+1771	Maple syrup urine disease, type Ia	Metabolic	BCKDHA, MSUD1
+1772	Maple syrup urine disease, type Ib	Metabolic	BCKDHB, E1B
+1773	Maple syrup urine disease, type II	Metabolic	DBT, BCATE2
+1774	Maple syrup urine disease, type III	Metabolic	DLD, LAD, PHE3
+1775	Marfan syndrome	Connective tissue	FBN1, MFS1, WMS
+1776	Marfan syndrome, atypical	Connective tissue	COL1A2
+1777	Maroteaux-Lamy syndrome, several forms	Metabolic	ARSB, MPS6
+1778	Marshall syndrome	multiple	COL11A1, STL2
+1779	MASA syndrome	multiple	L1CAM, CAML1, HSAS1
+1780	MASP2 deficiency	Immunological	MASP2
+1781	MASS syndrome	Connective tissue	FBN1, MFS1, WMS
+1782	Mast cell leukemia	Cancer	KIT, PBT
+1783	Mastocytosis with associated hematologic disorder	Immunological	KIT, PBT
+1784	Mast syndrome	Neurological	ACP33, MAST, SPG21
+1785	May-Hegglin anomaly	Hematological	MYH9, MHA, FTNS, DFNA17
+1786	McArdle disease	Metabolic	PYGM
+1787	McCune-Albright syndrome	multiple	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+1788	McKusick-Kaufman syndrome	Developmental	MKKS, HMCS, KMS, MKS, BBS6
+1789	McLeod syndrome	Hematological	XK
+1790	McLeod syndrome with neuroacanthosis	Hematological	XK
+1791	Medullary cystic kidney disease 2	Renal	UMOD, HNFJ, FJHN, MCKD2, ADMCKD2
+1792	Medullary thyroid carcinoma	Cancer	RET, MEN2A
+1793	Medullary thyroid carcinoma, familial	Cancer	NTRK1, TRKA, MTC
+1794	Medulloblastoma	Cancer	PTCH2
+1795	Medulloblastoma, desmoplastic	Cancer	SUFU, SUFUXL, SUFUH
+1796	Meesmann corneal dystrophy	Ophthamological	KRT12
+1797	Meesmann corneal dystrophy	Ophthamological	KRT3
+1798	Megakaryoblastic leukemia, acute	Cancer	MKL1, AMKL, MAL
+1799	Megalencephalic leukoencephalopathy with subcortical cysts	Neurological	MLC1, LVM, VL
+1800	Megaloblastic anemia-1, Finnish type	Hematological	CUBN, IFCR, MGA1
+1801	Megaloblastic anemia-1, Norwegian type	Hematological	AMN
+1802	Melanoma	Cancer	CDK4, CMM3
+1803	Melanoma and neural system tumor syndrome	Cancer	CDKN2A, MTS1, P16, MLM, CMM2
+1804	Melanoma, cutaneous malignant, 2	Cancer	CDKN2A, MTS1, P16, MLM, CMM2
+1805	Melanoma, cutaneous malignant, susceptibility to	Cancer	XRCC3
+1806	Melanoma, malignant sporadic	Cancer	STK11, PJS, LKB1
+1807	Melanoma, melignant, somatic	Cancer	BRAF
+1808	Meleda disease	Dermatological	SLURP1, MDM
+1809	Melnick-Needles syndrome	Skeletal	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+1810	Melorheostosis with osteopoikilosis	Developmental	LEMD3, MAN1
+1811	Memory impairment, susceptibility to	Neurological	BDNF
+1812	Meniere disease 156000 ()	Neurological	COCH, DFNA9
+1813	Meningioma	Cancer	MN1, MGCR
+1814	Meningioma	Cancer	PTEN, MMAC1
+1815	Meningioma, NF2-related, somatic	Cancer	NF2
+1816	Meningioma, SIS-related	Cancer	PDGFB, SIS
+1817	Meningococcal disease, susceptibility to	Immunological	MBL2, MBL, MBP1
+1818	Menkes disease	Neurological	ATP7A, MNK, MK, OHS
+1819	Mental retardation, nonsyndromic, autosomal recessive	Neurological	PRSS12, BSSP3
+1820	Mental retardation, nonsyndromic, autosomal recessive, 2A	Neurological	CRBN, MRT2A
+1821	Mental retardation, X-linked	Neurological	NLGN4, KIAA1260, AUTSX2
+1822	Mental retardation, X-linked	Neurological	MECP2, RTT, PPMX, MRX16, MRX79
+1823	Mental retardation, X-linked 30	Neurological	PAK3, MRX30, MRX47
+1824	Mental retardation, X-linked, 34	Neurological	IL1RAPL, MRX34
+1825	Mental retardation, X-linked 36	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+1826	Mental retardation, X-linked	Neurological	SLC6A8, CRTR
+1827	Mental retardation, X-linked-44	Neurological	FTSJ1, JM23, SPB1, MRX44, MRX9
+1828	Mental retardation, X-linked 45	Neurological	ZNF81, MRX45
+1829	Mental retardation, X-linked 54	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+1830	Mental retardation, X-linked 58	Neurological	TM4SF2, MXS1, A15
+1831	Mental retardation, X-linked, 60	Neurological	OPHN1
+1832	Mental retardation, X-linked-9	Neurological	FTSJ1, JM23, SPB1, MRX44, MRX9
+1833	Mental retardation, X-linked, FRAXE type	Neurological	FMR2, FRAXE, MRX2
+1834	Mental retardation, X-linked, JARID1C-related	Neurological	SMCX, MRXJ, DXS1272E, XE169, JARID1C
+1835	Mental retardation, X-linked nonspecific	Neurological	GDI1, RABGD1A, MRX41, MRX48
+1836	Mental retardation, X-linked nonspecific, 63	Neurological	FACL4, ACS4, MRX63
+1837	Mental retardation, X-linked nonspecific, type 19	Neurological	RPS6KA3, RSK2, MRX19
+1838	Mental retardation, X-linked nonspecific, type 46	Neurological	ARHGEF6, MRX46, COOL2
+1839	Mental retardation, X-linked nonsyndromic	Neurological	AGTR2
+1840	Mental retardation, X-linked nonsyndromic	Neurological	FGD1, FGDY, AAS
+1841	Mental retardation, X-linked nonsyndromic	Neurological	ZNF41
+1842	Mental retardation, X-linked nonsyndromic, DLG3-related	Neurological	DLG3, NEDLG, SAP102, MRX
+1843	Mental retardation, X-linked, Snyder-Robinson type	Neurological	SMS, SRS, MRSR
+1844	Mental retardation, X-linked, with isolated growth hormone deficiency	Neurological	SOX3, MRGH
+1845	Mental retardation, X-linked, with progressive spasticity	Neurological	MECP2, RTT, PPMX, MRX16, MRX79
+1846	Mental retardation, X-linked, with seizures and carrier manifestations	Neurological	SLC6A8, CRTR
+1847	Mephenytoin poor metabolizer	Metabolic	CYP2C, CYP2C19
+1848	Merkel cell carcinoma, somatic	Cancer	SDHD, PGL1
+1849	Mesangial sclerosis, isolated diffuse	Renal	WT1
+1850	Mesothelioma	Cancer	BCL10
+1851	Metachromatic leukodystrophy	Neurological	ARSA
+1852	Metachromatic leukodystrophy due to deficiency of SAP-1	Neurological	PSAP, SAP1
+1853	Metaphyseal chondrodysplasia, Murk Jansen type	Connective tissue	PTHR1, PTHR
+1854	Metaphyseal chondrodysplasia, Schmid type	Connective tissue	COL10A1
+1855	Metaphyseal dysplasia without hypotrichosis	Connective tissue	RMRP, RMRPR, CHH
+1856	Methemoglobinemia due to cytochrome b5 deficiency	Hematological	CYB5
+1857	Methemoglobinemias, alpha-	Hematological	HBA1
+1858	Methemoglobinemias, beta-	Hematological	HBB
+1859	Methemoglobinemia, type I	Hematological	DIA1
+1860	Methemoglobinemia, type II	Hematological	DIA1
+1861	Methionine adenosyltransferase deficiency, autosomal recessive	Metabolic	MAT1A, MATA1, SAMS1
+1862	Methylcobalamin deficiency, cblG type	Metabolic	MTR
+1863	Methylmalonate semialdehyde dehydrogenase deficiency	Metabolic	ALDH6A1, MMSDH
+1864	Methylmalonic aciduria, mut(0) type	Metabolic	MUT, MCM
+1865	Methylmalonic aciduria, vitamin B12-responsive	Metabolic	MMAA
+1866	Methylmalonic aciduria, vitamin B12-responsive, due to defect in synthesis of adenosylcobalamin, cblB complementation type	Metabolic	MMAB
+1867	Mevalonicaciduria	Metabolic	MVK, MVLK
+1868	MHC class II deficiency, complementation group B	Immunological	RFXANK
+1869	Microcephaly, Amish type	Neurological	SLC25A19, DNC, MUP1, MCPHA
+1870	Microcephaly, autosomal recessive 1	Neurological	MCPH1
+1871	Microcephaly, primary autosomal recessive, 3	Neurological	CDK5RAP2, KIAA1633, MCPH3
+1872	Microcephaly, primary autosomal recessive, 5	Neurological	ASPM, MCPH5
+1873	Microcephaly, primary autosomal recessive, 6	Neurological	CEMPJ, CPAP, MCPH6
+1874	Microcoria-congenital nephrosis syndrome	Ophthamological	LAMB2, LAMS
+1875	Micropenis	Renal	LHCGR
+1876	Microphthalmia, cataracts, and iris abnormalities	Ophthamological	CHX10, HOX10
+1877	Microphthalmia, SIX6-related	Ophthamological	SIX6
+1878	Microphthalmia with associated anomalies 2	Ophthamological	BCOR, KIAA1575, MAA2, ANOP2
+1879	Migraine, familial hemiplegic, 2	Neurological	ATP1A2, FHM2, MHP2
+1880	Migraine, resistance to	Neurological	EDNRA
+1881	Migraine, susceptibility to	Neurological	ESR1, ESR
+1882	Migraine without aura, susceptibility to	Neurological	TNF, TNFA
+1883	Miller-Dieker lissencephaly	multiple	YWHAE, MDCR, MDS
+1884	Mitochondrial complex I deficiency	multiple	NDUFS1
+1885	Mitochondrial complex I deficiency	multiple	NDUFS2
+1886	Mitochondrial complex I deficiency	multiple	NDUFS4, AQDQ
+1887	Mitochondrial complex I deficiency	multiple	NDUFV1, UQOR1
+1888	Mitochondrial complex III deficiency	multiple	BCS1L, FLNMS, GRACILE
+1889	Mitochondrial complex III deficiency	multiple	UQCRB, UQBP, QPC
+1890	Mitochondrial DNA depletion myopathy	Muscular	TK2
+1891	Mitochondrial DNA depletion syndrome	multiple	SUCLA2
+1892	Mitochondrial DNA-depletion syndrome, hepatocerebral form	multiple	DGUOK, DGK
+1893	Mitochondrial myopathy and sideroblastic anemia	multiple	PUS1, MLASA
+1894	Mitochondrial respiratory chain complex II deficiency	multiple	SDHA, SDH2, SDHF
+1895	Miyoshi myopathy	Muscular	DYSF, LGMD2B
+1896	MODY5 with nephron agenesis	Endocrine	TCF2, HNF2
+1897	MODY5 with non-diabetic renal disease and Mullerian aplasia	Endocrine	TCF2, HNF2
+1898	MODY, one form	Endocrine	INS
+1899	MODY, type I	Endocrine	HNF4A, TCF14, MODY1
+1900	MODY, type II	Endocrine	GCK
+1901	MODY, type III	Endocrine	TCF1, HNF1A, MODY3
+1902	MODY, type IV	Endocrine	IPF1
+1903	MODY, type V	Endocrine	TCF2, HNF2
+1904	Mohr-Tranebjaerg syndrome	Neurological	TIMM8A, DFN1, DDP, MTS, DDP1
+1905	Molybdenum cofactor deficiency, type A	Metabolic	MOCS1, MOCOD
+1906	Molybdenum cofactor deficiency, type B	Metabolic	MOCS2, MPTS
+1907	Molybdenum cofactor deficiency, type C	Metabolic	GPH, KIAA1385, GEPH
+1908	Monilethrix	Dermatological	KRTHB1, HB1
+1909	Monilethrix	Dermatological	KRTHB6, HB6
+1910	Morning glory disc anomaly	Skeletal	PAX6, AN2, MGDA
+1911	Mowat-Wilson syndrome	Developmental	ZFHX1B, SMADIP1, SIP1
+1912	Moyamoya disease 3	Neurological	MYMY3
+1913	Muckle-Wells syndrome	multiple	CIAS1, C1orf7, FCU, FCAS
+1914	Mucoepidermoid salivary gland carcinoma	Cancer	MAML2, MAM3
+1915	Mucoepidermoid salivary gland carcinoma	Cancer	MECT1, KIAA0616
+1916	Mucolipidosis IIIA	Metabolic	GNPTAB, GNPTA
+1917	Mucolipidosis IIIC	Metabolic	GNPTAG
+1918	Mucolipidosis IV	Metabolic	MCOLN1, ML4
+1919	Mucopolysaccharidosis Ih	Metabolic	IDUA, IDA
+1920	Mucopolysaccharidosis Ih/s	Metabolic	IDUA, IDA
+1921	Mucopolysaccharidosis II	Metabolic	IDS, MPS2, SIDS
+1922	Mucopolysaccharidosis Is	Metabolic	IDUA, IDA
+1923	Mucopolysaccharidosis IVA	Metabolic	GALNS, MPS4A
+1924	Mucopolysaccharidosis IVB	Metabolic	GLB1
+1925	Mucopolysaccharidosis type IIID	Metabolic	GNS, G6S
+1926	Mucopolysaccharidosis type IX	Metabolic	HYAL1
+1927	Mucopolysaccharidosis VII	Metabolic	GUSB, MPS7
+1928	Muenke syndrome	Skeletal	FGFR3, ACH
+1929	Muir-Torre syndrome	Cancer	MLH1, COCA2, HNPCC2
+1930	Muir-Torre syndrome	Cancer	MSH2, COCA1, FCC1, HNPCC1
+1931	Mulibrey nanism	multiple	TRIM37, MUL, KIAA0898
+1932	Multiple cutaneous and uterine leiomyomata	Cancer	FH
+1933	Multiple endocrine neoplasia I	Cancer	MEN1
+1934	Multiple endocrine neoplasia IIA	Cancer	RET, MEN2A
+1935	Multiple endocrine neoplasia IIB	Cancer	RET, MEN2A
+1936	Multiple malignancy syndrome	Cancer	TP53, P53, LFS1
+1937	Multiple myeloma	Cancer	IRF4, LSIRF
+1938	Multiple myeloma, resistance to	Cancer	LIG4
+1939	Multiple sclerosis, susceptibility to	Neurological	MHC2TA, C2TA
+1940	Multiple sclerosis, susceptibility to	Neurological	PTPRC, CD45, LCA
+1941	Multiple sulfatase deficiency	Metabolic	SUMF1, FGE
+1942	Muscle-eye-brain disease	multiple	POMGNT1, MEB
+1943	Muscle glycogenosis	Muscular	PHKA1
+1944	Muscle hypertrophy	Muscular	GDF8, MSTN
+1945	Muscular dystrophy, congenital, 1C	Muscular	FKRP, MDC1C, LGMD2I
+1946	Muscular dystrophy, congenital, due to partial LAMA2 deficiency	Muscular	LAMA2, LAMM
+1947	Muscular dystrophy, congenital merosin-deficient	Muscular	LAMA2, LAMM
+1948	Muscular dystrophy, congenital, type 1D	Muscular	LARGE, KIAA0609, MDC1D
+1949	Muscular dystrophy, Fukuyama congenital	Muscular	FCMD
+1950	Muscular dystrophy, limb-girdle, type 1A	Muscular	TTID, MYOT
+1951	Muscular dystrophy, limb-girdle, type 2A	Muscular	CAPN3, CANP3
+1952	Muscular dystrophy, limb-girdle, type 2B	Muscular	DYSF, LGMD2B
+1953	Muscular dystrophy, limb-girdle, type 2C	Muscular	SGCG, LGMD2C, DMDA1, SCG3
+1954	Muscular dystrophy, limb-girdle, type 2D	Muscular	SGCA, ADL, DAG2, LGMD2D, DMDA2
+1955	Muscular dystrophy, limb-girdle, type 2E	Muscular	SGCB, LGMD2E
+1956	Muscular dystrophy, limb-girdle, type 2F	Muscular	SGCD, SGD, LGMD2F, CMD1L
+1957	Muscular dystrophy, limb-girdle, type 2G	Muscular	TCAP, LGMD2G, CMD1N
+1958	Muscular dystrophy, limb-girdle, type 2H	Muscular	TRIM32, HT2A, LGMD2H
+1959	Muscular dystrophy, limb-girdle, type 2I	Muscular	FKRP, MDC1C, LGMD2I
+1960	Muscular dystrophy, limb-girdle, type 2J	Muscular	TTN, CMD1G, TMD, LGMD2J
+1961	Muscular dystrophy, limb-girdle, type 2K	Muscular	POMT1
+1962	Muscular dystrophy, limb-girdle, type IC	Muscular	CAV3, LGMD1C
+1963	Muscular dystrophy, rigid spine, 1	Muscular	SEPN1, SELN, RSMD1
+1964	Muscular dystrophy with epidermolysis bullosa simplex	Muscular	PLEC1, PLTN, EBS1
+1965	Myasthenia, familial infantile, 1	Muscular	CMS1A1, FIM1
+1966	Myasthenic syndrome	Muscular	SCN4A, HYPP, NAC1A
+1967	Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency	Muscular	CHRNB1, ACHRB, SCCMS, CMS2A, CMS1D
+1968	Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency	Muscular	CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D
+1969	Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency	Muscular	RAPSN, CMS1D, CMS1E
+1970	Myasthenic syndrome, congenital, associated with episodic apnea	Muscular	CHAT, CMS1A2
+1971	Myasthenic syndrome, congenital, associated with facial dysmorphism and acetylcholine receptor deficiency	Muscular	RAPSN, CMS1D, CMS1E
+1972	Myasthenic syndrome, fast-channel congenital	Muscular	CHRNA1, ACHRD, CMS2A, SCCMS, FCCMS
+1973	Myasthenic syndrome, fast-channel congenital	Muscular	CHRND, ACHRD, SCCMS, CMS2A, FCCMS
+1974	Myasthenic syndrome, fast-channel congenital	Muscular	CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D
+1975	Myasthenic syndrome, slow-channel congenital	Muscular	CHRNA1, ACHRD, CMS2A, SCCMS, FCCMS
+1976	Myasthenic syndrome, slow-channel congenital	Muscular	CHRNB1, ACHRB, SCCMS, CMS2A, CMS1D
+1977	Myasthenic syndrome, slow-channel congenital	Muscular	CHRND, ACHRD, SCCMS, CMS2A, FCCMS
+1978	Myasthenic syndrome, slow-channel congenital	Muscular	CHRNE, SCCMS, CMS2A, FCCMS, CMS1E, CMS1D
+1979	Mycobacterial and salmonella infections, susceptibility to	Immunological	IL12RB1
+1980	Mycobacterial infection, atypical, familial disseminated	Immunological	IFNGR1
+1981	Mycobacterial infection, atypical, familial disseminated	Immunological	IFNGR2, IFNGT1, IFGR2
+1982	Mycobacterial infection, atypical, familial disseminated	Immunological	STAT1
+1983	Mycobacterium tuberculosis, suceptibility to infection by	Immunological	NRAMP1, NRAMP
+1984	Myelodysplasia syndrome-1	Muscular	MDS1
+1985	Myelodysplastic syndrome	Muscular	FACL6, ACS2
+1986	Myelodysplastic syndrome, preleukemic	Muscular	IRF1, MAR
+1987	Myelofibrosis, idiopathic	Hematological	JAK2
+1988	Myelogenous leukemia, acute	Cancer	FACL6, ACS2
+1989	Myelogenous leukemia, acute	Cancer	IRF1, MAR
+1990	Myeloid leukemia, acute, M4Eo subtype	Cancer	CBFB
+1991	Myeloid malignancy, predisposition to	Cancer	CSF1R, FMS
+1992	Myelokathexis, isolated	Immunological	CXCR4, D2S201E, NPY3R, WHIM
+1993	Myelomonocytic leukemia, chronic	Cancer	PDGFRB, PDGFR
+1994	Myeloperoxidase deficiency	Immunological	MPO
+1995	Myeloproliferative disorder with eosinophilia	Cancer	PDGFRB, PDGFR
+1996	Myoadenylate deaminase deficiency	Muscular	AMPD1
+1997	Myocardial infarction, decreased susceptibility to	Cardiovascular	F7
+1998	Myocardial infarction susceptibility	Cardiovascular	APOE, AD2
+1999	Myocardial infarction, susceptibility to	Cardiovascular	ACE, DCP1, ACE1
+2000	Myocardial infarction, susceptibility to	Cardiovascular	ALOX5AP, FLAP
+2001	Myocardial infarction, susceptibility to	Cardiovascular	LGALS2
+2002	Myocardial infarction, susceptibility to	Cardiovascular	LTA, TNFB
+2003	Myocardial infarction, susceptibility to	Cardiovascular	OLR1, LOX1
+2004	Myocardial infarction, susceptibility to	Cardiovascular	THBD, THRM
+2005	Myocardial infarction, susceptibility to	Cardiovascular	GCLM, GLCLR
+2006	Myocardial infarction, susceptibility to	Cardiovascular	TNFSF4, GP34, OX4OL
+2007	Myoclonic epilepsy, juvenile, 1	Neurological	EFHC1, FLJ10466, EJM1
+2008	Myoclonic epilepsy, severe, of infancy	Neurological	GABRG2, GEFSP3, CAE2, ECA2
+2009	Myoclonic epilepsy with mental retardation and spasticity	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+2010	Myoglobinuria/hemolysis due to PGK deficiency	Metabolic	PGK1, PGKA
+2011	Myokymia with neonatal epilepsy	Neurological	KCNQ2, EBN1
+2012	Myoneurogastrointestinal encephalomyopathy syndrome	multiple	ECGF1
+2013	Myopathy, actin, congenital, with cores	Muscular	ACTA1, ASMA, NEM3, NEM1
+2014	Myopathy, actin, congenital, with excess of thin myofilaments	Muscular	ACTA1, ASMA, NEM3, NEM1
+2015	Myopathy, cardioskeletal, desmin-related, with cataract	Muscular	CRYAB, CRYA2, CTPP2
+2016	Myopathy, centronuclear	Muscular	MYF6
+2017	Myopathy, congenital	Muscular	ITGA7
+2018	Myopathy, desmin-related, cardioskeletal	Muscular	DES, CMD1I
+2019	Myopathy, distal, with anterior tibial onset	Muscular	DYSF, LGMD2B
+2020	Myopathy, distal, with decreased caveolin 3	Muscular	CAV3, LGMD1C
+2021	Myopathy due to CPT II deficiency	Muscular	CPT2
+2022	Myopathy due to phosphoglycerate mutase deficiency	Muscular	PGAM2, PGAMM
+2023	Myopathy, Laing distal	Muscular	MYH7, CMH1, MPD1
+2024	Myopathy, myosin storage	Muscular	MYH7, CMH1, MPD1
+2025	Myopathy, nemaline, 3	Muscular	ACTA1, ASMA, NEM3, NEM1
+2026	Myotilinopathy	Muscular	TTID, MYOT
+2027	Myotonia congenita, atypical, acetazolamide-responsive	Muscular	SCN4A, HYPP, NAC1A
+2028	Myotonia congenita, dominant	Muscular	CLCN1
+2029	Myotonia congenita, recessive	Muscular	CLCN1
+2030	Myotonia levior, recessive	Muscular	CLCN1
+2031	Myotonic dystrophy	Muscular	DMPK, DM, DMK
+2032	Myotonic dystrophy, type 2	Muscular	ZNF9, CNBP1, DM2, PROMM
+2033	Myotubular myopathy, X-linked	Muscular	MTM1, MTMX
+2034	Myxoid liposarcoma	Cancer	DDIT3, GADD153, CHOP10
+2035	Myxoma, intracardiac	Cardiovascular	PRKAR1A, TSE1, CNC1, CAR
+2036	N-acetylglutamate synthase deficiency	Metabolic	NAGS
+2037	Nail-patella syndrome	multiple	LMX1B, NPS1
+2038	Nail-patella syndrome with open-angle glaucoma	multiple	LMX1B, NPS1
+2039	Nance-Horan syndrome	Ophthamological	NHS
+2040	Narcolepsy	Psychiatric	HCRT, OX
+2041	Nasopharyngeal carcinoma	Cancer	TP53, P53, LFS1
+2042	Nasu-Hakola disease	Bone	TREM2
+2043	Nasu-Hakola disease	Bone	TYROBP, PLOSL, DAP12
+2044	Naxos disease	multiple	JUP, DP3, PDGB
+2045	Nemaline myopathy	Muscular	TPM2, TMSB, AMCD1, DA1
+2046	Nemaline myopathy 1, autosomal dominant	Muscular	TPM3, NEM1
+2047	Nemaline myopathy 2, autosomal recessive	Muscular	NEB, NEM2
+2048	Nemaline myopathy, Amish type	Muscular	TNNT1, ANM
+2049	Neonatal ichthyosis-sclerosing cholangitis syndrome	multiple	CLDN1, SEMP1
+2050	Nephrogenic syndrome of inappropriate antidiuresis	Renal	AVPR2, DIR, DI1, ADHR
+2051	Nephrolithiasis, type I	Renal	CLCN5, CLCK2, NPHL2, DENTS
+2052	Nephrolithiasis, uric acid, susceptibility to	Renal	ZNF365, UAN
+2053	Nephronophthisis 2, infantile	Renal	INVS, INV, NPHP2, NPH2
+2054	Nephronophthisis 4	Renal	NPHP4, SLSN4
+2055	Nephronophthisis, adolescent	Renal	NPHP3, NPH3
+2056	Nephronophthisis, juvenile	Renal	NPHP1, NPH1, SLSN1
+2057	Nephropathy, chronic hypocomplementemic	Renal	HF1, CFH, HUS
+2058	Nephropathy with pretibial epidermolysis bullosa and deafness	Renal	CD151, PETA3, SFA1
+2059	Nephrosis-1, congenital, Finnish type	Renal	NPHS1, NPHN
+2060	Nephrotic syndrome, steroid-resistant	Renal	PDCN, NPHS2, SRN1
+2061	Netherton syndrome	Dermatological	SPINK5, LEKTI
+2062	Neural tube defects, maternal risk of	Developmental	MTHFD, MTHFC
+2063	Neuroblastoma	Cancer	NME1, NM23
+2064	Neuroblastoma	Cancer	PMX2B, NBPHOX, PHOX2B
+2065	Neurodegeneration, pantothenate kinase-associated	Neurological	PANK2, NBIA1, PKAN, HARP
+2066	Neuroectodermal tumors, supratentorial primitive, with cafe-au-lait spots	multiple	PMS2, PMSL2, HNPCC4
+2067	Neurofibromatosis, familial spinal	Cancer	NF1, VRNF, WSS, NFNS
+2068	Neurofibromatosis-Noonan syndrome	Cancer	NF1, VRNF, WSS, NFNS
+2069	Neurofibromatosis, type 1	Cancer	NF1, VRNF, WSS, NFNS
+2070	Neurofibromatosis, type 2	Cancer	NF2
+2071	Neurofibromatosis, type I, with leukemia	Cancer	MSH2, COCA1, FCC1, HNPCC1
+2072	Neurofibrosarcoma	Cancer	MXI1
+2073	Neuropathy, congenital hypomyelinating, 1	Neurological	EGR2, KROX20
+2074	Neuropathy, congenital hypomyelinating	Neurological	MPZ, CMT1B, CMTDI3, CHM, DSS
+2075	Neuropathy, distal hereditary motor	Neurological	HSPB1, HSP27, CMT2F
+2076	Neuropathy, distal hereditary motor, type II	Neurological	HSPB8, H11, E2IG1, DHMN2
+2077	Neuropathy, hereditary sensory and autonomic, type 1	Neurological	SPTLC1, LBC1, SPT1, HSN1, HSAN
+2078	Neuropathy, hereditary sensory and autonomic, type V	Neurological	NGFB, HSAN5
+2079	Neuropathy, hereditary sensory, type II	Neurological	HSN2
+2080	Neuropathy, recurrent, with pressure palsies	Neurological	PMP22, CMT1A, CMT1E, DSS
+2081	Neutropenia, alloimmune neonatal	Hematological	FCGR3A, CD16, IGFR3
+2082	Neutropenia, congenital	Hematological	ELA2
+2083	Neutropenia, severe congenital	Hematological	GFI1, ZNF163
+2084	Neutropenia, severe congenital, X-linked	Hematological	WAS, IMD2, THC
+2085	Neutrophil immunodeficiency syndrome	Immunological	RAC2
+2086	Nevo syndrome	Connective tissue	PLOD, PLOD1
+2087	Nevus, epidermal, epidermolytic hyperkeratotic type	Dermatological	KRT10
+2088	Newfoundland rod-cone dystrophy	Ophthamological	RLBP1
+2089	Nicotine addiction, protection from	Psychiatric	CYP2A6, CYP2A3, CYP2A, P450C2A
+2090	Nicotine addiction, susceptibility to	Psychiatric	CHRNA4, ENFL1
+2091	Nicotine dependence, susceptibility to	Psychiatric	GPR51, GABBR2
+2092	Niemann-Pick disease, type A	Metabolic	SMPD1, NPD
+2093	Niemann-Pick disease, type B	Metabolic	SMPD1, NPD
+2094	Niemann-Pick disease, type C1	Metabolic	NPC1, NPC
+2095	Niemann-pick disease, type C2	Metabolic	NPC2, HE1
+2096	Niemann-Pick disease, type D	Metabolic	NPC1, NPC
+2097	Night blindness, congenital stationary	Ophthamological	GNAT1
+2098	Night blindness, congenital stationary, type 1	Ophthamological	CSNB1, NYX
+2099	Night blindness, congenital stationary, type 3	Ophthamological	PDE6B, PDEB, CSNB3
+2100	Night blindness, congenital stationary, X-linked, type 2	Ophthamological	CACNA1F, CSNB2
+2101	Night blindness, congenital stationery, rhodopsin-related	Ophthamological	RHO, RP4, OPN2
+2102	Nijmegen breakage syndrome	multiple	NBS1, NBS
+2103	Nonaka myopathy	Muscular	GNE, GLCNE, IBM2, DMRV, NM
+2104	Noncompaction of left ventricular myocardium, isolated	Cardiovascular	TAZ, EFE2, BTHS, CMD3A, LVNCX
+2105	Non-Hodgkin lymphoma, somatic	Cancer	CASP10, MCH4, ALPS2
+2106	Nonsmall cell lung cancer	Cancer	IRF1, MAR
+2107	Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in	Cancer	EGFR
+2108	Nonsmall cell lung cancer, somatic	Cancer	BRAF
+2109	Noonan syndrome 1	Developmental	PTPN11, PTP2C, SHP2, NS1
+2110	Norrie disease	Neurological	NDP, ND
+2111	Norum disease	Metabolic	LCAT
+2112	Norwalk virus infection, resistance to	Immunological	FUT2, SE
+2113	Nucleoside phosphorylase deficiency, immunodeficiency due to	Immunological	NP
+2114	Obesity, adrenal insufficiency, and red hair	Nutritional	POMC
+2115	Obesity, autosomal dominant	Nutritional	MC4R
+2116	Obesity, hyperphagia, and developmental delay	Nutritional	AKR1C2, DDH2, DD2, HAKRD
+2117	Obesity, hyperphagia, and developmental delay	Nutritional	NTRK2, TRKB
+2118	Obesity, late-onset	Nutritional	AGRP, ART, AGRT
+2119	Obesity, mild, early-onset	Nutritional	NR0B2, SHP
+2120	Obesity, morbid, with hypogonadism	Nutritional	LEP, OB
+2121	Obesity, morbid, with hypogonadism	Nutritional	LEPR, OBR
+2122	Obesity, resistance to	Nutritional	PPARG, PPARG1, PPARG2
+2123	Obesity, severe	Nutritional	PPARG, PPARG1, PPARG2
+2124	Obesity, severe	Nutritional	SIM1
+2125	Obesity, severe, and type II diabetes	Nutritional	UCP3
+2126	Obesity, severe, due to leptin deficiency	Nutritional	LEP, OB
+2127	Obesity, severe, susceptibility to	Nutritional	MC3R
+2128	Obesity, susceptibility to	Nutritional	SLC6A14, OBX
+2129	Obesity, susceptibility to	Nutritional	ADRB2
+2130	Obesity, susceptibility to	Nutritional	ADRB3
+2131	Obesity, susceptibility to	Nutritional	CART
+2132	Obesity, susceptibility to	Nutritional	ENPP1, PDNP1, NPPS, M6S1, PCA1
+2133	Obesity, susceptibility to	Nutritional	GHRL
+2134	Obesity, susceptibility to	Nutritional	UCP1
+2135	Obesity, susceptibility to	Nutritional	UCP2
+2136	Obestiy with impaired prohormone processing	Nutritional	PCSK1, NEC1, PC1, PC3
+2137	Obsessive-compulsive disorder 1	Psychiatric	SLC6A4, HTT, OCD1
+2138	Obsessive-compulsive disorder, protection against	Psychiatric	BDNF
+2139	Obsessive-compulsive disorder, susceptibility to	Psychiatric	HTR2A
+2140	Occipital horn syndrome	multiple	ATP7A, MNK, MK, OHS
+2141	Ocular albinism, Nettleship-Falls type	Ophthamological	OA1
+2142	Oculocutaneous albinism, type II, modifier of	Ophthamological	MC1R
+2143	Oculocutaneous albinism, type IV	Ophthamological	MATP, AIM1
+2144	Oculodentodigital dysplasia	Skeletal	GJA1, CX43, ODDD, SDTY3, ODOD
+2145	Oculofaciocardiodental syndrome	multiple	BCOR, KIAA1575, MAA2, ANOP2
+2146	Oculopharyngeal muscular dystorphy	Muscular	PABPN1, PABP2, PAB2
+2147	Oculopharyngeal muscular dystrophy, autosomal recessive	Muscular	PABPN1, PABP2, PAB2
+2148	Odontohypophosphatasia	Bone	ALPL, HOPS, TNSALP
+2149	Oguchi disease-1	Ophthamological	SAG
+2150	Oguchi disease-2	Ophthamological	RHOK, RK, GRK1
+2151	Oligodendroglioma	Cancer	PTEN, MMAC1
+2152	Oligodontia	Skeletal	PAX9
+2153	Oligodontia-colorectal cancer syndrome	Cancer	AXIN2
+2154	Omenn syndrome	Immunological	DCLRE1C, ARTEMIS, SCIDA
+2155	Omenn syndrome	Immunological	RAG1
+2156	Omenn syndrome	Immunological	RAG2
+2157	Opitz G syndrome, type I	multiple	MID1, OGS1, BBBG1, FXY, OSX
+2158	Opremazole poor metabolizer	Metabolic	CYP2C, CYP2C19
+2159	Optic atrophy 1	Ophthamological	OPA1, NTG, NPG
+2160	Optic atrophy and cataract	Ophthamological	OPA3, MGA3
+2161	Optic nerve coloboma with renal disease	multiple	PAX2
+2162	Optic nerve hypoplasia/aplasia	Ophthamological	PAX6, AN2, MGDA
+2163	Oral-facial-digital syndrome 1	Skeletal	OFD1, CXorf5
+2164	Ornithine transcarbamylase deficiency	Metabolic	OTC
+2165	Orofacial cleft 6	Skeletal	IRF6, VWS, LPS, PIT, PPS, OFC6
+2166	Orolaryngeal cancer, multiple,	Cancer	CDKN2A, MTS1, P16, MLM, CMM2
+2167	Oroticaciduria	Metabolic	UMPS, OPRT
+2168	Orthostatic intolerance	Cardiovascular	SLC6A2, NAT1, NET1
+2169	OSMED syndrome	Bone	COL11A2, STL3, DFNA13
+2170	Osseous heteroplasia, progressive	Bone	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+2171	Ossification of posterior longitudinal ligament of spine	Connective tissue	ENPP1, PDNP1, NPPS, M6S1, PCA1
+2172	Osteoarthritis, hand, susceptibility to	Connective tissue	MATN3, EDM5, HOA
+2173	Osteoarthritis of hip, female-specific, susceptibility to	Connective tissue	FRZB, FRZB1, SRFP3
+2174	Osteoarthritis, susceptibility to	Connective tissue	ASPN, PLAP1
+2175	Osteoarthrosis	Connective tissue	COL2A1
+2176	Osteogenesis imperfecta, 3 clinical forms	Bone	COL1A2
+2177	Osteogenesis imperfecta, type I	Bone	COL1A1
+2178	Osteogenesis imperfecta, type II	Bone	COL1A1
+2179	Osteogenesis imperfecta, type III	Bone	COL1A1
+2180	Osteogenesis imperfecta, type IV	Bone	COL1A1
+2181	Osteolysis, familial expansile	Bone	TNFRSF11A, RANK, ODFR, OFE
+2182	Osteolysis, idiopathic, Saudi type	Bone	MMP2, CLG4A, MONA
+2183	Osteopetrosis, autosomal dominant, type I	Bone	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+2184	Osteopetrosis, autosomal dominant, type II	Bone	CLCN7, CLC7, OPTA2
+2185	Osteopetrosis, autosomal recessive	Bone	OSTM1, GL
+2186	Osteopetrosis, recessive	Bone	CLCN7, CLC7, OPTA2
+2187	Osteopetrosis, recessive	Bone	TCIRG1, TIRC7, OC116, OPTB1
+2188	Osteopoikilosis	Bone	LEMD3, MAN1
+2189	Osteoporosis	Bone	COL1A1
+2190	Osteoporosis	Bone	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+2191	Osteoporosis	Bone	CALCA, CALC1
+2192	Osteoporosis, hypophosphatemic,	Bone	SLC17A2, NPT2
+2193	Osteoporosis, idiopathic	Bone	COL1A2
+2194	Osteoporosis, postmenopausal, susceptibility	Bone	CALCR, CRT
+2195	Osteoporosis-pseudoglioma syndrome	Bone	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+2196	Osteoporosis, susceptibility to	Bone	RIL
+2197	Osteosarcoma	Cancer	TP53, P53, LFS1
+2198	Osteosarcoma, somatic	Cancer	CHEK2, RAD53, CHK2, CDS1, LFS2
+2199	Otopalatodigital syndrome, type I	multiple	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+2200	Otopalatodigital syndrome, type II	multiple	FLNA, FLN1, ABPX, NHBP, OPD1, OPD2, FMD, MNS
+2201	Ovarian cancer	Cancer	BRCA1, PSCP
+2202	Ovarian cancer	Cancer	MSH2, COCA1, FCC1, HNPCC1
+2203	Ovarian cancer	Cancer	PIK3CA
+2204	Ovarian cancer, endometrial type	Cancer	MSH6, GTBP, HNPCC5
+2205	Ovarian cancer, somatic,	Cancer	ERBB2, NGL, NEU, HER2
+2206	Ovarian carcinoma	Cancer	CDH1, UVO
+2207	Ovarian carcinoma	Cancer	RRAS2, TC21
+2208	Ovarian carcinoma, endometrioid type	Cancer	CTNNB1
+2209	Ovarian dysgenesis 1	Endocrine	FSHR, ODG1
+2210	Ovarian dysgenesis 2	Endocrine	BMP15, GDF9B, ODG2
+2211	Ovarian hyperstimulation syndrome, gestational	Endocrine	FSHR, ODG1
+2212	Ovarian sex cord tumors	Cancer	FSHR, ODG1
+2213	Ovarioleukodystrophy	Neurological	EIF2B2
+2214	Ovarioleukodystrophy	Neurological	EIF2B4
+2215	Ovarioleukodystrophy	Neurological	EIF2B5, LVWM, CACH, CLE
+2216	Pachyonychia congenita, Jackson-Lawler type	Dermatological	KRT17, PC2, PCHC1
+2217	Pachyonychia congenita, Jackson-Lawler type	Dermatological	KRT6B, PC2
+2218	Pachyonychia congenita, Jadassohn-Lewandowsky type	Dermatological	KRT16
+2219	Pachyonychia congenita, Jadassohn-Lewandowsky type	Dermatological	KRT6A
+2220	Paget disease, juvenile	Bone	TNFRSF11B, OPG, OCIF
+2221	Paget disease of bone	Bone	SQSTM1, P62, PDB3
+2222	Paget disease of bone	Bone	TNFRSF11A, RANK, ODFR, OFE
+2223	Pallidopontonigral degeneration	Neurological	MAPT, MTBT1, DDPAC, MSTD
+2224	Pallister-Hall syndrome	multiple	GLI3, PAPA, PAPB, ACLS
+2225	Palmoplantar keratoderma, nonepidermolytic	Dermatological	KRT16
+2226	Palmoplantar verrucous nevus, unilateral	Dermatological	KRT16
+2227	Pancreatic agenesis	Gastrointestinal	IPF1
+2228	Pancreatic cancer	Cancer	ARMET, ARP
+2229	Pancreatic cancer	Cancer	BRCA2, FANCD1
+2230	Pancreatic cancer	Cancer	TP53, P53, LFS1
+2231	Pancreatic cancer	Cancer	MADH4, DPC4, SMAD4, JIP
+2232	Pancreatic cancer/melanoma syndrome	Cancer	CDKN2A, MTS1, P16, MLM, CMM2
+2233	Pancreatic cancer, somatic	Cancer	ACVR1B, ACVRLK4, ALK4
+2234	Pancreatic cancer, sporadic	Cancer	STK11, PJS, LKB1
+2235	Pancreatic carcinoma, somatic	Cancer	KRAS2, RASK2
+2236	Pancreatic carcinoma, somatic	Cancer	RBBP8, RIM
+2237	Pancreatitis, hereditary	Gastrointestinal	PRSS1, TRY1
+2238	Pancreatitis, hereditary	Gastrointestinal	SPINK1, PSTI, PCTT, TATI
+2239	Pancreatitis, idiopathic	Gastrointestinal	CFTR, ABCC7, CF, MRP7
+2240	Papillary serous carcinoma of the peritoneum	Cancer	BRCA1, PSCP
+2241	Papillon-Lefevre syndrome	multiple	CTSC, CPPI, PALS, PLS, HMS
+2242	Paraganglioma, familial malignant	Cancer	SDHB, SDH1, SDHIP
+2243	Paragangliomas, familial central nervous system	Cancer	SDHD, PGL1
+2244	Paragangliomas, familial nonchromaffin, 1, with and without deafness	Cancer	SDHD, PGL1
+2245	Paragangliomas, familial nonchromaffin, 3	Cancer	SDHC, PGL3
+2246	Paraganglioma, sporadic corotid body	Cancer	SDHD, PGL1
+2247	Paramyotonia congenita	Muscular	SCN4A, HYPP, NAC1A
+2248	Parathyroid adenoma, sporadic	Cancer	MEN1
+2249	Parathyroid adenoma with cystic changes	Cancer	HRPT2, C1orf28
+2250	Parathyroid carcinoma	Cancer	HRPT2, C1orf28
+2251	Parietal foramina 1	Skeletal	MSX2, CRS2, HOX8
+2252	Parietal foramina 2	Skeletal	ALX4, PFM2, FPP
+2253	Parietal foramina with cleidocranial dysplasia	Skeletal	MSX2, CRS2, HOX8
+2254	Parkes Weber syndrome	multiple	RASA1, GAP, CMAVM, PKWS
+2255	Parkinson disease	Neurological	NR4A2, NURR1, NOT, TINUR
+2256	Parkinson disease	Neurological	SNCAIP
+2257	Parkinson disease	Neurological	TBP, SCA17
+2258	Parkinson disease 4, autosomal dominant Lewy body	Neurological	SNCA, NACP, PARK1, PARK4
+2259	Parkinson disease 7, autosomal recessive early-onset	Neurological	DJ1, PARK7
+2260	Parkinson disease-8	Neurological	LRRK2, PARK8
+2261	Parkinson disease, early onset	Neurological	PINK1, PARK6
+2262	Parkinson disease, familial	Neurological	UCHL1, PARK5
+2263	Parkinson disease, familial	Neurological	SNCA, NACP, PARK1, PARK4
+2264	Parkinson disease, juvenile, type 2	Neurological	PRKN, PARK2, PDJ
+2265	Parkinson disease, resistance to	Neurological	DBH
+2266	Parkinson disease, susceptibility to	Neurological	NDUFV2
+2267	Paroxysmal nocturnal hemoglobinuria	Hematological	PIGA
+2268	Paroxysmal nonkinesigenic dyskinesia	Neurological	MR1, TAHCCP2, KIPP1184, BRP17, PNKD, FPD1, PDC, DYT8
+2269	Partington syndrome	Neurological	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+2270	PCWH	Neurological	SOX10, WS4
+2271	Pelger-Huet anomaly	Hematological	LBR, PHA
+2272	Pelizaeus-Merzbacher disease	Neurological	PLP1, PMD
+2273	Pelizaeus-Merzbacher-like disease, autosomal recessive	Neurological	GJA12, CX47, PMLDAR
+2274	Pendred syndrome	Ear,Nose,Throat	SLC26A4, PDS, DFNB4
+2275	Perineal hypospadias	Endocrine	AR, DHTR, TFM, SBMA, KD, SMAX1
+2276	Periodic fever, familial	Immunological	TNFRSF1A, TNFR1, TNFAR, FPF
+2277	Periodontitis, juvenile	Ear,Nose,Throat	CTSC, CPPI, PALS, PLS, HMS
+2278	Periventricular heterotopia with microcephaly	Neurological	ARFGEF2, BIG2
+2279	Peroxisomal biogenesis disorder, complementation group 4	multiple	PEX6, PXAAA1, PAF2
+2280	Peroxisomal biogenesis disorder, complementation group 6	multiple	PEX6, PXAAA1, PAF2
+2281	Peroxisome biogenesis factor 12	multiple	PEX12
+2282	Persistent hyperinsulinemic hypoglycemia of infancy	Metabolic	KCNJ11, BIR, PHHI
+2283	Persistent Mullerian duct syndrome, type I	Developmental	AMH, MIF
+2284	Persistent Mullerian duct syndrome, type II	Developmental	AMHR2, AMHR
+2285	Peters anomaly	Developmental	PAX6, AN2, MGDA
+2286	Peters anomaly	Developmental	CYP1B1, GLC3A
+2287	Peutz-Jeghers syndrome	Cancer	STK11, PJS, LKB1
+2288	Pfeiffer syndrome	Skeletal	FGFR1, FLT2, KAL2
+2289	Pfeiffer syndrome	Skeletal	FGFR2, BEK, CFD1, JWS
+2290	Phenylketonuria	Metabolic	PAH, PKU1
+2291	Phenylketonuria due to dihydropteridine reductase deficiency	Metabolic	QDPR, DHPR
+2292	Phenylketonuria due to PTS deficiency	Metabolic	PTS
+2293	Phenylthiocarbamide tasting	Ear,Nose,Throat	TAS2R38, T2R61, PTC
+2294	Pheochromocytoma	Cancer	SDHD, PGL1
+2295	Pheochromocytoma	Cancer	VHL
+2296	Pheochromocytoma, extraadrenal, and cervical paraganglioma	Cancer	SDHB, SDH1, SDHIP
+2297	Phosphoglycerate dehydrogenase deficiency	Metabolic	PHGDH
+2298	Phosphoribosyl pyrophosphate synthetase-related gout	Metabolic	PRPS1
+2299	Phosphorylase kinase deficiency of liver and muscle, autosomal recessive	Metabolic	PHKB
+2300	Phosphoserine phosphatase deficiency	Metabolic	PSP
+2301	Pick disease	Neurological	PSEN1, AD3
+2302	Piebaldism	Dermatological	KIT, PBT
+2303	Pigmentation of hair, skin, and eyes, variation in	Dermatological	MATP, AIM1
+2304	Pigmented adrenocortical disease, primary isolated	Cancer	PRKAR1A, TSE1, CNC1, CAR
+2305	Pigmented paravenous chorioretinal atrophy	Ophthamological	CRB1, RP12
+2306	Pilomatricoma	Cancer	CTNNB1
+2307	Pituitary ACTH-secreting adenoma	Cancer	GNAI2, GNAI2B, GIP
+2308	Pituitary ACTH secreting adenoma	Cancer	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+2309	Pituitary adenoma, nonfunctioning	Cancer	THRA, ERBA1, THRA1
+2310	Pituitary anomalies with holoprosencephaly-like features	multiple	GLI2
+2311	Pituitary hormone deficiency, combined	Endocrine	POU1F1, PIT1
+2312	Pituitary hormone deficiency, combined	Endocrine	PROP1
+2313	Pituitary hormone deficiency, combined, HESX1-related	Endocrine	HESX1, RPX
+2314	Pituitary hormone deficiency, combined, with rigid cervical spine	Endocrine	LHX3
+2315	Pituitary tumor, invasive	Cancer	PRKCA, PKCA
+2316	Placental abruption	Unclassified	NOS3
+2317	Placental steroid sulfatase deficiency	Metabolic	STS, ARSC1, ARSC, SSDD
+2318	Plasmin inhibitor deficiency	Hematological	PLI, SERPINF2
+2319	Plasminogen Tochigi disease	Hematological	PLG
+2320	Platelet-activating factor acetylhydrolase deficiency	Hematological	PLA2G7, PAFAH
+2321	Platelet ADP receptor defect	Hematological	P2RY12, P2Y12
+2322	Platelet disorder, familial, with associated myeloid malignancy	Hematological	RUNX1, CBFA2, AML1
+2323	Platelet glycoprotein IV deficiency	Hematological	CD36
+2324	Pneumonitis, desquamative interstitial	Respiratory	SFTPC, SFTP2
+2325	Pneumothorax, primary spontaneous	Respiratory	FLCN, BHD
+2326	Polycystic kidney and hepatic disease	Renal	FCYT, PKHD1, ARPKD
+2327	Polycystic kidney disease, adult type I	Renal	PKD1
+2328	Polycystic kidney disease, adult, type II	Renal	PKD2, PKD4
+2329	Polycystic kidney disease, infantile severe, with tuberous sclerosis	Renal	PKDTS
+2330	Polycystic liver disease	Gastrointestinal	PRKCSH, G19P1, PCLD
+2331	Polycystic liver disease	Gastrointestinal	SEC63
+2332	Polycythemia, benign familial	Hematological	VHL
+2333	Polycythemia vera	Hematological	JAK2
+2334	Polydactyly, postaxial, types A1 and B	Skeletal	GLI3, PAPA, PAPB, ACLS
+2335	Polydactyly, preaxial, type IV	Skeletal	GLI3, PAPA, PAPB, ACLS
+2336	Polymicrogyria, bilateral frontoparietal	Neurological	GPR56, TM7XN1, BFPP
+2337	Polyposis, juvenile intestinal	Cancer	BMPR1A, ACVRLK3, ALK3
+2338	Polyposis, juvenile intestinal	Cancer	MADH4, DPC4, SMAD4, JIP
+2339	Popliteal pterygium syndrome	multiple	IRF6, VWS, LPS, PIT, PPS, OFC6
+2340	Porencephaly	Neurological	COL4A1
+2341	Porphyria, acute hepatic	Metabolic	ALAD
+2342	Porphyria, acute intermittent	Metabolic	HMBS, PBGD, UPS
+2343	Porphyria, acute intermittent, nonerythroid variant	Metabolic	HMBS, PBGD, UPS
+2344	Porphyria, congenital erythropoietic	Metabolic	UROS
+2345	Porphyria cutanea tarda	Metabolic	UROD
+2346	Porphyria, hepatoerythropoietic	Metabolic	UROD
+2347	Porphyria variegata	Metabolic	HFE, HLA-H, HFE1
+2348	Porphyria variegata	Metabolic	PPOX
+2349	PPM-X syndrome	Neurological	MECP2, RTT, PPMX, MRX16, MRX79
+2350	Prader-Willi syndrome	multiple	NDN
+2351	Prader-Willi syndrome	multiple	SNRPN
+2352	Precocious puberty, male	Developmental	LHCGR
+2353	Preeclampsia/eclampsia 4	Cardiovascular	STOX1, PEE4
+2354	Preeclampsia, susceptibility to	Cardiovascular	EPHX1
+2355	Preeclampsia, susceptibility to	Cardiovascular	AGT, SERPINA8
+2356	Prekallikrein deficiency	Hematological	KLKB1, KLK3
+2357	Premature chromosome condensation with microcephaly and mental retardation	Neurological	MCPH1
+2358	Premature ovarian failure	Renal	DIAPH2, DIA, POF2
+2359	Premature ovarian failure 3	Renal	FOXL2, BPES, BPES1, PFRK, POF3
+2360	Primary lateral sclerosis, juvenile	Neurological	ALS2, ALSJ, PLSJ, IAHSP
+2361	Prion disease with protracted course	Neurological	PRNP, PRIP
+2362	Progressive external ophthalmoplegia with mitochondrial DNA deletions	Ophthamological	C10orf2, TWINKLE, PEO1, PEO
+2363	Progressive external ophthalmoplegia with mitochondrial DNA deletions	Ophthamological	POLG, POLG1, POLGA, PEO
+2364	Progressive external ophthalmoplegia with mitochondrial DNA deletions	Ophthamological	SLC25A4, ANT1, T1, PEO3
+2365	Proguanil poor metabolizer	Metabolic	CYP2C, CYP2C19
+2366	Prolactinoma, hyperparathyroidism, carcinoid syndrome	Endocrine	MEN1
+2367	Prolidase deficiency	Connective tissue	PEPD
+2368	Properdin deficiency, X-linked	Immunological	PFC, PFD
+2369	Propionicacidemia	Metabolic	PCCA
+2370	Propionicacidemia	Metabolic	PCCB
+2371	Prostate cancer 1, 176807	Cancer	RNASEL, RNS4, PRCA1, HPC1
+2372	Prostate cancer	Cancer	BRCA2, FANCD1
+2373	Prostate cancer	Cancer	PTEN, MMAC1
+2374	Prostate cancer	Cancer	AR, DHTR, TFM, SBMA, KD, SMAX1
+2375	Prostate cancer, familial	Cancer	CHEK2, RAD53, CHK2, CDS1, LFS2
+2376	Prostate cancer, hereditary	Cancer	MSR1
+2377	Prostate cancer, progression and metastasis of	Cancer	EPHB2, EPHT3, DRT, ERK
+2378	Prostate cancer, somatic	Cancer	KLF6, COPEB, BCD1, ZF9
+2379	Prostate cancer, somatic	Cancer	MAD1L1, TXBP181
+2380	Prostate cancer, susceptibility to	Cancer	AR, DHTR, TFM, SBMA, KD, SMAX1
+2381	Prostate cancer, susceptibility to	Cancer	ATBF1
+2382	Prostate cancer, susceptibility to	Cancer	ELAC2, HPC2
+2383	Prostate cancer, susceptibility to	Cancer	MXI1
+2384	Protein S deficiency	Hematological	PROS1
+2385	Proteinuria, low molecular weight, with hypercalciuric nephrocalcinosis	Renal	CLCN5, CLCK2, NPHL2, DENTS
+2386	Protoporphyria, erythropoietic	Metabolic	FECH, FCE
+2387	Protoporphyria, erythropoietic, recessive, with liver failure	Metabolic	FECH, FCE
+2388	Proud syndrome	multiple	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54
+2389	Pseudoachondroplasia	Skeletal	COMP, EDM1, MED, PSACH
+2390	Pseudohermaphroditism, male, with gynecomastia	Developmental	HSD17B3, EDH17B3
+2391	Pseudohermaphroditism, male, with Leydig cell hypoplasia	Developmental	LHCGR
+2392	Pseudohypoaldosteronism, type I	Endocrine	SCNN1A
+2393	Pseudohypoaldosteronism, type I	Endocrine	SCNN1B
+2394	Pseudohypoaldosteronism, type I	Endocrine	SCNN1G, PHA1
+2395	Pseudohypoaldosteronism type I, autosomal dominant	Endocrine	NR3C2, MLR, MCR
+2396	Pseudohypoaldosteronism type II	Endocrine	WNK4, PRKWNK4, PHA2B
+2397	Pseudohypoaldosteronism, type IIC	Endocrine	WNK1, PRKWNK1, KDP, PHA2C
+2398	Pseudohypoparathyroidism, type Ia	Endocrine	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+2399	Pseudohypoparathyroidism, type Ib	Endocrine	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+2400	Pseudovaginal perineoscrotal hypospadias	Unclassified	SRD5A2
+2401	Pseudovitamin D deficiency rickets 1	Bone	CYP27B1, PDDR, VDD1
+2402	Pseudoxanthoma elasticum, autosomal dominant	Connective tissue	ABCC6, ARA, ABC34, MLP1, PXE
+2403	Pseudoxanthoma elasticum, autosomal recessive	Connective tissue	ABCC6, ARA, ABC34, MLP1, PXE
+2404	Psoriasis, susceptibility to	Dermatological	PSORS6
+2405	Psoriatic arthritis, susceptibility to	Dermatological	CARD15, NOD2, IBD1, CD, ACUG, PSORAS1
+2406	Pulmonary alveolar proteinosis	Respiratory	CSF2RB
+2407	Pulmonary alveolar proteinosis	Respiratory	SFTPC, SFTP2
+2408	Pulmonary alveolar proteinosis, congenital	Respiratory	SFTPB, SFTB3
+2409	Pulmonary fibrosis, idiopathic, familial	Respiratory	SFTPC, SFTP2
+2410	Pulmonary fibrosis, idiopathic, susceptibility to	Respiratory	SFTPA1, SFTP1
+2411	Pulmonary hypertension, familial primary	Cardiovascular	BMPR2, PPH1
+2412	Pycnodysostosis	Skeletal	CTSK
+2413	Pyloric stenosis, infantile hypertrophic, susceptibility to	Developmental	NOS1
+2414	Pyogenic sterile arthritis, pyoderma gangrenosum, and acne	Dermatological	PSTPIP1, PSTPIP, CD2BP1, PAPAS
+2415	Pyropoikilocytosis	Hematological	SPTA1
+2416	Pyruvate carboxylase deficiency	Metabolic	PC
+2417	Pyruvate dehydrogenase deficiency	Metabolic	PDHA1, PHE1A
+2418	Pyruvate dehydrogenase E1-beta deficiency	Metabolic	PDHB
+2419	Rabson-Mendenhall syndrome	multiple	INSR
+2420	Radioulnar synostosis with amegakaryocytic thrombocytopenia	multiple	HOXA11, HOX1I
+2421	RAPADILINO syndrome	multiple	RECQL4, RTS, RECQ4
+2422	Rapid progression to AIDS from HIV1 infection	Immunological	CX3CR1, GPR13, V28
+2423	Rapp-Hodgkin syndrome	multiple	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+2424	Red hair/fair skin	Dermatological	MC1R
+2425	Refsum disease	Neurological	PEX7, RCDP1
+2426	Refsum disease	Neurological	PHYH, PAHX
+2427	Refsum disease, infantile	Neurological	PEX1, ZWS1
+2428	Refsum disease, infantile form	Neurological	PEX26
+2429	Refsum disease, infantile form	Neurological	PXMP3, PAF1, PMP35, PEX2
+2430	Renal carcinoma, chromophobe, somatic	Cancer	FLCN, BHD
+2431	Renal cell carcinoma	Cancer	TRC8, RCA1, HRCA1
+2432	Renal cell carcinoma, clear cell, somatic	Cancer	OGG1
+2433	Renal cell carcinoma, papillary, 1	Cancer	PRCC, RCCP1
+2434	Renal cell carcinoma, papillary, 1	Cancer	TFE3
+2435	Renal cell carcinoma, papillary, familial and sporadic	Cancer	MET
+2436	Renal cell carcinoma, somatic	Cancer	VHL
+2437	Renal glucosuria	Renal	SLC5A2, SGLT2
+2438	Renal hypoplasia, isolated	Renal	PAX2
+2439	Renal tubular acidosis, distal	Renal	SLC4A1, AE1, EPB3
+2440	Renal tubular acidosis, distal, autosomal recessive	Renal	ATP6V0A4, ATP6N1B, VPP2, RTA1C, RTADR
+2441	Renal tubular acidosis-osteopetrosis syndrome	Renal	CA2
+2442	Renal tubular acidosis, proximal, with ocular abnormalities	Renal	SLC4A4, NBC1, KNBC, SLC4A5
+2443	Renal tubular acidosis with deafness	Renal	ATP6B1, VPP3
+2444	Renal tubular dysgenesis	Renal	ACE, DCP1, ACE1
+2445	Renal tubular dysgenesis	Renal	AGTR1, AGTR1A, AT2R1
+2446	Renal tubular dysgenesis	Renal	AGT, SERPINA8
+2447	Renal tubular dysgenesis	Renal	REN
+2448	Renpenning syndrome	Neurological	PQBP1, NPW38, SHS, MRX55, MRXS3, RENS1, MRXS8
+2449	Response to morphine-6-glucuronide	Neurological	OPRM1
+2450	Resting heart rate	Cardiovascular	ADRB1, ADRB1R, RHR
+2451	Restrictive dermopathy, lethal	Dermatological	ZMPSTE24, FACE1, STE24, MADB
+2452	Retinal degeneration, autosomal recessive, clumped pigment type	Ophthamological	NRL, D14S46E, RP27
+2453	Retinal degeneration, autosomal recessive, prominin-related	Ophthamological	PROM1, PROML1, AC133
+2454	Retinal degeneration, late-onset, autosomal dominant	Ophthamological	C1QTNF5, CTRP5, LORD
+2455	Retinal dystrophy, early-onset severe	Ophthamological	LRAT
+2456	Retinitis pigmentosa-10	Ophthamological	IMPDH1
+2457	Retinitis pigmentosa-11	Ophthamological	PRPF31, PRP31
+2458	Retinitis pigmentosa-1	Ophthamological	RP1, ORP1
+2459	Retinitis pigmentosa-12, autosomal recessive	Ophthamological	CRB1, RP12
+2460	Retinitis pigmentosa-13	Ophthamological	PRPF8, PRPC8, RP13
+2461	Retinitis pigmentosa-14	Ophthamological	TULP1, RP14
+2462	Retinitis pigmentosa-17	Ophthamological	CA4, RP17
+2463	Retinitis pigmentosa-18	Ophthamological	HPRP3, RP18
+2464	Retinitis pigmentosa-19	Ophthamological	ABCA4, ABCR, STGD1, FFM, RP19
+2465	Retinitis pigmentosa-20	Ophthamological	RPE65, RP20
+2466	Retinitis pigmentosa-2	Ophthamological	RP2
+2467	Retinitis pigmentosa-26	Ophthamological	CERKL
+2468	Retinitis pigmentosa-27	Ophthamological	NRL, D14S46E, RP27
+2469	Retinitis pigmentosa-30	Ophthamological	FSCN2, RFSN
+2470	Retinitis pigmentosa-3	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+2471	Retinitis pigmentosa-4, autosomal dominant	Ophthamological	RHO, RP4, OPN2
+2472	Retinitis pigmentosa-7	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+2473	Retinitis pigmentosa-9	Ophthamological	RP9
+2474	Retinitis pigmentosa, AR	Ophthamological	RLBP1
+2475	Retinitis pigmentosa, AR, without hearing loss	Ophthamological	USH2A
+2476	Retinitis pigmentosa, autosomal dominant	Ophthamological	RGR
+2477	Retinitis pigmentosa, autosomal recessive	Ophthamological	CNGB1, CNCG3L, CNCG2
+2478	Retinitis pigmentosa, autosomal recessive	Ophthamological	CNGA1, CNCG1
+2479	Retinitis pigmentosa, autosomal recessive	Ophthamological	PDE6A, PDEA
+2480	Retinitis pigmentosa, autosomal recessive	Ophthamological	PDE6B, PDEB, CSNB3
+2481	Retinitis pigmentosa, autosomal recessive	Ophthamological	RGR
+2482	Retinitis pigmentosa, autosomal recessive	Ophthamological	RHO, RP4, OPN2
+2483	Retinitis pigmentosa, digenic	Ophthamological	ROM1, ROSP1
+2484	Retinitis pigmentosa, digenic	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+2485	Retinitis pigmentosa, juvenile	Ophthamological	AIPL1, LCA4
+2486	Retinitis pigmentosa, late onset	Ophthamological	NR2E3, PNR, ESCS
+2487	Retinitis pigmentosa, late-onset dominant	Ophthamological	CRX, CORD2, CRD
+2488	Retinitis pigmentosa, MERTK-related	Ophthamological	MERTK
+2489	Retinitis pigmentosa, X-linked with deafness and sinorespiratory infections	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+2490	Retinitis pigmentosa, X-linked, with recurrent respiratory infections	Ophthamological	RPGR, RP3, CRD, RP15, COD1
+2491	Retinitis punctata albescens	Ophthamological	RDS, RP7, PRPH2, PRPH, AVMD, AOFMD
+2492	Retinitis punctata albescens	Ophthamological	RLBP1
+2493	Retinoblastoma	Cancer	RB1
+2494	Retinol binding protein, deficiency of	Ophthamological	RBP4
+2495	Retinoschisis	Ophthamological	RS1, XLRS1
+2496	Rett syndrome	Neurological	MECP2, RTT, PPMX, MRX16, MRX79
+2497	Rett syndrome, atypical	Neurological	CDKL5, STK9
+2498	Rett syndrome, preserved speech variant	Neurological	MECP2, RTT, PPMX, MRX16, MRX79
+2499	Rhabdoid predisposition syndrome, familial	Cancer	SMARCB1, SNF5, INI1, RDT
+2500	Rhabdoid tumors	Cancer	SMARCB1, SNF5, INI1, RDT
+2501	Rhabdomyosarcoma	Cancer	SLC22A1L, BWSCR1A, IMPT1
+2502	Rhabdomyosarcoma, alveolar	Cancer	FOXO1A, FKHR
+2503	Rhabdomyosarcoma, alveolar	Cancer	PAX3, WS1, HUP2, CDHS
+2504	Rhabdomyosarcoma, alveolar	Cancer	PAX7
+2505	Rheumatoid arthritis, progression of	Connective tissue	IL10, CSIF
+2506	Rheumatoid arthritis, susceptibility to	Connective tissue	MHC2TA, C2TA
+2507	Rheumatoid arthritis, susceptibility to	Connective tissue	NFKBIL1
+2508	Rheumatoid arthritis, susceptibility to	Connective tissue	PADI4, PADI5, PAD
+2509	Rheumatoid arthritis, susceptibility to	Connective tissue	PTPN8, PEP, PTPN22, LYP
+2510	Rheumatoid arthritis, susceptibility to	Connective tissue	RUNX1, CBFA2, AML1
+2511	Rheumatoid arthritis, susceptibility to	Connective tissue	SLC22A4, OCTN1
+2512	Rheumatoid arthritis, systemic juvenile, susceptibility to	Connective tissue	MIF
+2513	Rhizomelic chondrodysplasia punctata, type 1	multiple	PEX7, RCDP1
+2514	Rhizomelic chondrodysplasia punctata, type 3	multiple	AGPS, ADHAPS
+2515	Rh-mod syndrome	Hematological	RHAG, RH50A
+2516	Rh-negative blood type	Hematological	RHD
+2517	Rh-null disease, amorph type	Hematological	RHCE
+2518	Ribose 5-phosphate isomerase deficiency	Metabolic	RPIA, RPI
+2519	Rickets due to defect in vitamin D 25-hydroxylation	Bone	CYP2R1
+2520	Rickets, vitamin D-resistant, type IIA	Bone	VDR
+2521	Rickets, vitamin D-resistant, type IIB	Bone	VDR
+2522	Rieger anomaly	multiple	FOXC1, FKHL7, FREAC3
+2523	Rieger syndrome	multiple	PITX2, IDG2, RIEG1, RGS, IGDS2
+2524	Ring dermoid of cornea	Ophthamological	PITX2, IDG2, RIEG1, RGS, IGDS2
+2525	Rippling muscle disease	Muscular	CAV3, LGMD1C
+2526	Roberts syndrome	Developmental	ESCO2
+2527	Robinow syndrome, autosomal recessive	multiple	ROR2, BDB1, BDB, NTRKR2
+2528	Rokitansky-Kuster-Hauser syndrome	Developmental	WNT4
+2529	Rothmund-Thomson syndrome	multiple	RECQL4, RTS, RECQ4
+2530	Roussy-Levy syndrome	multiple	MPZ, CMT1B, CMTDI3, CHM, DSS
+2531	Roussy-Levy syndrome	multiple	PMP22, CMT1A, CMT1E, DSS
+2532	Rubenstein-Taybi syndrome	multiple	CREBBP, CBP, RSTS
+2533	Rubinstein-Taybi syndrome	multiple	EP300
+2534	Saethre-Chotzen syndrome	Developmental	FGFR2, BEK, CFD1, JWS
+2535	Saethre-Chotzen syndrome	Developmental	TWIST, ACS3, SCS
+2536	Saethre-Chotzen syndrome with eyelid anomalies	Developmental	TWIST, ACS3, SCS
+2537	Salivary adenoma	Cancer	HMGA2, HMGIC, BABL, LIPO
+2538	Salla disease	Metabolic	SLC17A5, SIASD, SLD
+2539	Sandhoff disease, infantile, juvenile, and adult forms	Metabolic	HEXB
+2540	Sanfilippo syndrome, type A	Metabolic	SGSH, MPS3A, SFMD
+2541	Sanfilippo syndrome, type B	Metabolic	NAGLU
+2542	Sarcoidosis, early-onset	Immunological	CARD15, NOD2, IBD1, CD, ACUG, PSORAS1
+2543	Sarcoidosis, susceptibility to	Immunological	BTNL2
+2544	Sarcoidosis, susceptibility to	Immunological	HLA-DR1B
+2545	Sarcoma, synovial	Cancer	SSX1, SSRC
+2546	Sarcoma, synovial	Cancer	SSX2
+2547	SARS, progression of	Immunological	ACE, DCP1, ACE1
+2548	Schimke immunoosseous dysplasia	Connective tissue	SMARCAL1, HARP, SIOD
+2549	Schindler disease, type I	Metabolic	NAGA
+2550	Schindler disease, type III	Metabolic	NAGA
+2551	Schizencephaly	Neurological	EMX2
+2552	Schizoaffective disorder, susceptibility to	Psychiatric	DISC1
+2553	Schizophrenia 5	Psychiatric	TRAR4
+2554	Schizophrenia, chronic	Psychiatric	APP, AAA, CVAP, AD1
+2555	Schizophrenia, susceptibility to	Psychiatric	COMT
+2556	Schizophrenia, susceptibility to	Psychiatric	DISC1
+2557	Schizophrenia, susceptibility to	Psychiatric	HTR2A
+2558	Schizophrenia, susceptibility to	Psychiatric	RTN4R, NOGOR
+2559	Schizophrenia, susceptibility to	Psychiatric	SYN2
+2560	Schizophrenia, susceptibility to	Psychiatric	EPN4, EPNR, KIAA0171, SCZD1
+2561	Schizophrenia, susceptibility to, 4 600850	Psychiatric	PRODH, PRODH2, SCZD4
+2562	Schwannomatosis	Cancer	NF2
+2563	Schwartz-Jampel syndrome, type 1	multiple	HSPG2, PLC, SJS, SJA, SJS1
+2564	SCID, autosomal recessive, T-negative/B-positive type	Immunological	JAK3, JAKL
+2565	Sclerosteosis	Skeletal	SOST
+2566	Scurvy	Nutritional	GULOP, GULO
+2567	Sea-blue histiocyte disease	Hematological	APOE, AD2
+2568	Seasonal affective disorder, susceptibility to	Psychiatric	HTR2A
+2569	Sebastian syndrome	Hematological	MYH9, MHA, FTNS, DFNA17
+2570	Seckel syndrome 1	Developmental	ATR, FRP1, SCKL
+2571	Segawa syndrome, recessive	Neurological	TH, TYH
+2572	Seizures, afebrile	Neurological	SCN2A1, SCN2A
+2573	Seizures, benign familial neonatal-infantile	Neurological	SCN2A1, SCN2A
+2574	Selective T-cell defect	Immunological	ZAP70, SRK, STD
+2575	Self-healing collodion baby	Dermatological	TGM1, ICR2, LI1
+2576	SEMD, Pakistani type	Connective tissue	PAPSS2, ATPSK2
+2577	Senior-Loken syndrome-1	Renal	NPHP1, NPH1, SLSN1
+2578	Senior-Loken syndrome 4	Renal	NPHP4, SLSN4
+2579	Senior-Loken syndrome 5	Renal	IQCB1, NPHP5, KIAA0036
+2580	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	Ophthamological	POLG, POLG1, POLGA, PEO
+2581	Sepiapterin reductase deficiency	Metabolic	SPR
+2582	Sepsis, susceptibility to	Immunological	CASP12, CASP12P1
+2583	Septic shock, susceptibility to	Immunological	TNF, TNFA
+2584	Septooptic dysplasia	multiple	HESX1, RPX
+2585	Sertoli cell-only syndrome, susceptibility to	Renal	USP26
+2586	Severe combined immunodeficiency, Athabascan type	Immunological	DCLRE1C, ARTEMIS, SCIDA
+2587	Severe combined immunodeficiency, B cell-negative	Immunological	RAG1
+2588	Severe combined immunodeficiency, B cell-negative	Immunological	RAG2
+2589	Severe combined immunodeficiency due to ADA deficiency	Immunological	ADA
+2590	Severe combined immunodeficiency due to PTPRC deficiency	Immunological	PTPRC, CD45, LCA
+2591	Severe combined immunodeficiency, T-cell negative, B-cell/natural killer cell-positive type	Immunological	IL7R
+2592	Severe combined immunodeficiency, T-negative/B-positive type	Immunological	CD3D, T3D
+2593	Severe combined immunodeficiency, X-linked	Immunological	IL2RG, SCIDX1, SCIDX, IMD4
+2594	Sex reversal, XY, with adrenal failure	Unclassified	FTZF1, FTZ1, SF1
+2595	Sezary syndrome	Cancer	BCL10
+2596	Shah-Waardenburg syndrome	multiple	EDN3
+2597	Short stature, autosomal dominant, with normal serum growth hormone binding protein	Skeletal	GHR
+2598	Short stature, idiopathic	Skeletal	GHR
+2599	Short stature, idiopathic familial	Skeletal	SHOX, GCFX, SS, PHOG
+2600	Short stature, idiopathic familial	Skeletal	SHOXY
+2601	Short stature, pituitary and cerebellar defects, and small sella turcica	Skeletal	LHX4
+2602	Shprintzen-Goldberg syndrome	multiple	FBN1, MFS1, WMS
+2603	Shwachman-Diamond syndrome	multiple	SBDS, SDS
+2604	Sialic acid storage disorder, infantile	Metabolic	SLC17A5, SIASD, SLD
+2605	Sialidosis, type I	Metabolic	NEU1, NEU, SIAL1
+2606	Sialidosis, type II	Metabolic	NEU1, NEU, SIAL1
+2607	Sialuria	Metabolic	GNE, GLCNE, IBM2, DMRV, NM
+2608	Sickle cell anemia	Hematological	HBB
+2609	Sick sinus syndrome	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+2610	Silver spastic paraplegia syndrome	Neurological	BSCL2, SPG17
+2611	Simpson-Golabi-Behmel syndrome, type 1	multiple	GPC3, SDYS, SGBS1
+2612	Sitosterolemia	Metabolic	ABCG5
+2613	Sitosterolemia	Metabolic	ABCG8
+2614	Situs ambiguus	Developmental	NODAL
+2615	Situs inversus viscerum	Developmental	DNAH11, DNAHC11
+2616	Sjogren-Larsson syndrome	Metabolic	ALDH3A2, ALDH10, SLS, FALDH
+2617	Skin fragility-woolly hair syndrome	Dermatological	DSP, KPPS2, PPKS2
+2618	Slow acetylation	Metabolic	NAT2, AAC2
+2619	Slowed nerve conduction velocity, AD	Neurological	ARHGEF10, KIAA0294
+2620	Small patella syndrome	Skeletal	TBX4
+2621	SMED Strudwick type	Skeletal	COL2A1
+2622	Smith-Fineman-Myers syndrome	multiple	ATRX, XH2, XNP, MRXS3, SHS
+2623	Smith-Lemli-Opitz syndrome	multiple	DHCR7, SLOS
+2624	Smith-Magenis syndrome	multiple	RAI1, SMCR, SMS
+2625	Smith-McCort dysplasia	Skeletal	DYM, FLJ90130, DMC, SMC
+2626	Solitary median maxillary central incisor	Skeletal	SHH, HPE3, HLP3, SMMCI
+2627	Somatotrophinoma	Endocrine	GNAS, GNAS1, GPSA, POH, PHP1B, PHP1A, AHO
+2628	Sorsby fundus dystrophy	Ophthamological	TIMP3, SFD
+2629	Sotos syndrome	Developmental	NSD1, ARA267, STO
+2630	Spastic ataxia, Charlevoix-Saguenay type	Neurological	SACS, ARSACS
+2631	Spastic paralysis, infantile onset ascending	Neurological	ALS2, ALSJ, PLSJ, IAHSP
+2632	Spastic paraplegia 10	Neurological	KIF5A, NKHC, SPG10
+2633	Spastic paraplegia-13	Neurological	HSPD1, SPG13, HSP60
+2634	Spastic paraplegia-2	Neurological	PLP1, PMD
+2635	Spastic paraplegia-3A	Neurological	SPG3A
+2636	Spastic paraplegia-4	Neurological	SPG4, SPAST
+2637	Spastic paraplegia-6	Neurological	NIPA1, SPG6
+2638	Spastic paraplegia-7	Neurological	PGN, SPG7, CMAR, CAR
+2639	Specific granule deficiency	Immunological	CEBPE, CRP1
+2640	Speech-language disorder-1	Neurological	FOXP2, SPCH1, TNRC10, CAGH44
+2641	Spermatogenic failure, susceptibility to	Renal	DAZL, DAZH, SPGYLA
+2642	Spherocytosis-1	Hematological	SPTB
+2643	Spherocytosis-2	Hematological	ANK1, SPH2
+2644	Spherocytosis, hereditary	Hematological	SLC4A1, AE1, EPB3
+2645	Spherocytosis, hereditary, Japanese type	Hematological	EPB42
+2646	Spherocytosis, recessive	Hematological	SPTA1
+2647	Spina bifida	Developmental	MTHFD, MTHFC
+2648	Spina bifida, risk of, 601634	Developmental	MTR
+2649	Spina bifida, risk of, 601634	Developmental	MTRR
+2650	Spinal and bulbar muscular atrophy of Kennedy	Muscular	AR, DHTR, TFM, SBMA, KD, SMAX1
+2651	Spinal muscrular atrophy, late-onset, Finkel type	Muscular	VAPB, VAPC, ALS8
+2652	Spinal muscular atrophy-1	Muscular	SMN1, SMA1, SMA2, SMA3, SMA4
+2653	Spinal muscular atrophy-2	Muscular	SMN1, SMA1, SMA2, SMA3, SMA4
+2654	Spinal muscular atrophy-3	Muscular	SMN1, SMA1, SMA2, SMA3, SMA4
+2655	Spinal muscular atrophy-4	Muscular	SMN1, SMA1, SMA2, SMA3, SMA4
+2656	Spinal muscular atrophy, distal, type V	Muscular	BSCL2, SPG17
+2657	Spinal muscular atrophy, distal, type V	Muscular	GARS, SMAD1, CMT2D
+2658	Spinal muscular atrophy, juvenile	Muscular	HEXB
+2659	Spinal muscular atrophy with respiratory distress	Muscular	IGHMBP2, SMUBP2, CATF1, SMARD1
+2660	Spinocerebellar ataxia-10	Neurological	ATXN10, SCA10
+2661	Spinocerebellar ataxia-1	Neurological	ATXN1, ATX1, SCA1
+2662	Spinocerebellar ataxia 12	Neurological	PPP2R2B
+2663	Spinocerebellar ataxia 14	Neurological	PRKCG, PKCC, PKCG, SCA14
+2664	Spinocerebellar ataxia 17	Neurological	TBP, SCA17
+2665	Spinocerebellar ataxia-2	Neurological	ATXN2, ATX2, SCA2
+2666	Spinocerebellar ataxia 25	Neurological	SCA25
+2667	Spinocerebellar ataxia-27	Neurological	FGF14, FHF4, SCA27
+2668	Spinocerebellar ataxia 4, pure Japanese type	Neurological	PLEKHG4
+2669	Spinocerebellar ataxia-6	Neurological	CACNA1A, CACNL1A4, SCA6
+2670	Spinocerebellar ataxia-7	Neurological	ATXN7, SCA7, OPCA3
+2671	Spinocerebellar ataxia 8	Neurological	SCA8
+2672	Spinocerebellar ataxia, autosomal recessive with axonal neuropathy	Neurological	TDP1
+2673	Split hand/foot malformation, type 3	Skeletal	SHFM3, DAC
+2674	Split-hand/foot malformation, type 4	Skeletal	TP73L, TP63, KET, EEC3, SHFM4, LMS, RHS
+2675	Spondylocarpotarsal synostosis syndrome	Skeletal	FLNB, SCT, AOI
+2676	Spondylocostal dysostosis, autosomal recessive, 1	Skeletal	DLL3, SCDO1
+2677	Spondylocostal dysostosis, autosomal recessive 2	Skeletal	MESP2
+2678	Spondyloepimetaphyseal dysplasia	Skeletal	MATN3, EDM5, HOA
+2679	Spondyloepiphyseal dysplasia, Kimberley type	Skeletal	AGC1, CSPG1, MSK16, SEDK
+2680	Spondyloepiphyseal dysplasia, Omani type	Skeletal	CHST3, C6ST, C6ST1
+2681	Spondyloepiphyseal dysplasia tarda	Skeletal	SEDL, SEDT
+2682	Spondyloepiphyseal dysplasia tarda with progressive arthropathy	Skeletal	WISP3, PPAC, PPD
+2683	Spondylometaphyseal dysplasia, Japanese type	Skeletal	COL10A1
+2684	Squamous cell carcinoma, burn scar-related, somatic	Cancer	TNFRSF6, APT1, FAS, CD95, ALPS1A
+2685	Squamous cell carcinoma, head and neck	Cancer	ING1
+2686	Squamous cell carcinoma, head and neck	Cancer	TNFRSF10B, DR5, TRAILR2
+2687	Stapes ankylosis syndrome without symphalangism	multiple	NOG, SYM1, SYNS1
+2688	Stargardt disease-1	Ophthamological	ABCA4, ABCR, STGD1, FFM, RP19
+2689	Stargardt disease 3	Ophthamological	ELOVL4, ADMD, STGD2, STGD3
+2690	Startle disease, autosomal recessive	Neurological	GLRA1, STHE
+2691	Startle disease/hyperekplexia, autosomal dominant	Neurological	GLRA1, STHE
+2692	STAT1 deficiency, complete	Unclassified	STAT1
+2693	Statins, attenuated cholesterol lowering by	Metabolic	HMGCR
+2694	Steatocystoma multiplex	Dermatological	KRT17, PC2, PCHC1
+2695	Stem-cell leukemia/lymphoma syndrome	Cancer	ZNF198, SCLL, RAMP, FIM
+2696	Stevens-Johnson syndrome, carbamazepine-induced, susceptibility to	Dermatological	HLA-B
+2697	Stickler syndrome, type I	multiple	COL2A1
+2698	Stickler syndrome, type II	multiple	COL11A1, STL2
+2699	Stickler syndrome, type III	multiple	COL11A2, STL3, DFNA13
+2700	Stomach cancer	Cancer	KRAS2, RASK2
+2701	Stroke, susceptibility to, 1	Cardiovascular	PDE4D, DPDE3, STRK1
+2702	Stroke, susceptibility to	Cardiovascular	ALOX5AP, FLAP
+2703	Stuve-Wiedemann syndrome/Schwartz-Jampel type 2 syndrome	multiple	LIFR, STWS, SWS, SJS2
+2704	Subcortical laminal heteropia, X-linked	Neurological	DCX, DBCN, LISX
+2705	Subcortical laminar heterotopia	Neurological	PAFAH1B1, LIS1
+2706	Succinic semialdehyde dehydrogenase deficiency	Metabolic	SSADH
+2707	Sucrose intolerance	Metabolic	SI
+2708	Sudden infant death with dysgenesis of the testes syndrome	Unclassified	TSPYL1, TSPYL, SIDDT
+2709	Sulfite oxidase deficiency	Metabolic	SUOX
+2710	Superoxide dismutase, elevated extracellular	Unclassified	SOD3
+2711	Supranuclear palsy, progressive	Neurological	MAPT, MTBT1, DDPAC, MSTD
+2712	Supranuclear palsy, progressive atypical	Neurological	MAPT, MTBT1, DDPAC, MSTD
+2713	Supravalvar aortic stenosis	Cardiovascular	ELN
+2714	Surfactant deficiency, neonatal	Respiratory	ABCA3, ABC3
+2715	Surfactant protein C deficiency	Respiratory	SFTPC, SFTP2
+2716	Sutherland-Haan syndrome-like	multiple	ATRX, XH2, XNP, MRXS3, SHS
+2717	Sweat chloride elevation without CF	Unclassified	CFTR, ABCC7, CF, MRP7
+2718	Symphalangism, proximal	Skeletal	NOG, SYM1, SYNS1
+2719	Syndactyly, type III	Skeletal	GJA1, CX43, ODDD, SDTY3, ODOD
+2720	Synostoses syndrome, multiple, 1	multiple	NOG, SYM1, SYNS1
+2721	Synpolydactyly, 3/3'4, associated with metacarpal and metatarsal synostoses	Skeletal	FBLN1
+2722	Synpolydactyly, type II	Skeletal	HOXD13, HOX4I, SPD
+2723	Synpolydactyly with foot anomalies	Skeletal	HOXD13, HOX4I, SPD
+2724	Systemic lupus erythematosus, susceptibility	Immunological	TNFSF6, APT1LG1, FASL
+2725	Systemic lupus erythematosus, susceptibility to	Immunological	DNASE1, DNL1
+2726	Systemic lupus erythematosus, susceptibility to	Immunological	PTPN8, PEP, PTPN22, LYP
+2727	Systemic lupus erythematosus, susceptibility to, 2, 605218	Immunological	PDCD1, SLEB2
+2728	Tall stature, susceptibility to	Skeletal	MCM6
+2729	Tangier disease	Metabolic	ABCA1, ABC1, HDLDT1, TGD
+2730	Tarsal-carpal coalition syndrome	Skeletal	NOG, SYM1, SYNS1
+2731	Tauopathy and respiratory failure	Neurological	MAPT, MTBT1, DDPAC, MSTD
+2732	Tay-Sachs disease	Metabolic	HEXA, TSD
+2733	T-cell acute lymphoblastic leukemia	Cancer	BAX
+2734	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	Immunological	WHN
+2735	T-cell prolymphocytic leukemia, sporadic	Cancer	ATM, ATA, AT1
+2736	Temperature-sensitive apoptosis, cellular	Unclassified	DAD1
+2737	Tetra-amelia, autosomal recessive	multiple	WNT3, INT4
+2738	Tetralogy of Fallot	Cardiovascular	JAG1, AGS, AHD
+2739	Tetralogy of Fallot	Cardiovascular	ZFPM2, FOG2
+2740	Tetrology of Fallot	Cardiovascular	NKX2E, CSX
+2741	Thalassemia, alpha-	Hematological	HBA2
+2742	Thalassemia-beta, dominant inclusion-body	Hematological	HBB
+2743	Thalassemia, delta-	Hematological	HBD
+2744	Thalassemia due to Hb Lepore	Hematological	HBD
+2745	Thalassemia, Hispanic gamma-delta-beta	Hematological	LCRB
+2746	Thalassemias, alpha-	Hematological	HBA1
+2747	Thalassemias, beta-	Hematological	HBB
+2748	Thanatophoric dysplasia, types I and II	Skeletal	FGFR3, ACH
+2749	Thiamine-responsive megaloblastic anemia syndrome	Hematological	SLC19A2, THTR1
+2750	Thrombocythemia, essential	Hematological	JAK2
+2751	Thrombocythemia, essential	Hematological	THPO, MGDF, MPLLG, TPO
+2752	Thrombocytopenia-2	Hematological	FLJ14813, THC2
+2753	Thrombocytopenia, congenital amegakaryocytic	Hematological	MPL, TPOR, MPLV
+2754	Thrombocytopenia, X-linked	Hematological	WAS, IMD2, THC
+2755	Thrombocytopenia, X-linked, intermittent	Hematological	WAS, IMD2, THC
+2756	Thromboembolism susceptibility due to factor V Leiden	Hematological	F5
+2757	Thrombophilia due to factor V Liverpool	Hematological	F5
+2758	Thrombophilia due to heparin cofactor II deficiency	Hematological	HCF2, HC2, SERPIND1
+2759	Thrombophilia due to HRG deficiency	Hematological	HRG
+2760	Thrombophilia due to protein C deficiency	Hematological	PROC
+2761	Thrombophilia due to thrombomodulin defect	Hematological	THBD, THRM
+2762	Thrombophilia, dysfibrinogenemic	Hematological	FGB
+2763	Thrombophilia, dysfibrinogenemic	Hematological	FGG
+2764	Thrombosis, hyperhomocysteinemic	Hematological	CBS
+2765	Thrombotic thrombocytopenic purpura, familial	Hematological	ADAMTS13, VWFCP, TTP
+2766	Thrombycytosis, susceptibility to	Hematological	MPL, TPOR, MPLV
+2767	Thymine-uraciluria	Metabolic	DPYD, DPD
+2768	Thyroid adenoma, hyperfunctioning	Cancer	TSHR
+2769	Thyroid carcinoma	Cancer	TP53, P53, LFS1
+2770	Thyroid carcinoma, follicular	Cancer	MINPP1, HIPER1
+2771	Thyroid carcinoma, follicular	Cancer	PTEN, MMAC1
+2772	Thyroid carcinoma, follicular, somatic	Cancer	HRAS
+2773	Thyroid carcinoma, papillary	Cancer	GOLGA5, RFG5, PTC5
+2774	Thyroid carcinoma, papillary	Cancer	NCOA4, ELE1, PTC3
+2775	Thyroid carcinoma, papillary	Cancer	PCM1, PTC4
+2776	Thyroid carcinoma, papillary	Cancer	PRKAR1A, TSE1, CNC1, CAR
+2777	Thyroid carcinoma, papillary	Cancer	TIF1G, RFG7, PTC7
+2778	Thyroid carcinoma, papillary	Cancer	TRIM24, TIF1, TIF1A, PTC6
+2779	Thyroid hormone organification defect IIA	Endocrine	TPO, TPX
+2780	Thyroid hormone resistance	Endocrine	THRB, ERBA2, THR1
+2781	Thyroid hormone resistance, autosomal recessive	Endocrine	THRB, ERBA2, THR1
+2782	Thyrotoxic periodic paralysis, susceptibility to	Endocrine	CACNA1S, CACNL1A3, CCHL1A3
+2783	Thyrotropin-releasing hormone resistance, generalized	Endocrine	TRHR
+2784	Thyroxine-binding globulin deficiency	Hematological	TBG
+2785	Tietz syndrome	multiple	MITF, WS2A
+2786	Timothy syndrome	multiple	CACNA1C, CACNL1A1, CCHL1A1, TS
+2787	Toenail dystrophy, isolated	Dermatological	COL7A1
+2788	Tolbutamide poor metabolizer	Unclassified	CYP2C9
+2789	Total iodide organification defect	Endocrine	TPO, TPX
+2790	Townes-Brocks branchiootorenal-like syndrome	multiple	SALL1, HSAL1, TBS
+2791	Townes-Brocks syndrome	multiple	SALL1, HSAL1, TBS
+2792	Transaldolase deficiency	Metabolic	TALDO1
+2793	Transcobalamin II deficiency	Hematological	TCN2, TC2
+2794	Transient bullous of the newborn	Dermatological	COL7A1
+2795	Transposition of great arteries, dextro-looped	Developmental	CFC1, CRYPTIC, HTX2
+2796	Transposition of the great arteries, dextro-looped	Developmental	THRAP2, PROSIT240, TRAP240L, KIAA1025
+2797	Treacher Collins mandibulofacial dysostosis	Developmental	TCOF1, MFD1
+2798	Tremor, familial essential, 2	Neurological	HS1BP3, FLJ14249, ETM2
+2799	Trichodontoosseous syndrome	multiple	DLX3, TDO
+2800	Trichorhinophalangeal syndrome, type I	Developmental	TRPS1
+2801	Trichorhinophalangeal syndrome, type III	Developmental	TRPS1
+2802	Trichothiodystrophy	Dermatological	ERCC3, XPB
+2803	Trichothiodystrophy	Dermatological	ERCC2, EM9
+2804	Trichothiodystrophy, complementation group A	Dermatological	TGF2H5, TTDA, TFB5, C6orf175
+2805	Trichothiodystrophy, nonphotosensitive 1	Dermatological	TTDN1, C7orf11, ABHS
+2806	Trifunctional protein deficiency, type 1	Metabolic	HADHA, MTPA
+2807	Trifunctional protein deficiency, type II	Metabolic	HADHB
+2808	Trismus-pseudocomptodactyly syndrome	multiple	MYH8
+2809	Tropical calcific pancreatitis	Gastrointestinal	SPINK1, PSTI, PCTT, TATI
+2810	Troyer syndrome	Neurological	SPG20
+2811	TSC2 angiomyolipomas, renal, modifier of	multiple	IFNG
+2812	Tuberculosis, susceptibility to	Respiratory	IFNGR1
+2813	Tuberculosis, susceptibility to	Respiratory	IFNG
+2814	Tuberous sclerosis-1	multiple	TSC1, LAM
+2815	Tuberous sclerosis-2	multiple	TSC2, LAM
+2816	Turcot syndrome	Cancer	APC, GS, FPC
+2817	Turcot syndrome with glioblastoma	Cancer	MLH1, COCA2, HNPCC2
+2818	Turcot syndrome with glioblastoma	Cancer	PMS2, PMSL2, HNPCC4
+2819	Twinning, dizygotic	Unclassified	FSHR, ODG1
+2820	Tyrosinemia, type I	Metabolic	FAH
+2821	Tyrosinemia, type II	Metabolic	TAT
+2822	Tyrosinemia, type III	Metabolic	HPD
+2823	Ullrich congenital muscular dystrophy	Muscular	COL6A1, OPLL
+2824	Ullrich congenital muscular dystrophy	Muscular	COL6A3
+2825	Ullrich scleroatonic muscular dystrophy	Muscular	COL6A2
+2826	Ulnar-mammary syndrome	multiple	TBX3
+2827	Unipolar depression, susceptibility to	Psychiatric	TPH2, NTPH
+2828	Unna-Thost disease, nonepidermolytic	Dermatological	KRT1
+2829	Urolithiasis, 2,8-dihydroxyadenine	Metabolic	APRT
+2830	Urolithiasis, hypophosphatemic	Metabolic	SLC17A2, NPT2
+2831	Usher syndrome, type 1B	multiple	MYO7A, USH1B, DFNB2, DFNA11
+2832	Usher syndrome, type 1C	multiple	USH1C, DFNB18
+2833	Usher syndrome, type 1D	multiple	CDH23, USH1D
+2834	Usher syndrome, type 1F	multiple	PCDH15, DFNB23
+2835	Usher syndrome, type 1G	multiple	SANS, USH1G
+2836	Usher syndrome, type 2A	multiple	USH2A
+2837	Usher syndrome, type 3	multiple	USH3A, USH3
+2838	Usher syndrome, type IIC	multiple	MASS1, VLGR1, KIAA0686, FEB4, USH2C
+2839	Uterine leiomyoma	Cancer	HMGA2, HMGIC, BABL, LIPO
+2840	UV-induced skin damage, vulnerability to	Dermatological	MC1R
+2841	van Buchem disease, type 2	Unclassified	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2
+2842	van der Woude syndrome	Developmental	IRF6, VWS, LPS, PIT, PPS, OFC6
+2843	VATER association with hydrocephalus	multiple	PTEN, MMAC1
+2844	Velocardiofacial syndrome	multiple	TBX1, DGS, CTHM, CAFS, TGA, DORV, VCFS, DGCR
+2845	Venous malformations, multiple cutaneous and mucosal	Cardiovascular	TEK, TIE2, VMCM
+2846	Venous thrombosis, susceptibility to	Cardiovascular	SERPINA10, ZPI
+2847	Ventricular fibrillation, idiopathic	Cardiovascular	SCN5A, LQT3, IVF, HB1, SSS1
+2848	Ventricular tachycardia, idiopathic	Cardiovascular	GNAI2, GNAI2B, GIP
+2849	Ventricular tachycardia, stress-induced polymorphic	Cardiovascular	CASQ2
+2850	Ventricular tachycardia, stress-induced polymorphic	Cardiovascular	RYR2, VTSIP
+2851	Vertical talus, congenital	Skeletal	HOXD10, HOX4D
+2852	Viral infections, recurrent	Immunological	FCGR3A, CD16, IGFR3
+2853	Viral infection, susceptibility to	Immunological	OAS1, OIAS
+2854	Virilization, maternal and fetal, from placental aromatase deficiency	Developmental	CYP19A1, CYP19, ARO
+2855	Vitamin K-dependent clotting factors, combined deficiency of, 2	Hematological	VKORC1, VKOR, VKCFD2, FLJ00289
+2856	Vitamin K-dependent coagulation defect	Hematological	GGCX
+2857	Vitelliform macular dystrophy, adult-onset	Ophthamological	VMD2
+2858	VLCAD deficiency	Metabolic	ACADVL, VLCAD
+2859	Vohwinkel syndrome	multiple	GJB2, CX26, DFNB1, PPK, DFNA3, KID, HID
+2860	Vohwinkel syndrome with ichthyosis	multiple	LOR
+2861	von Hippel-Lindau disease, modification of	Cancer	CCND1, PRAD1, BCL1
+2862	von Hippel-Lindau syndrome	Cancer	VHL
+2863	von Willebrand disease	Hematological	VWF, F8VWF
+2864	Waardenburg-Shah syndrome	multiple	EDNRB, HSCR2, ABCDS
+2865	Waardenburg-Shah syndrome	multiple	SOX10, WS4
+2866	Waardenburg syndrome/albinism, digenic	multiple	TYR
+2867	Waardenburg syndrome/ocular albinism, digenic	multiple	MITF, WS2A
+2868	Waardenburg syndrome, type I	multiple	PAX3, WS1, HUP2, CDHS
+2869	Waardenburg syndrome, type IIA	multiple	MITF, WS2A
+2870	Waardenburg syndrome, type III	multiple	PAX3, WS1, HUP2, CDHS
+2871	Waardenburg syndrome, typ IID	multiple	SNAI2, SLUG, WS2D
+2872	Wagner syndrome	Ophthamological	COL2A1
+2873	WAGR syndrome	multiple	WT1
+2874	Walker-Warburg syndrome	multiple	FCMD
+2875	Walker-Warburg syndrome	multiple	POMT1
+2876	Warburg micro syndrome 1	multiple	RAB3GAP, WARBM1, P130
+2877	Warfarin resistance	Hematological	VKORC1, VKOR, VKCFD2, FLJ00289
+2878	Warfarin sensitivity	Hematological	CYP2C9
+2879	Warfarin sensitivity	Hematological	F9, HEMB
+2880	Watson syndrome	Cancer	NF1, VRNF, WSS, NFNS
+2881	Weaver syndrome	Developmental	NSD1, ARA267, STO
+2882	Wegener-like granulomatosis	Immunological	TAP2, ABCB3, PSF2, RING11
+2883	Weill-Marchesani syndrome, dominant	Connective tissue	FBN1, MFS1, WMS
+2884	Weill-Marchesani syndrome, recessive	Connective tissue	ADAMTS10, WMS
+2885	Weissenbacher-Zweymuller syndrome	Connective tissue	COL11A2, STL3, DFNA13
+2886	Werner syndrome	multiple	RECQL2, RECQ3, WRN
+2887	Wernicke-Korsakoff syndrome, susceptibility to	Metabolic	TKT
+2888	Weyers acrodental dysostosis	Skeletal	EVC
+2889	WHIM syndrome	Immunological	CXCR4, D2S201E, NPY3R, WHIM
+2890	White sponge nevus	Connective tissue	KRT13
+2891	White sponge nevus	Connective tissue	KRT4, CYK4
+2892	Williams-Beuren syndrome	multiple	ELN
+2893	Wilms tumor	Cancer	BRCA2, FANCD1
+2894	Wilms tumor, somatic	Cancer	GPC3, SDYS, SGBS1
+2895	Wilms tumor susceptibility-5	Cancer	POU6F2, WTSL, WT5
+2896	Wilms tumor, type 1	Cancer	WT1
+2897	Wilson disease	Metabolic	ATP7B, WND
+2898	Wiskott-Aldrich syndrome	Immunological	WAS, IMD2, THC
+2899	Witkop syndrome	Developmental	MSX1, HOX7, HYD1, OFC5
+2900	Wolcott-Rallison syndrome	Bone	EIF2AK3, PEK, PERK, WRS
+2901	Wolff-Parkinson-White syndrome	Cardiovascular	PRKAG2, WPWS
+2902	Wolfram syndrome	Metabolic	WFS1, WFRS, WFS, DFNA6
+2903	Wolman disease	Metabolic	LIPA
+2904	Xanthinuria, type I	Metabolic	XDH
+2905	Xeroderma pigmentosum, group A	Dermatological	XPA
+2906	Xeroderma pigmentosum, group B	Dermatological	ERCC3, XPB
+2907	Xeroderma pigmentosum, group C	Dermatological	XPC, XPCC
+2908	Xeroderma pigmentosum, group D	Dermatological	ERCC2, EM9
+2909	Xeroderma pigmentosum, group E, DDB-negative subtype	Dermatological	DDB2
+2910	Xeroderma pigmentosum, group F	Dermatological	ERCC4, XPF
+2911	Xeroderma pigmentosum, group G	Dermatological	ERCC5, XPG
+2912	Xeroderma pigmentosum, variant type	Dermatological	POLH, XPV
+2913	X-inactivation, familial skewed	Unclassified	XIC, XCE, XIST, SXI1
+2914	XLA and isolated growth hormone deficiency	Immunological	BTK, AGMX1, IMD1, XLA, AT
+2915	Yellow nail syndrome	Immunological	FOXC2, FKHL14, MFH1
+2916	Yemenite deaf-blind hypopigmentation syndrome	multiple	SOX10, WS4
+2917	Zellweger syndrome-1	multiple	PEX1, ZWS1
+2918	Zellweger syndrome	multiple	PEX10, NALD
+2919	Zellweger syndrome	multiple	PEX13, ZWS, NALD
+2920	Zellweger syndrome	multiple	PEX14
+2921	Zellweger syndrome	multiple	PEX26
+2922	Zellweger syndrome	multiple	PXF, HK33, D1S2223E, PEX19
+2923	Zellweger syndrome	multiple	PXR1, PEX5, PTS1R
+2924	Zellweger syndrome-2	multiple	ABCD3, PXMP1, PMP70
+2925	Zellweger syndrome-3	multiple	PXMP3, PAF1, PMP35, PEX2
+2926	Zellweger syndrome, complementation group 9	multiple	PEX16
+2927	Zellweger syndrome, complementation group G	multiple	PEX3
+2928	Zlotogora-Ogur syndrome	multiple	HVEC, PVRL1, PVRR1, PRR1
